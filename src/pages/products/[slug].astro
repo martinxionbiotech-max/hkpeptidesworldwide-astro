@@ -16,9 +16,43 @@ const { title, description, category, price, image, tags } = entry.data;
 
 // Try to find a matching image in public/images/
 let imageSrc = image ? `/images/${image}` : null;
+
+const pageUrl = `/products/${entry.id}/`;
+const productSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": title,
+      "description": description,
+      "sku": entry.id,
+      "brand": { "@type": "Brand", "name": "HK Peptides Worldwide" },
+      "category": category,
+      "url": `https://hkpeptidesworldwide.com${pageUrl}`
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptidesworldwide.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptidesworldwide.com/products/" },
+        { "@type": "ListItem", "position": 3, "name": title }
+      ]
+    }
+  ]
+};
+
+if (price) {
+  productSchema["@graph"][0].offers = {
+    "@type": "Offer",
+    "price": price.toString(),
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": `https://hkpeptidesworldwide.com${pageUrl}`
+  };
+}
 ---
 
-<Layout title={title} description={description || `${title} — HK Peptides Worldwide`}>
+<Layout title={title} description={description || `${title} — HK Peptides Worldwide`} type="product" schema={productSchema}>
   <article class="mx-auto max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
     <!-- Breadcrumb -->
     <nav class="mb-6 text-sm text-gray-500">

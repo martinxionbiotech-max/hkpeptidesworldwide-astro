@@ -1,5 +1,5 @@
 ---
-title: "Sermorelin 5 mg Biochemical Research Peptide"
+title: "sermorelin 5 mg"
 slug: sermorelin-5-mg-biochemical-research-peptide
 date: 2025-11-27
 source: https://hkpeptidesworldwide.com/sermorelin-5-mg-biochemical-research-peptide/

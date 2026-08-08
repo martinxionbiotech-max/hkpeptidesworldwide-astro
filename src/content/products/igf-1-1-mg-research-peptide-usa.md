@@ -1,5 +1,5 @@
 ---
-title: "Insulin-like Growth Factor-1 (IGF-1) 1 mg × 10 vials | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "IGF-1 1 mg"
 date: 2026-08-08
 slug: igf-1-1-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/igf-1-1-mg-research-peptide-usa/

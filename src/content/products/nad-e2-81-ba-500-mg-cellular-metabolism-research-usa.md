@@ -1,5 +1,5 @@
 ---
-title: "Nicotinamide Adenine Dinucleotide (NAD+) 500 mg | Research-Grade | HKPEPTIDE WORLDWIDE"
+title: "NAD+ 500 mg"
 date: 2026-08-08
 slug: nad-e2-81-ba-500-mg-cellular-metabolism-research-usa
 source: https://hkpeptidesworldwide.com/nad-e2-81-ba-500-mg-cellular-metabolism-research-usa/

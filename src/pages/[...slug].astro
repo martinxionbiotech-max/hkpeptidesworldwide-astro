@@ -31,9 +31,29 @@ try {
 }
 
 const showBody = !ContentComponent && entry.body;
+
+const pageUrl = `/${entry.id}/`;
+const pageSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "name": title,
+      "description": description || title,
+      "url": `https://hkpeptidesworldwide.com${pageUrl}`
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptidesworldwide.com/" },
+        { "@type": "ListItem", "position": 2, "name": title }
+      ]
+    }
+  ]
+};
 ---
 
-<Layout title={title} description={description || title}>
+<Layout title={title} description={description || title} schema={pageSchema}>
   <article class="mx-auto max-w-3xl px-4 py-8 sm:px-6 lg:px-8">
     <!-- Breadcrumb -->
     <nav class="mb-6 text-sm text-gray-500">

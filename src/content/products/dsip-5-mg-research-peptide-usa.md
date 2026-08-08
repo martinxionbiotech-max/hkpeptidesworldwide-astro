@@ -1,5 +1,5 @@
 ---
-title: "Delta Sleep-Inducing Peptide 5 mg × 10 vials | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "DSIP 5 mg"
 date: 2026-08-08
 slug: dsip-5-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/dsip-5-mg-research-peptide-usa/

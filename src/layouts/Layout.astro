@@ -2,9 +2,24 @@
 export interface Props {
   title: string;
   description?: string;
+  ogImage?: string;
+  schema?: Record<string, any>;
+  type?: 'website' | 'article' | 'product';
+  canonical?: string;
 }
 
-const { title, description } = Astro.props;
+const {
+  title,
+  description = 'HK Peptides Worldwide — Premium research peptides, HPLC-verified, COA-tested, worldwide shipping.',
+  ogImage = '/images/default-og.jpg',
+  schema,
+  type = 'website',
+  canonical,
+} = Astro.props;
+
+const siteUrl = 'https://hkpeptidesworldwide.com';
+const pageUrl = canonical ? `${siteUrl}${canonical}` : new URL(Astro.url.pathname, siteUrl).href;
+const brandTitle = title.includes('HK Peptides Worldwide') ? title : `${title} — HK Peptides Worldwide`;
 ---
 
 <!doctype html>
@@ -14,9 +29,37 @@ const { title, description } = Astro.props;
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" href="/favicon.ico" />
     <meta name="viewport" content="width=device-width" />
+
+    <!-- Primary Meta -->
+    <title>{brandTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={pageUrl} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content={type} />
+    <meta property="og:title" content={brandTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={pageUrl} />
+    <meta property="og:site_name" content="HK Peptides Worldwide" />
+    <meta property="og:locale" content="en_US" />
+    {ogImage && <meta property="og:image" content={`${siteUrl}${ogImage}`} />}
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={brandTitle} />
+    <meta name="twitter:description" content={description} />
+    {ogImage && <meta name="twitter:image" content={`${siteUrl}${ogImage}`} />}
+
+    <!-- hreflang -->
+    <link rel="alternate" hreflang="en" href={pageUrl} />
+    <link rel="alternate" hreflang="x-default" href={pageUrl} />
+
     <meta name="generator" content={Astro.generator} />
-    <title>{title}</title>
-    {description && <meta name="description" content={description} />}
+
+    <!-- Schema.org JSON-LD -->
+    {schema && (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    )}
   </head>
   <body class="min-h-screen bg-white text-gray-900 antialiased">
     <header class="border-b border-gray-200">
@@ -26,7 +69,7 @@ const { title, description } = Astro.props;
           <ul class="flex gap-6 text-sm font-medium text-gray-600">
             <li><a href="/" class="hover:text-blue-600 transition-colors">Home</a></li>
             <li><a href="/blog" class="hover:text-blue-600 transition-colors">Blog</a></li>
-            <li><a href="/shop" class="hover:text-blue-600 transition-colors">Shop</a></li>
+            <li><a href="/products" class="hover:text-blue-600 transition-colors">Products</a></li>
             <li><a href="/about" class="hover:text-blue-600 transition-colors">About</a></li>
             <li><a href="/contact" class="hover:text-blue-600 transition-colors">Contact</a></li>
           </ul>

@@ -1,5 +1,5 @@
 ---
-title: "Sermorelin 10 mg Molecular Research Peptides"
+title: "sermorelin 10 mg"
 slug: sermorelin-10-mg-molecular-research-peptides
 date: 2025-11-27
 source: https://hkpeptidesworldwide.com/sermorelin-10-mg-molecular-research-peptides/

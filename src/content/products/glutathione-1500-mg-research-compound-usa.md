@@ -1,5 +1,5 @@
 ---
-title: "Glutathione (GSH) 1500 mg | Research-Grade | HKPEPTIDE WORLDWIDE"
+title: "Glutathione 1500 mg"
 date: 2026-08-08
 slug: glutathione-1500-mg-research-compound-usa
 source: https://hkpeptidesworldwide.com/glutathione-1500-mg-research-compound-usa/

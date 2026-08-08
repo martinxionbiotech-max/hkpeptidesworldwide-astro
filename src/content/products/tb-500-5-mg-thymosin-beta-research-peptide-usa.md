@@ -1,5 +1,5 @@
 ---
-title: "Thymosin Beta-4 Fragment (17-23) 5 mg × 10 vials | Research-Grade ≥99% HPLC | HKPEPTIDE WORLDWIDE"
+title: "TB-500 5 mg"
 date: 2026-08-08
 slug: tb-500-5-mg-thymosin-beta-research-peptide-usa
 source: https://hkpeptidesworldwide.com/tb-500-5-mg-thymosin-beta-research-peptide-usa/

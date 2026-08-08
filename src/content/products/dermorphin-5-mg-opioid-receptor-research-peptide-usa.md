@@ -1,5 +1,5 @@
 ---
-title: "Dermorphin 5 mg opioid receptor research peptide USA"
+title: "dermorphin 5 mg"
 slug: dermorphin-5-mg-opioid-receptor-research-peptide-usa
 date: 2026-04-03
 source: https://hkpeptidesworldwide.com/dermorphin-5-mg-opioid-receptor-research-peptide-usa/

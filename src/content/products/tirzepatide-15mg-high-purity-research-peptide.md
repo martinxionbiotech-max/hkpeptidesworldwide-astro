@@ -1,5 +1,5 @@
 ---
-title: "Tirzepatide 15mg High-Purity Research Peptide"
+title: "tirzepatide 15 mg"
 slug: tirzepatide-15mg-high-purity-research-peptide
 date: 2025-11-15
 source: https://hkpeptidesworldwide.com/tirzepatide-15mg-high-purity-research-peptide/

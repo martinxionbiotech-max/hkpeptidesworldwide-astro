@@ -1,5 +1,5 @@
 ---
-title: "HGH 30 mg Recombinant Hormone Research Peptides USA"
+title: "hgh 30 mg"
 slug: hgh-30-mg-recombinant-hormone-research-peptides-usa
 date: 2025-11-18
 source: https://hkpeptidesworldwide.com/hgh-30-mg-recombinant-hormone-research-peptides-usa/

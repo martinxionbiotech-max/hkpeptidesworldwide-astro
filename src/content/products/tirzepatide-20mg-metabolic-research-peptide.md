@@ -1,5 +1,5 @@
 ---
-title: "Tirzepatide 20mg Metabolic Research Peptide"
+title: "tirzepatide 20 mg"
 slug: tirzepatide-20mg-metabolic-research-peptide
 date: 2025-11-15
 source: https://hkpeptidesworldwide.com/tirzepatide-20mg-metabolic-research-peptide/

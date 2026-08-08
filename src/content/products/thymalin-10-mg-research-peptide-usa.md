@@ -1,5 +1,5 @@
 ---
-title: "Thymalin 10 mg research peptide USA"
+title: "thymalin 10 mg"
 slug: thymalin-10-mg-research-peptide-usa
 date: 2026-03-18
 source: https://hkpeptidesworldwide.com/thymalin-10-mg-research-peptide-usa/

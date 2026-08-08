@@ -1,5 +1,5 @@
 ---
-title: "Thymosin Alpha-1 10mg"
+title: "1 10 mg"
 slug: thymosin-alpha-1-10mg
 date: 2026-03-18
 source: https://hkpeptidesworldwide.com/thymosin-alpha-1-10mg/

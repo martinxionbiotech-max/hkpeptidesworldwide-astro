@@ -1,5 +1,5 @@
 ---
-title: "Semaglutide 30 mg | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "Semaglutide 30 mg"
 date: 2025-11-17
 slug: semaglutide-30-mg-research-grade-glp-1-peptide
 source: https://hkpeptidesworldwide.com/semaglutide-30-mg-research-grade-glp-1-peptide/

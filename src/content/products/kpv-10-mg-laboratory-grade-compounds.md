@@ -1,5 +1,5 @@
 ---
-title: "KPV (Lys-Pro-Val) 10 mg x 10 vials | Research-Grade | HKPEPTIDE WORLDWIDE"
+title: "KPV 10 mg"
 date: 2026-08-08
 slug: kpv-10-mg-laboratory-grade-compounds
 source: https://hkpeptidesworldwide.com/kpv-10-mg-laboratory-grade-compounds/

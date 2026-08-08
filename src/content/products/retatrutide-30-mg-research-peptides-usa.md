@@ -1,5 +1,5 @@
 ---
-title: "Retatrutide 30 mg Research Peptides USA"
+title: "retatrutide 30 mg"
 slug: retatrutide-30-mg-research-peptides-usa
 date: 2025-11-28
 source: https://hkpeptidesworldwide.com/retatrutide-30-mg-research-peptides-usa/

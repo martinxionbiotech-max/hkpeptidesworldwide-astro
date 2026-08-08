@@ -1,5 +1,5 @@
 ---
-title: "SS-31 15 mg Precision Mitochondrial Research Peptide USA"
+title: "31 15 mg"
 slug: ss-31-15-mg-precision-mitochondrial-research-peptide-usa
 date: 2025-11-27
 lastUpdated: 2026-08-08

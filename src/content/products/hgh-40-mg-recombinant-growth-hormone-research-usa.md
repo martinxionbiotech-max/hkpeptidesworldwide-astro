@@ -1,5 +1,5 @@
 ---
-title: "Human Growth Hormone (Somatropin) 40 mg × 10 vials | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "HGH 40 mg"
 date: 2026-08-08
 slug: hgh-40-mg-recombinant-growth-hormone-research-usa
 source: https://hkpeptidesworldwide.com/hgh-40-mg-recombinant-growth-hormone-research-usa/

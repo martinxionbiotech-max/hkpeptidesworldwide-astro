@@ -1,5 +1,5 @@
 ---
-title: "SS-31 30 mg Mitochondrial Research Peptide USA"
+title: "31 30 mg"
 slug: ss-31-30-mg-mitochondrial-research-peptide-usa
 date: 2025-11-27
 lastUpdated: 2026-08-08

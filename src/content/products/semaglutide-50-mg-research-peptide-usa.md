@@ -1,5 +1,5 @@
 ---
-title: "Semaglutide 50 mg Research Peptide USA"
+title: "semaglutide 50 mg"
 slug: semaglutide-50-mg-research-peptide-usa
 date: 2025-11-17
 source: https://hkpeptidesworldwide.com/semaglutide-50-mg-research-peptide-usa/

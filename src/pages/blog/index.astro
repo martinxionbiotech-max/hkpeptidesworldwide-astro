@@ -15,9 +15,23 @@ function formatDate(date: Date | undefined): string {
     day: 'numeric',
   });
 }
+
+const blogSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://hkpeptidesworldwide.com/blog/#blog",
+      "name": "Blog — HK Peptides Worldwide",
+      "description": "Research insights, methodology guides, and industry updates from HK Peptides Worldwide.",
+      "url": "https://hkpeptidesworldwide.com/blog/",
+      "isPartOf": { "@id": "https://hkpeptidesworldwide.com/#website" }
+    }
+  ]
+};
 ---
 
-<Layout title="Blog — HK Peptides Worldwide" description="Research insights, guides, and industry updates from HK Peptides Worldwide.">
+<Layout title="Blog — HK Peptides Worldwide" description="Research insights, guides, and industry updates from HK Peptides Worldwide." schema={blogSchema}>
   <div class="mx-auto max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
     <!-- Header -->
     <div class="mb-10">

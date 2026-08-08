@@ -6,6 +6,32 @@ const products = await getCollection('products');
 const posts = await getCollection('blog');
 const pillars = await getCollection('pillars');
 
+const siteSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://hkpeptidesworldwide.com/#organization",
+      "name": "HK Peptides Worldwide",
+      "legalName": "HK Peptides Worldwide LLC",
+      "url": "https://hkpeptidesworldwide.com",
+      "email": "support@hkpeptidesworldwide.com",
+      "foundingDate": "2025",
+      "description": "Premium research peptides supplier — HPLC-verified, COA-tested, worldwide shipping.",
+      "sameAs": [
+        "https://hkpeptidesworldwide.com"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://hkpeptidesworldwide.com/#website",
+      "url": "https://hkpeptidesworldwide.com",
+      "name": "HK Peptides Worldwide",
+      "publisher": { "@id": "https://hkpeptidesworldwide.com/#organization" }
+    }
+  ]
+};
+
 // Sort pillars by order
 const sortedPillars = pillars.sort(
   (a, b) => (a.data.order ?? 99) - (b.data.order ?? 99)
@@ -32,6 +58,8 @@ function formatDate(date: Date | undefined): string {
 <Layout
   title="HK Peptides Worldwide — Premium Research Peptides"
   description="High-purity research peptides and compounds for laboratory and scientific research. HPLC-verified, COA-tested, worldwide shipping."
+  schema={siteSchema}
+  ogImage="/images/default-og.jpg"
 >
   <!-- Hero Section -->
   <section class="bg-gradient-to-br from-blue-600 to-blue-800 text-white">

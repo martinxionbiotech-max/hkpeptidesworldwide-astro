@@ -1,5 +1,5 @@
 ---
-title: "BPC-157 + TB-500 Combination BPC-157 20mg + TB-500 20mg | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "BPC-157/TB-500 Blend 20 mg"
 date: 2026-08-08
 slug: bpc-157-tb-500-20-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/bpc-157-tb-500-20-mg-research-peptide-usa/

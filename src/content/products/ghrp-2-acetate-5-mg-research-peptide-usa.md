@@ -1,5 +1,5 @@
 ---
-title: "GHRP-2 (Pralmorelin) 5 mg × 10 vials | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "GHRP-2 5 mg"
 date: 2026-08-08
 slug: ghrp-2-acetate-5-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/ghrp-2-acetate-5-mg-research-peptide-usa/

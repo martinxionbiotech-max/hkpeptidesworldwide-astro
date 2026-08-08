@@ -1,5 +1,5 @@
 ---
-title: "Buy SS-31 5 mg Research Peptide USA"
+title: "31 5 mg"
 slug: buy-ss-31-5-mg-research-peptide-usa
 date: 2025-11-27
 lastUpdated: 2026-08-08

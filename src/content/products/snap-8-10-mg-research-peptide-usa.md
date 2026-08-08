@@ -1,5 +1,5 @@
 ---
-title: "SNAP-8 10 mg research peptide USA"
+title: "8 10 mg"
 slug: snap-8-10-mg-research-peptide-usa
 date: 2026-04-03
 source: https://hkpeptidesworldwide.com/snap-8-10-mg-research-peptide-usa/

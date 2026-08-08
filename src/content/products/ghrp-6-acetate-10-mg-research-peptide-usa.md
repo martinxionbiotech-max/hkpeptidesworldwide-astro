@@ -1,5 +1,5 @@
 ---
-title: "GHRP-6 (Growth Hormone Releasing Peptide-6) 10 mg × 10 vials | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "GHRP-6 10 mg"
 date: 2026-08-08
 slug: ghrp-6-acetate-10-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/ghrp-6-acetate-10-mg-research-peptide-usa/

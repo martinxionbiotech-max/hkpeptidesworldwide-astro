@@ -1,5 +1,5 @@
 ---
-title: "Selank 5 mg & 10 mg | Research-Grade Anxiolytic Tuftsin Analog Peptide ≥98% HPLC | HKPEPTIDE WORLDWIDE"
+title: "Selank (Thr-Lys-Pro-Arg-Pro-Gly- 5 mg + 10 mg"
 date: 2026-08-08
 slug: selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa
 source: https://hkpeptidesworldwide.com/selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa/

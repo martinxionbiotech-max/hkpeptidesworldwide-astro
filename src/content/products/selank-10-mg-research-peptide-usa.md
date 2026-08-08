@@ -1,5 +1,5 @@
 ---
-title: "Selank 10 mg research peptide USA"
+title: "selank 10 mg"
 slug: selank-10-mg-research-peptide-usa
 date: 2026-03-18
 source: https://hkpeptidesworldwide.com/selank-10-mg-research-peptide-usa/

@@ -1,5 +1,5 @@
 ---
-title: "MK-677 5 mg research compound USA"
+title: "677 5 mg"
 slug: mk-677-5-mg-research-compound-usa
 date: 2026-04-03
 source: https://hkpeptidesworldwide.com/mk-677-5-mg-research-compound-usa/

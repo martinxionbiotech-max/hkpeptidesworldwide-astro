@@ -1,5 +1,5 @@
 ---
-title: "Cagrilintide + Semaglutide Fixed-Dose Combination Cagrilintide 5mg + Semaglutide 10mg | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "Cagrilintide/Semaglutide Blend 5 mg + 10 mg"
 date: 2026-08-08
 slug: cagrilintide-5-mg-semaglutide-10-mg-research-peptide-blend
 source: https://hkpeptidesworldwide.com/cagrilintide-5-mg-semaglutide-10-mg-research-peptide-blend/

@@ -1,5 +1,5 @@
 ---
-title: "NAD+ 100 mg / 500 mg / 1000 mg | Research-Grade Nicotinamide Adenine Dinucleotide ≥98% HPLC | HKPEPTIDE WORLDWIDE"
+title: "NAD+ (Nicotinamide Adenine Dinucleotide, Oxi "
 date: 2026-08-08
 slug: nad-plus-research-grade-nicotinamide-adenine-dinucleotide-usa
 source: https://hkpeptidesworldwide.com/nad-plus-research-grade-nicotinamide-adenine-dinucleotide-usa/

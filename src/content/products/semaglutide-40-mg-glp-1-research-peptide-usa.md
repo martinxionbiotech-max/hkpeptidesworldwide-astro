@@ -1,5 +1,5 @@
 ---
-title: "Semaglutide 40 mg GLP-1 Research Peptide USA"
+title: "semaglutide 40 mg"
 slug: semaglutide-40-mg-glp-1-research-peptide-usa
 date: 2025-11-17
 source: https://hkpeptidesworldwide.com/semaglutide-40-mg-glp-1-research-peptide-usa/

@@ -1,5 +1,5 @@
 ---
-title: "Retatrutide 5 mg Scientific Research Materials"
+title: "retatrutide 5 mg"
 slug: retatrutide-5-mg-scientific-research-materials
 date: 2025-11-28
 source: https://hkpeptidesworldwide.com/retatrutide-5-mg-scientific-research-materials/

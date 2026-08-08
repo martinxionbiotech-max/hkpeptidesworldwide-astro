@@ -1,5 +1,5 @@
 ---
-title: "Tirzepatide 60 mg Lap Tested USA"
+title: "tirzepatide 60 mg"
 slug: tirzepatide-60-mg-lap-tested-usa
 date: 2025-11-15
 source: https://hkpeptidesworldwide.com/tirzepatide-60-mg-lap-tested-usa/

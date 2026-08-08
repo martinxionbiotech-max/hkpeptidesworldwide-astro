@@ -1,5 +1,5 @@
 ---
-title: "CJC-1295 Without DAC 2 mg | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "CJC-1295 Without DAC (Modified GRF 1-29) 2 mg"
 date: 2026-08-08
 slug: cjc-1295-without-dac-2-mg-in-vitro-research-peptide
 source: https://hkpeptidesworldwide.com/cjc-1295-without-dac-2-mg-in-vitro-research-peptide/

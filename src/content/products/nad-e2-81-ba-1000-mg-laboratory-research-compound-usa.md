@@ -1,5 +1,5 @@
 ---
-title: "Nicotinamide Adenine Dinucleotide (NAD+) 1000 mg | Research-Grade | HKPEPTIDE WORLDWIDE"
+title: "NAD+ 1000 mg"
 date: 2026-08-08
 slug: nad-e2-81-ba-1000-mg-laboratory-research-compound-usa
 source: https://hkpeptidesworldwide.com/nad-e2-81-ba-1000-mg-laboratory-research-compound-usa/

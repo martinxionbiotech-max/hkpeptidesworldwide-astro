@@ -1,5 +1,5 @@
 ---
-title: "Human Growth Hormone (Somatropin) 10 mg × 10 vials | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "HGH 10 mg"
 date: 2026-08-08
 slug: hgh-10-mg-recombinant-hormone-research-usa
 source: https://hkpeptidesworldwide.com/hgh-10-mg-recombinant-hormone-research-usa/

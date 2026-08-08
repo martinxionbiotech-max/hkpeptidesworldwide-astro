@@ -1,5 +1,5 @@
 ---
-title: "GHK-Cu 50 mg | Research-Grade Copper Tripeptide ≥98% Purity | HKPEPTIDE WORLDWIDE"
+title: "GHK-Cu (Copper Tripeptide-1) 50 mg"
 date: 2025-11-18
 slug: ghk-cu-50-mg-copper-peptide-research-usa
 source: https://hkpeptidesworldwide.com/ghk-cu-50-mg-copper-peptide-research-usa/

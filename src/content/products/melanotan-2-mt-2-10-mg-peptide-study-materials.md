@@ -1,5 +1,5 @@
 ---
-title: "Melanotan 2 (MT-2) 10 mg Peptide Study Materials"
+title: "2 2 10 mg"
 slug: melanotan-2-mt-2-10-mg-peptide-study-materials
 date: 2025-11-27
 source: https://hkpeptidesworldwide.com/melanotan-2-mt-2-10-mg-peptide-study-materials/

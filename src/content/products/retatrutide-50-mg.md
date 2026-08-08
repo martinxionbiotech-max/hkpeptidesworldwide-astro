@@ -1,5 +1,5 @@
 ---
-title: "Retatrutide 50 mg Research Peptide"
+title: "retatrutide 50 mg"
 slug: retatrutide-50-mg
 date: 2025-11-28
 source: https://hkpeptidesworldwide.com/retatrutide-50-mg/

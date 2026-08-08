@@ -1,5 +1,5 @@
 ---
-title: "KPV 10 mg Anti-Inflammatory Research Peptide USA"
+title: "kpv 10 mg"
 slug: kpv-10-mg-anti-inflammatory-research-peptide-usa
 date: 2025-11-18
 lastUpdated: 2026-08-08

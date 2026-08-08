@@ -1,5 +1,5 @@
 ---
-title: "AOD9604 10 mg Research Peptide USA"
+title: "aod9604 10 mg"
 slug: aod9604-10-mg-research-peptide-usa
 date: 2025-11-18
 lastUpdated: 2026-08-08

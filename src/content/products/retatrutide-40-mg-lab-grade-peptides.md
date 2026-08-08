@@ -1,5 +1,5 @@
 ---
-title: "Retatrutide 40 mg Lab Grade Peptides"
+title: "retatrutide 40 mg"
 slug: retatrutide-40-mg-lab-grade-peptides
 date: 2025-11-28
 source: https://hkpeptidesworldwide.com/retatrutide-40-mg-lab-grade-peptides/

@@ -1,5 +1,5 @@
 ---
-title: "GHK-Cu 100 mg | High-Quantity Copper Peptide for Extended ECM Research | HKPEPTIDE WORLDWIDE"
+title: "GHK-Cu (Copper Tripeptide-1) 100 mg"
 date: 2025-11-18
 slug: ghk-cu-100-mg-copper-peptide-research-compound-usa
 source: https://hkpeptidesworldwide.com/ghk-cu-100-mg-copper-peptide-research-compound-usa/

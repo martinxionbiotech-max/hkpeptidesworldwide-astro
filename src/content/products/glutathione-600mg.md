@@ -1,5 +1,5 @@
 ---
-title: "Glutathione (GSH) 600 mg | Research-Grade | HKPEPTIDE WORLDWIDE"
+title: "Glutathione 600 mg"
 date: 2026-08-08
 slug: glutathione-600mg
 source: https://hkpeptidesworldwide.com/glutathione-600mg/

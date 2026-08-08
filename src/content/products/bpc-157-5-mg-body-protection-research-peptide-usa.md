@@ -1,5 +1,5 @@
 ---
-title: "Body Protection Compound-157 5 mg × 10 vials | Research-Grade ≥99% HPLC | HKPEPTIDE WORLDWIDE"
+title: "BPC-157 5 mg"
 date: 2026-08-08
 slug: bpc-157-5-mg-body-protection-research-peptide-usa
 source: https://hkpeptidesworldwide.com/bpc-157-5-mg-body-protection-research-peptide-usa/

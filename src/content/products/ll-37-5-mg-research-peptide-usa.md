@@ -1,5 +1,5 @@
 ---
-title: "LL-37 (Cathelicidin Antimicrobial Peptide) 5 mg x 10 vials | Research-Grade | HKPEPTIDE WORLDWIDE"
+title: "LL-37 5 mg"
 date: 2026-08-08
 slug: ll-37-5-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/ll-37-5-mg-research-peptide-usa/

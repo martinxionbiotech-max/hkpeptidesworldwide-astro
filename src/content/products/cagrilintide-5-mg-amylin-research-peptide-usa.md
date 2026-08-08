@@ -1,5 +1,5 @@
 ---
-title: "Cagrilintide (Long-Acting Amylin Analogue) 5 mg × 10 vials | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "Cagrilintide 5 mg"
 date: 2026-08-08
 slug: cagrilintide-5-mg-amylin-research-peptide-usa
 source: https://hkpeptidesworldwide.com/cagrilintide-5-mg-amylin-research-peptide-usa/

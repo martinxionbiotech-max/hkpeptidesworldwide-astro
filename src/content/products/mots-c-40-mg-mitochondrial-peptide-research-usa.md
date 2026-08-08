@@ -1,5 +1,5 @@
 ---
-title: "MOTS-c 40 mg Mitochondrial Peptide Research USA"
+title: "mots 40 mg"
 slug: mots-c-40-mg-mitochondrial-peptide-research-usa
 date: 2025-11-18
 source: https://hkpeptidesworldwide.com/mots-c-40-mg-mitochondrial-peptide-research-usa/

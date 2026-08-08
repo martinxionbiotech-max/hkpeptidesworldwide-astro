@@ -1,5 +1,5 @@
 ---
-title: "IGF-1 0.1 mg & 1 mg | Research-Grade Insulin-like Growth Factor-1 ≥98% HPLC | HKPEPTIDE WORLDWIDE"
+title: "IGF-1 (Insulin-like Growth Factor-1 / Somato "
 date: 2026-08-08
 slug: igf-1-research-grade-insulin-like-growth-factor-peptide-usa
 source: https://hkpeptidesworldwide.com/igf-1-research-grade-insulin-like-growth-factor-peptide-usa/

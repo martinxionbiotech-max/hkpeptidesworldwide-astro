@@ -1,5 +1,5 @@
 ---
-title: "Retatrutide 20 mg High Purity Peptides"
+title: "retatrutide 20 mg"
 slug: retatrutide-20-mg-high-purity-peptides
 date: 2025-11-28
 source: https://hkpeptidesworldwide.com/retatrutide-20-mg-high-purity-peptides/

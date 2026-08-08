@@ -1,5 +1,5 @@
 ---
-title: "Semaglutide 5 mg | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "Semaglutide 5 mg"
 date: 2025-11-17
 slug: semaglutide-5-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/semaglutide-5-mg-research-peptide-usa/

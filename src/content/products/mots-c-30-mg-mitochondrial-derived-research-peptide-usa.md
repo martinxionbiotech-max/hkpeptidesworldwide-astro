@@ -1,5 +1,5 @@
 ---
-title: "MOTS-c 30 mg | Multi-Phase Mitochondrial-Derived Peptide for Extended Research | HKPEPTIDE WORLDWIDE"
+title: "MOTS-c (Mitochondrial Open Reading Fram 30 mg"
 date: 2025-11-18
 slug: mots-c-30-mg-mitochondrial-derived-research-peptide-usa
 source: https://hkpeptidesworldwide.com/mots-c-30-mg-mitochondrial-derived-research-peptide-usa/

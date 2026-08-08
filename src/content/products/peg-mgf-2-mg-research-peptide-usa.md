@@ -1,5 +1,5 @@
 ---
-title: "PEG-MGF 2 mg research peptide USA"
+title: "peg 2 mg"
 slug: peg-mgf-2-mg-research-peptide-usa
 date: 2026-04-03
 source: https://hkpeptidesworldwide.com/peg-mgf-2-mg-research-peptide-usa/

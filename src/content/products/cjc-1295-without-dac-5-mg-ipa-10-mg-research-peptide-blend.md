@@ -1,5 +1,5 @@
 ---
-title: "CJC-1295 (no DAC) + Ipamorelin Combination CJC-1295 (no DAC) 5mg + Ipamorelin 10mg | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE"
+title: "CJC-1295/Ipamorelin Blend 5 mg + 10 mg"
 date: 2026-08-08
 slug: cjc-1295-without-dac-5-mg-ipa-10-mg-research-peptide-blend
 source: https://hkpeptidesworldwide.com/cjc-1295-without-dac-5-mg-ipa-10-mg-research-peptide-blend/

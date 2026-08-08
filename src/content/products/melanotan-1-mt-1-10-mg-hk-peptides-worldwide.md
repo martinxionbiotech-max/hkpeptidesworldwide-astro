@@ -1,5 +1,5 @@
 ---
-title: "Melanotan 1 (MT-1) 10 mg HK Peptides Worldwide"
+title: "1 1 10 mg"
 slug: melanotan-1-mt-1-10-mg-hk-peptides-worldwide
 date: 2025-11-27
 source: https://hkpeptidesworldwide.com/melanotan-1-mt-1-10-mg-hk-peptides-worldwide/

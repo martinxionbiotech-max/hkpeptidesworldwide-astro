@@ -1,5 +1,5 @@
 ---
-title: "MOTS-c 10 mg | Research-Grade Mitochondrial-Derived Peptide ≥98% Purity | HKPEPTIDE WORLDWIDE"
+title: "MOTS-c (Mitochondrial Open Reading Fram 10 mg"
 date: 2025-11-18
 slug: mots-c-10-mg-mitochondrial-peptide-supply-usa
 source: https://hkpeptidesworldwide.com/mots-c-10-mg-mitochondrial-peptide-supply-usa/

@@ -1,5 +1,5 @@
 ---
-title: "MOTS-c 20 mg | Precision Mitochondrial-Derived Peptide for Metabolic Research | HKPEPTIDE WORLDWIDE"
+title: "MOTS-c (Mitochondrial Open Reading Fram 20 mg"
 date: 2025-11-18
 slug: mots-c-20-mg-mitochondrial-peptide-research-usa
 source: https://hkpeptidesworldwide.com/mots-c-20-mg-mitochondrial-peptide-research-usa/

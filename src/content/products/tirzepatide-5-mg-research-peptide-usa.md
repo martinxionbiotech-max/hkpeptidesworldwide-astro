@@ -1,5 +1,5 @@
 ---
-title: "Tirzepatide 5 mg Research Peptide (USA)"
+title: "tirzepatide 5 mg"
 slug: tirzepatide-5-mg-research-peptide-usa
 date: 2025-11-15
 source: https://hkpeptidesworldwide.com/tirzepatide-5-mg-research-peptide-usa/

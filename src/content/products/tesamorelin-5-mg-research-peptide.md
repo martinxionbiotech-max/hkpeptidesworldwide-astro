@@ -1,5 +1,5 @@
 ---
-title: "Tesamorelin 5 mg Research Peptide"
+title: "tesamorelin 5 mg"
 slug: tesamorelin-5-mg-research-peptide
 date: 2025-11-27
 source: https://hkpeptidesworldwide.com/tesamorelin-5-mg-research-peptide/

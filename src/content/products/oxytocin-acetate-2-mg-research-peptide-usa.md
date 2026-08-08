@@ -1,5 +1,5 @@
 ---
-title: "Oxytocin Acetate 2 mg research peptide USA"
+title: "oxytocin 2 mg"
 slug: oxytocin-acetate-2-mg-research-peptide-usa
 date: 2026-03-18
 source: https://hkpeptidesworldwide.com/oxytocin-acetate-2-mg-research-peptide-usa/
