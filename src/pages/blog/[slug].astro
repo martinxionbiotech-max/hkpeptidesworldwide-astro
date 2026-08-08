@@ -14,13 +14,9 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const { title, description, pubDate, author, image, tags } = entry.data;
 
-function formatDate(date: Date | undefined): string {
+function formatDate(date?: Date) {
   if (!date) return '';
-  return date.toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-  });
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 }
 
 const pageUrl = `/blog/${entry.id}/`;
@@ -48,64 +44,44 @@ const blogSchema = {
   ]
 };
 ---
-
 <Layout title={title} description={description || `${title} — HK Peptides Worldwide Blog`} type="article" schema={blogSchema}>
-  <article class="mx-auto max-w-3xl px-4 py-8 sm:px-6 lg:px-8">
-    <!-- Breadcrumb -->
-    <nav class="mb-6 text-sm text-gray-500">
-      <a href="/" class="hover:text-blue-600">Home</a>
-      <span class="mx-2">/</span>
-      <a href="/blog" class="hover:text-blue-600">Blog</a>
-      <span class="mx-2">/</span>
-      <span class="text-gray-900">{title}</span>
+  <article class="mx-auto max-w-3xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14">
+    <nav class="mb-8 flex items-center gap-2 text-sm text-gray-400">
+      <a href="/" class="hover:text-emerald-600 transition-colors">Home</a>
+      <svg class="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+      <a href="/blog" class="hover:text-emerald-600 transition-colors">Blog</a>
+      <svg class="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+      <span class="text-gray-500">{title}</span>
     </nav>
 
-    <!-- Header -->
-    <header class="mb-8">
-      <h1 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-        {title}
-      </h1>
-
-      <div class="mt-4 flex flex-wrap items-center gap-4 text-sm text-gray-500">
-        {pubDate && (
-          <time datetime={pubDate.toISOString()}>
-            {formatDate(pubDate)}
-          </time>
-        )}
-        {author && (
-          <>
-            <span aria-hidden="true">·</span>
-            <span>{author}</span>
-          </>
-        )}
+    <header class="mb-10">
+      <h1 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl lg:text-5xl">{title}</h1>
+      <div class="mt-4 flex flex-wrap items-center gap-3 text-sm text-gray-400">
+        {author && <span class="font-medium text-gray-600">{author}</span>}
+        {pubDate && <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>}
       </div>
-
       {tags && tags.length > 0 && (
         <div class="mt-4 flex flex-wrap gap-2">
-          {tags.map((tag) => (
-            <span class="rounded-md bg-blue-100 px-2 py-1 text-xs font-medium text-blue-800">
-              {tag}
-            </span>
-          ))}
+          {tags.map(tag => <span class="rounded-lg bg-emerald-50 px-2.5 py-1 text-xs font-medium text-emerald-700">{tag}</span>)}
         </div>
       )}
     </header>
 
-    <!-- Featured Image -->
     {image && (
-      <div class="mb-8 overflow-hidden rounded-lg">
-        <img
-          src={`/images/${image}`}
-          alt={title}
-          class="w-full object-cover"
-          loading="eager"
-        />
+      <div class="mb-10 overflow-hidden rounded-2xl border border-gray-100">
+        <img src={`/images/${image}`} alt={title} class="w-full object-cover" loading="eager" />
       </div>
     )}
 
-    <!-- Post Content -->
-    <div class="prose prose-lg max-w-none prose-headings:text-gray-900 prose-p:text-gray-700 prose-a:text-blue-600 prose-table:border-collapse prose-th:border prose-th:border-gray-300 prose-th:bg-gray-50 prose-th:px-4 prose-th:py-2 prose-td:border prose-td:border-gray-300 prose-td:px-4 prose-td:py-2">
+    <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-4 prose-h3:text-xl prose-p:text-gray-600 prose-p:leading-relaxed prose-a:text-emerald-600 prose-a:no-underline hover:prose-a:text-emerald-700 prose-strong:text-gray-900 prose-li:text-gray-600 prose-blockquote:border-l-emerald-500 prose-blockquote:bg-gray-50 prose-blockquote:py-2 prose-blockquote:px-4 prose-blockquote:rounded-r-lg prose-table:rounded-xl prose-table:overflow-hidden prose-table:shadow-sm prose-thead:bg-gray-50 prose-th:px-5 prose-th:py-3 prose-th:text-left prose-th:text-xs prose-th:font-semibold prose-th:uppercase prose-th:tracking-wider prose-th:text-gray-500 prose-td:px-5 prose-td:py-3 prose-td:text-sm prose-td:text-gray-700 prose-tr:border-b prose-tr:border-gray-100">
       <Content />
+    </div>
+
+    <div class="mt-12 border-t border-gray-100 pt-8">
+      <a href="/blog" class="inline-flex items-center gap-2 text-sm font-semibold text-emerald-600 hover:text-emerald-700">
+        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
+        Back to Blog
+      </a>
     </div>
   </article>
 </Layout>

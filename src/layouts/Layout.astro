@@ -30,12 +30,10 @@ const brandTitle = title.includes('HK Peptides Worldwide') ? title : `${title} �
     <link rel="icon" href="/favicon.ico" />
     <meta name="viewport" content="width=device-width" />
 
-    <!-- Primary Meta -->
     <title>{brandTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={pageUrl} />
 
-    <!-- Open Graph -->
     <meta property="og:type" content={type} />
     <meta property="og:title" content={brandTitle} />
     <meta property="og:description" content={description} />
@@ -44,34 +42,31 @@ const brandTitle = title.includes('HK Peptides Worldwide') ? title : `${title} �
     <meta property="og:locale" content="en_US" />
     {ogImage && <meta property="og:image" content={`${siteUrl}${ogImage}`} />}
 
-    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={brandTitle} />
     <meta name="twitter:description" content={description} />
     {ogImage && <meta name="twitter:image" content={`${siteUrl}${ogImage}`} />}
 
-    <!-- hreflang -->
     <link rel="alternate" hreflang="en" href={pageUrl} />
     <link rel="alternate" hreflang="x-default" href={pageUrl} />
 
     <meta name="generator" content={Astro.generator} />
-
-    <!-- Schema.org JSON-LD -->
-    {schema && (
-      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
-    )}
+    {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
   </head>
   <body class="min-h-screen bg-white text-gray-900 antialiased">
-    <header class="border-b border-gray-200">
-      <div class="mx-auto max-w-7xl px-4 py-4 sm:px-6 lg:px-8">
-        <nav class="flex items-center justify-between">
-          <a href="/" class="text-xl font-bold text-blue-600">HK Peptides Worldwide</a>
-          <ul class="flex gap-6 text-sm font-medium text-gray-600">
-            <li><a href="/" class="hover:text-blue-600 transition-colors">Home</a></li>
-            <li><a href="/blog" class="hover:text-blue-600 transition-colors">Blog</a></li>
-            <li><a href="/products" class="hover:text-blue-600 transition-colors">Products</a></li>
-            <li><a href="/about" class="hover:text-blue-600 transition-colors">About</a></li>
-            <li><a href="/contact" class="hover:text-blue-600 transition-colors">Contact</a></li>
+    <header class="sticky top-0 z-50 border-b border-white/10 bg-[#0a1628]/95 backdrop-blur-xl supports-[backdrop-filter]:bg-[#0a1628]/80">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <nav class="flex h-16 items-center justify-between">
+          <a href="/" class="flex items-center gap-2 text-lg font-bold text-white">
+            <span class="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-emerald-400 to-teal-500 text-sm font-black text-white">HK</span>
+            <span class="hidden sm:inline">Peptides Worldwide</span>
+          </a>
+          <ul class="flex items-center gap-1 text-sm font-medium">
+            <li><a href="/" class="rounded-lg px-3 py-2 text-gray-300 transition-colors hover:bg-white/10 hover:text-white">Home</a></li>
+            <li><a href="/products" class="rounded-lg px-3 py-2 text-gray-300 transition-colors hover:bg-white/10 hover:text-white">Products</a></li>
+            <li><a href="/blog" class="rounded-lg px-3 py-2 text-gray-300 transition-colors hover:bg-white/10 hover:text-white">Blog</a></li>
+            <li><a href="/about" class="rounded-lg px-3 py-2 text-gray-300 transition-colors hover:bg-white/10 hover:text-white">About</a></li>
+            <li><a href="/contact" class="ml-2 rounded-lg bg-gradient-to-r from-emerald-500 to-teal-500 px-4 py-2 text-white transition-all hover:from-emerald-600 hover:to-teal-600 hover:shadow-lg hover:shadow-emerald-500/25">Contact</a></li>
           </ul>
         </nav>
       </div>
@@ -81,11 +76,48 @@ const brandTitle = title.includes('HK Peptides Worldwide') ? title : `${title} �
       <slot />
     </main>
 
-    <footer class="border-t border-gray-200 mt-16">
-      <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
-        <p class="text-center text-sm text-gray-500">
-          &copy; {new Date().getFullYear()} HK Peptides Worldwide. All rights reserved.
-        </p>
+    <footer class="border-t border-gray-100 bg-[#0a1628] text-gray-300">
+      <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+        <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+          <div>
+            <a href="/" class="flex items-center gap-2 text-lg font-bold text-white">
+              <span class="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-emerald-400 to-teal-500 text-sm font-black text-white">HK</span>
+              HK Peptides Worldwide
+            </a>
+            <p class="mt-3 text-sm leading-relaxed text-gray-400">
+              Premium research peptides — HPLC-verified, COA-tested, worldwide shipping. Trusted by researchers globally.
+            </p>
+          </div>
+          <div>
+            <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-200">Products</h3>
+            <ul class="mt-4 space-y-2 text-sm">
+              <li><a href="/products" class="text-gray-400 transition-colors hover:text-emerald-400">All Products</a></li>
+              <li><a href="/blog" class="text-gray-400 transition-colors hover:text-emerald-400">Research Blog</a></li>
+              <li><a href="/about" class="text-gray-400 transition-colors hover:text-emerald-400">About Us</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-200">Support</h3>
+            <ul class="mt-4 space-y-2 text-sm">
+              <li><a href="/contact" class="text-gray-400 transition-colors hover:text-emerald-400">Contact Us</a></li>
+              <li><a href="/how-to-buy" class="text-gray-400 transition-colors hover:text-emerald-400">How to Buy</a></li>
+              <li><a href="/refund_returns" class="text-gray-400 transition-colors hover:text-emerald-400">Refund & Returns</a></li>
+              <li><a href="/privacy-policy" class="text-gray-400 transition-colors hover:text-emerald-400">Privacy Policy</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-200">Contact</h3>
+            <ul class="mt-4 space-y-2 text-sm text-gray-400">
+              <li>📍 New York, NY 10019</li>
+              <li>📧 support@hkpeptidesworldwide.com</li>
+              <li>📞 +1 (320) 368-0509</li>
+              <li>🇺🇸 USA Distribution Center</li>
+            </ul>
+          </div>
+        </div>
+        <div class="mt-10 border-t border-white/10 pt-6 text-center text-sm text-gray-500">
+          &copy; {new Date().getFullYear()} HK Peptides Worldwide LLC. All rights reserved. Products sold for laboratory research purposes only.
+        </div>
       </div>
     </footer>
   </body>

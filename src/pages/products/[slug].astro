@@ -14,7 +14,6 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const { title, description, category, price, image, tags } = entry.data;
 
-// Try to find a matching image in public/images/
 let imageSrc = image ? `/images/${image}` : null;
 
 const pageUrl = `/products/${entry.id}/`;
@@ -51,68 +50,55 @@ if (price) {
   };
 }
 ---
-
 <Layout title={title} description={description || `${title} — HK Peptides Worldwide`} type="product" schema={productSchema}>
-  <article class="mx-auto max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
+  <article class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8 lg:py-12">
     <!-- Breadcrumb -->
-    <nav class="mb-6 text-sm text-gray-500">
-      <a href="/" class="hover:text-blue-600">Home</a>
-      <span class="mx-2">/</span>
-      <a href="/products" class="hover:text-blue-600">Products</a>
-      <span class="mx-2">/</span>
-      <span class="text-gray-900">{title}</span>
+    <nav class="mb-8 flex items-center gap-2 text-sm text-gray-400">
+      <a href="/" class="hover:text-emerald-600 transition-colors">Home</a>
+      <svg class="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+      <a href="/products" class="hover:text-emerald-600 transition-colors">Products</a>
+      <svg class="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+      <span class="text-gray-600">{title}</span>
     </nav>
 
     <!-- Product Header -->
-    <div class="grid gap-8 lg:grid-cols-2">
-      {imageSrc && (
-        <div class="overflow-hidden rounded-lg bg-gray-100">
-          <img
-            src={imageSrc}
-            alt={title}
-            class="h-full w-full object-cover"
-            loading="eager"
-          />
-        </div>
-      )}
+    <div class="grid gap-10 lg:grid-cols-2">
+      <div class="overflow-hidden rounded-2xl border border-gray-100 bg-gradient-to-br from-gray-50 to-white p-8">
+        {imageSrc ? (
+          <img src={imageSrc} alt={title} class="mx-auto h-80 w-full object-contain" loading="eager" />
+        ) : (
+          <div class="flex h-80 items-center justify-center text-6xl">🧪</div>
+        )}
+      </div>
 
-      <div>
-        <h1 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-          {title}
-        </h1>
-
+      <div class="flex flex-col justify-center">
         {category && (
-          <span class="mt-2 inline-block rounded-full bg-blue-100 px-3 py-1 text-sm font-medium text-blue-800">
-            {category}
-          </span>
+          <span class="inline-block w-fit rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-emerald-700">{category}</span>
         )}
-
+        <h1 class="mt-3 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">{title}</h1>
         {price && (
-          <p class="mt-4 text-2xl font-bold text-blue-600">
-            ${price.toFixed(2)}
-          </p>
+          <div class="mt-4 flex items-baseline gap-2">
+            <span class="text-3xl font-bold text-emerald-600">${price.toFixed(2)}</span>
+            <span class="text-sm text-gray-400">per vial</span>
+          </div>
         )}
-
-        {description && (
-          <p class="mt-4 text-lg leading-relaxed text-gray-600">
-            {description}
-          </p>
-        )}
-
+        {description && <p class="mt-4 text-lg leading-relaxed text-gray-600">{description}</p>}
         {tags && tags.length > 0 && (
-          <div class="mt-4 flex flex-wrap gap-2">
-            {tags.map((tag) => (
-              <span class="rounded-md bg-gray-100 px-2 py-1 text-xs font-medium text-gray-600">
-                {tag}
-              </span>
+          <div class="mt-5 flex flex-wrap gap-2">
+            {tags.map(tag => (
+              <span class="rounded-lg bg-gray-100 px-2.5 py-1 text-xs font-medium text-gray-600">{tag}</span>
             ))}
           </div>
         )}
+        <div class="mt-8 flex gap-3">
+          <a href="/contact" class="inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-emerald-500 to-teal-500 px-6 py-3 text-sm font-semibold text-white shadow-lg shadow-emerald-500/25 transition-all hover:from-emerald-600 hover:to-teal-600">Inquire Now <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"/></svg></a>
+          <a href="/products" class="inline-flex items-center gap-2 rounded-xl border border-gray-200 px-6 py-3 text-sm font-semibold text-gray-700 transition-all hover:border-gray-300 hover:bg-gray-50">Back to Products</a>
+        </div>
       </div>
     </div>
 
     <!-- Product Content -->
-    <div class="prose prose-lg mt-12 max-w-none prose-headings:text-gray-900 prose-p:text-gray-700 prose-a:text-blue-600 prose-table:border-collapse prose-th:border prose-th:border-gray-300 prose-th:bg-gray-50 prose-th:px-4 prose-th:py-2 prose-td:border prose-td:border-gray-300 prose-td:px-4 prose-td:py-2">
+    <div class="prose prose-lg mt-16 max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-h2:text-2xl prose-h2:mt-10 prose-h2:border-b prose-h2:border-gray-100 prose-h2:pb-3 prose-p:text-gray-600 prose-p:leading-relaxed prose-a:text-emerald-600 prose-a:no-underline hover:prose-a:text-emerald-700 prose-strong:text-gray-900 prose-li:text-gray-600 prose-table:rounded-xl prose-table:overflow-hidden prose-table:shadow-sm prose-thead:bg-gray-50 prose-th:px-5 prose-th:py-3 prose-th:text-left prose-th:text-xs prose-th:font-semibold prose-th:uppercase prose-th:tracking-wider prose-th:text-gray-500 prose-td:px-5 prose-td:py-3 prose-td:text-sm prose-td:text-gray-700 prose-tr:border-b prose-tr:border-gray-100">
       <Content />
     </div>
   </article>
