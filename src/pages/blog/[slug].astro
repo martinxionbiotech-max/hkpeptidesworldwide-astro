@@ -1,0 +1,86 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { title, description, pubDate, author, image, tags } = entry.data;
+
+function formatDate(date: Date | undefined): string {
+  if (!date) return '';
+  return date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+}
+---
+
+<Layout title={title} description={description || `${title} — HK Peptides Worldwide Blog`}>
+  <article class="mx-auto max-w-3xl px-4 py-8 sm:px-6 lg:px-8">
+    <!-- Breadcrumb -->
+    <nav class="mb-6 text-sm text-gray-500">
+      <a href="/" class="hover:text-blue-600">Home</a>
+      <span class="mx-2">/</span>
+      <a href="/blog" class="hover:text-blue-600">Blog</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-900">{title}</span>
+    </nav>
+
+    <!-- Header -->
+    <header class="mb-8">
+      <h1 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+        {title}
+      </h1>
+
+      <div class="mt-4 flex flex-wrap items-center gap-4 text-sm text-gray-500">
+        {pubDate && (
+          <time datetime={pubDate.toISOString()}>
+            {formatDate(pubDate)}
+          </time>
+        )}
+        {author && (
+          <>
+            <span aria-hidden="true">·</span>
+            <span>{author}</span>
+          </>
+        )}
+      </div>
+
+      {tags && tags.length > 0 && (
+        <div class="mt-4 flex flex-wrap gap-2">
+          {tags.map((tag) => (
+            <span class="rounded-md bg-blue-100 px-2 py-1 text-xs font-medium text-blue-800">
+              {tag}
+            </span>
+          ))}
+        </div>
+      )}
+    </header>
+
+    <!-- Featured Image -->
+    {image && (
+      <div class="mb-8 overflow-hidden rounded-lg">
+        <img
+          src={`/images/${image}`}
+          alt={title}
+          class="w-full object-cover"
+          loading="eager"
+        />
+      </div>
+    )}
+
+    <!-- Post Content -->
+    <div class="prose prose-lg max-w-none prose-headings:text-gray-900 prose-p:text-gray-700 prose-a:text-blue-600 prose-table:border-collapse prose-th:border prose-th:border-gray-300 prose-th:bg-gray-50 prose-th:px-4 prose-th:py-2 prose-td:border prose-td:border-gray-300 prose-td:px-4 prose-td:py-2">
+      <Content />
+    </div>
+  </article>
+</Layout>

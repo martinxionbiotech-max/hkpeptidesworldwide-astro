@@ -1,0 +1,85 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const products = await getCollection('products');
+  return products.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { title, description, category, price, image, tags } = entry.data;
+
+// Try to find a matching image in public/images/
+let imageSrc = image ? `/images/${image}` : null;
+---
+
+<Layout title={title} description={description || `${title} — HK Peptides Worldwide`}>
+  <article class="mx-auto max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
+    <!-- Breadcrumb -->
+    <nav class="mb-6 text-sm text-gray-500">
+      <a href="/" class="hover:text-blue-600">Home</a>
+      <span class="mx-2">/</span>
+      <a href="/products" class="hover:text-blue-600">Products</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-900">{title}</span>
+    </nav>
+
+    <!-- Product Header -->
+    <div class="grid gap-8 lg:grid-cols-2">
+      {imageSrc && (
+        <div class="overflow-hidden rounded-lg bg-gray-100">
+          <img
+            src={imageSrc}
+            alt={title}
+            class="h-full w-full object-cover"
+            loading="eager"
+          />
+        </div>
+      )}
+
+      <div>
+        <h1 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          {title}
+        </h1>
+
+        {category && (
+          <span class="mt-2 inline-block rounded-full bg-blue-100 px-3 py-1 text-sm font-medium text-blue-800">
+            {category}
+          </span>
+        )}
+
+        {price && (
+          <p class="mt-4 text-2xl font-bold text-blue-600">
+            ${price.toFixed(2)}
+          </p>
+        )}
+
+        {description && (
+          <p class="mt-4 text-lg leading-relaxed text-gray-600">
+            {description}
+          </p>
+        )}
+
+        {tags && tags.length > 0 && (
+          <div class="mt-4 flex flex-wrap gap-2">
+            {tags.map((tag) => (
+              <span class="rounded-md bg-gray-100 px-2 py-1 text-xs font-medium text-gray-600">
+                {tag}
+              </span>
+            ))}
+          </div>
+        )}
+      </div>
+    </div>
+
+    <!-- Product Content -->
+    <div class="prose prose-lg mt-12 max-w-none prose-headings:text-gray-900 prose-p:text-gray-700 prose-a:text-blue-600 prose-table:border-collapse prose-th:border prose-th:border-gray-300 prose-th:bg-gray-50 prose-th:px-4 prose-th:py-2 prose-td:border prose-td:border-gray-300 prose-td:px-4 prose-td:py-2">
+      <Content />
+    </div>
+  </article>
+</Layout>
