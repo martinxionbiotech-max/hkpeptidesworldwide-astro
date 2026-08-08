@@ -1,5 +1,6 @@
 ---
 title: "tirzepatide 10 mg"
+image: "Tirzepatide-from-hk-peptidesworldwide-10mg.jpg"
 slug: tirzepatide-10-mg-research-peptide-vials-usa
 date: 2025-11-15
 source: https://hkpeptidesworldwide.com/tirzepatide-10-mg-research-peptide-vials-usa/

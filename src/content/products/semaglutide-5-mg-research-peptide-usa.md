@@ -1,5 +1,6 @@
 ---
 title: "Semaglutide 5 mg"
+image: "semaglutide-5mg-hk-peptides-worldwide.jpg"
 date: 2025-11-17
 slug: semaglutide-5-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/semaglutide-5-mg-research-peptide-usa/

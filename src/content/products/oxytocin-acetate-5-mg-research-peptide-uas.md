@@ -1,5 +1,6 @@
 ---
 title: "oxytocin 5 mg"
+image: "Oxytocin-a-5mg.jpg"
 slug: oxytocin-acetate-5-mg-research-peptide-uas
 date: 2026-03-18
 source: https://hkpeptidesworldwide.com/oxytocin-acetate-5-mg-research-peptide-uas/

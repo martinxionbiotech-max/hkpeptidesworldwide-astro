@@ -1,5 +1,6 @@
 ---
 title: "Semaglutide 10 mg"
+image: "semaglutide-10mg-hk-peptides-worldwide.jpg"
 date: 2025-11-17
 slug: semaglutide-10-mg-grade-glp-1-research-peptide
 source: https://hkpeptidesworldwide.com/semaglutide-10-mg-grade-glp-1-research-peptide/

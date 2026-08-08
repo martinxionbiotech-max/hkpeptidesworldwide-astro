@@ -1,5 +1,6 @@
 ---
 title: "Selank (Thr-Lys-Pro-Arg-Pro-Gly- 5 mg + 10 mg"
+image: "Selank-10mg.jpg"
 date: 2026-08-08
 slug: selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa
 source: https://hkpeptidesworldwide.com/selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa/

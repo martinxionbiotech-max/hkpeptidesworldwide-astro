@@ -1,5 +1,6 @@
 ---
 title: "BPC-157 5 mg"
+image: "BPC157-5mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: bpc-157-5-mg-body-protection-research-peptide-usa
 source: https://hkpeptidesworldwide.com/bpc-157-5-mg-body-protection-research-peptide-usa/

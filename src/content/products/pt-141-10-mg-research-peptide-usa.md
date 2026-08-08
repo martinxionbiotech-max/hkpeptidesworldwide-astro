@@ -1,5 +1,6 @@
 ---
 title: "PT-141 10 mg"
+image: "PT-141-10mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: pt-141-10-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/pt-141-10-mg-research-peptide-usa/

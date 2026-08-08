@@ -1,5 +1,6 @@
 ---
 title: "10 5 mg"
+image: "kisspeptin-10-5mg.jpg"
 slug: kisspeptin-10-5-mg-metastin-research-peptide-usa
 date: 2025-11-18
 lastUpdated: 2026-08-08

@@ -1,5 +1,6 @@
 ---
 title: "retatrutide 15 mg"
+image: "ratatrutide-15mg-hk-peptides-worldwide.jpg"
 slug: retatrutide-15-mg-laboratory-peptide-supply
 date: 2025-11-28
 source: https://hkpeptidesworldwide.com/retatrutide-15-mg-laboratory-peptide-supply/

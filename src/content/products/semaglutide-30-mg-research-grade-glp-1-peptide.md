@@ -1,5 +1,6 @@
 ---
 title: "Semaglutide 30 mg"
+image: "semaglutide-30mg-hk-peptides-worldwide.jpg"
 date: 2025-11-17
 slug: semaglutide-30-mg-research-grade-glp-1-peptide
 source: https://hkpeptidesworldwide.com/semaglutide-30-mg-research-grade-glp-1-peptide/

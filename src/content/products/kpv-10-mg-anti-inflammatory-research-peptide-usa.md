@@ -1,5 +1,6 @@
 ---
 title: "kpv 10 mg"
+image: "KPV-10mg-hk-peptides-worldwide.jpg"
 slug: kpv-10-mg-anti-inflammatory-research-peptide-usa
 date: 2025-11-18
 lastUpdated: 2026-08-08

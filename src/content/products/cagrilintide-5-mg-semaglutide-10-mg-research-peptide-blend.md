@@ -1,5 +1,6 @@
 ---
 title: "Cagrilintide/Semaglutide Blend 5 mg + 10 mg"
+image: "Cagrilinitide-5mg-Hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: cagrilintide-5-mg-semaglutide-10-mg-research-peptide-blend
 source: https://hkpeptidesworldwide.com/cagrilintide-5-mg-semaglutide-10-mg-research-peptide-blend/

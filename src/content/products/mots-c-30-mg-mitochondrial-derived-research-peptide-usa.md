@@ -1,5 +1,6 @@
 ---
 title: "MOTS-c (Mitochondrial Open Reading Fram 30 mg"
+image: "MOTS-C-30mg-hk-peptides-wordlwide.jpg"
 date: 2025-11-18
 slug: mots-c-30-mg-mitochondrial-derived-research-peptide-usa
 source: https://hkpeptidesworldwide.com/mots-c-30-mg-mitochondrial-derived-research-peptide-usa/

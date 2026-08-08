@@ -1,5 +1,6 @@
 ---
 title: "Semaglutide 20 mg"
+image: "semaglutide-20mg-hk-peptides-worldwide.jpg"
 date: 2025-11-17
 slug: semaglutide-20-mg-high-purity-peptide
 source: https://hkpeptidesworldwide.com/semaglutide-20-mg-high-purity-peptide/

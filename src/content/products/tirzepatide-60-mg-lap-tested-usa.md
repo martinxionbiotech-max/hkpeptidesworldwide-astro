@@ -1,5 +1,6 @@
 ---
 title: "tirzepatide 60 mg"
+image: "Tirzepatide-from-hk-peptidesworldwide-60mg.jpg"
 slug: tirzepatide-60-mg-lap-tested-usa
 date: 2025-11-15
 source: https://hkpeptidesworldwide.com/tirzepatide-60-mg-lap-tested-usa/

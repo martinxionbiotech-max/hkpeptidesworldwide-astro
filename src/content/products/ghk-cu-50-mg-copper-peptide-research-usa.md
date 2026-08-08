@@ -1,5 +1,6 @@
 ---
 title: "GHK-Cu (Copper Tripeptide-1) 50 mg"
+image: "GHK-Cu-50mg-hk-peptides-worldwide.jpg"
 date: 2025-11-18
 slug: ghk-cu-50-mg-copper-peptide-research-usa
 source: https://hkpeptidesworldwide.com/ghk-cu-50-mg-copper-peptide-research-usa/

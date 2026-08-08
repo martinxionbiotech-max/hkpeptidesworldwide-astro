@@ -1,5 +1,6 @@
 ---
 title: "LL-37 5 mg"
+image: "LL37-5MG.jpg"
 date: 2026-08-08
 slug: ll-37-5-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/ll-37-5-mg-research-peptide-usa/

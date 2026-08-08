@@ -1,5 +1,6 @@
 ---
 title: "37 5 mg"
+image: "LL37-5MG.jpg"
 slug: ll-37-5-mg-cathelicidin-antimicrobial-peptide-research-usa
 date: 2025-11-18
 lastUpdated: 2026-08-08

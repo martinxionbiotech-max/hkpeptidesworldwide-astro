@@ -1,5 +1,6 @@
 ---
 title: "Sermorelin (GHRH 1-29 amide, GRF 5 mg + 10 mg"
+image: "Sermorelin-10mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: sermorelin-5-mg-10-mg-research-grade-ghrh-analog-peptide-usa
 source: https://hkpeptidesworldwide.com/sermorelin-5-mg-10-mg-research-grade-ghrh-analog-peptide-usa/

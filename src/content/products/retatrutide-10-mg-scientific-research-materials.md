@@ -1,5 +1,6 @@
 ---
 title: "retatrutide 10 mg"
+image: "ratatrutide-10mg-hk-peptides-worldwide.jpg"
 slug: retatrutide-10-mg-scientific-research-materials
 date: 2025-11-28
 source: https://hkpeptidesworldwide.com/retatrutide-10-mg-scientific-research-materials/

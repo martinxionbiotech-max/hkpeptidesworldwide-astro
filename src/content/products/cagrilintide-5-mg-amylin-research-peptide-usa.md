@@ -1,5 +1,6 @@
 ---
 title: "Cagrilintide 5 mg"
+image: "Cagrilintide-5mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: cagrilintide-5-mg-amylin-research-peptide-usa
 source: https://hkpeptidesworldwide.com/cagrilintide-5-mg-amylin-research-peptide-usa/

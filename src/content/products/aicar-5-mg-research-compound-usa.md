@@ -1,5 +1,6 @@
 ---
 title: "aicar 5 mg"
+image: "AICAR-5MG.jpg"
 slug: aicar-5-mg-research-compound-usa
 date: 2026-04-03
 lastUpdated: 2026-08-08

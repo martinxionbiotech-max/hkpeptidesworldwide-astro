@@ -1,5 +1,6 @@
 ---
 title: "aod9604 5 mg"
+image: "AOD9604-5mg-hk-peptides-worldwide.jpg"
 slug: aod9604-5-mg-fragmented-hgh-research-peptide-usa
 date: 2025-11-18
 lastUpdated: 2026-08-08

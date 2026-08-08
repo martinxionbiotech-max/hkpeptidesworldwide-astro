@@ -1,5 +1,6 @@
 ---
 title: "mgf 2 mg"
+image: "PEG-MGF-2MG.jpg"
 slug: mgf-2-mg-research-peptide-usa
 date: 2026-04-03
 source: https://hkpeptidesworldwide.com/mgf-2-mg-research-peptide-usa/

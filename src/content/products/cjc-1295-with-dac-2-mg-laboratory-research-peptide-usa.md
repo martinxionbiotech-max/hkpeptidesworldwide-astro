@@ -1,5 +1,6 @@
 ---
 title: "CJC-1295 With DAC (Drug Affinity Complex 2 mg"
+image: "CJC-1295-WITHOUT-DAC-2mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: cjc-1295-with-dac-2-mg-laboratory-research-peptide-usa
 source: https://hkpeptidesworldwide.com/cjc-1295-with-dac-2-mg-laboratory-research-peptide-usa/

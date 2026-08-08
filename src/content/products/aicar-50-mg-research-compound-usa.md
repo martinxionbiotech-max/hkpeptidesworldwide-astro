@@ -1,5 +1,6 @@
 ---
 title: "aicar 50 mg"
+image: "AICAR-50ng.jpg"
 slug: aicar-50-mg-research-compound-usa
 date: 2026-03-18
 lastUpdated: 2026-08-08

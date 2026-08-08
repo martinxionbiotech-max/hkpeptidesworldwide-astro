@@ -1,5 +1,6 @@
 ---
 title: "1 5 mg"
+image: "Thymosin-Alpha-1-5mg-1.jpg"
 slug: thymosin-alpha-1-5-mg-research-peptide-usa
 date: 2026-03-18
 source: https://hkpeptidesworldwide.com/thymosin-alpha-1-5-mg-research-peptide-usa/

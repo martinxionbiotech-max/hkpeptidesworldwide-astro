@@ -1,5 +1,6 @@
 ---
 title: "BPC-157/TB-500 Blend 10 mg"
+image: "BPC-10mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: bpc-157-tb-500-10-mg-research-peptide-combination-usa
 source: https://hkpeptidesworldwide.com/bpc-157-tb-500-10-mg-research-peptide-combination-usa/

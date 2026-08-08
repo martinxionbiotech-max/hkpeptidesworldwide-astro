@@ -1,5 +1,6 @@
 ---
 title: "high 50 mg"
+image: "Tirzepatide-from-hk-peptidesworldwide-50mg.jpg"
 slug: high-purity-tirzepatide-50mg
 date: 2025-11-15
 source: https://hkpeptidesworldwide.com/high-purity-tirzepatide-50mg/

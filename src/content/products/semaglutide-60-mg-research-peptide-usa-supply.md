@@ -1,5 +1,6 @@
 ---
 title: "semaglutide 60 mg"
+image: "semaglutide-60mg-hk-peptides-worldwide.jpg"
 slug: semaglutide-60-mg-research-peptide-usa-supply
 date: 2025-11-17
 source: https://hkpeptidesworldwide.com/semaglutide-60-mg-research-peptide-usa-supply/

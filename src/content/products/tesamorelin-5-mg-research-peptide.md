@@ -1,5 +1,6 @@
 ---
 title: "tesamorelin 5 mg"
+image: "Tesamorelin-5mg-hk-peptides-worldwide.jpg"
 slug: tesamorelin-5-mg-research-peptide
 date: 2025-11-27
 source: https://hkpeptidesworldwide.com/tesamorelin-5-mg-research-peptide/

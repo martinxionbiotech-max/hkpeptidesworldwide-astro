@@ -1,5 +1,6 @@
 ---
 title: "Semaglutide 15 mg"
+image: "semaglutide-15mg-hk-peptides-worldwide.jpg"
 date: 2025-11-17
 slug: semaglutide-15-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/semaglutide-15-mg-research-peptide-usa/

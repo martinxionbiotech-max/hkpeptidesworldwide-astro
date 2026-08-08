@@ -1,5 +1,6 @@
 ---
 title: "CJC-1295 Without DAC (Modified GRF 1-29) 5 mg"
+image: "CJC-1295-WITHOUT-DAC-5mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: cjc-1295-without-dac-5-mg-research-peptide-usa
 source: https://hkpeptidesworldwide.com/cjc-1295-without-dac-5-mg-research-peptide-usa/

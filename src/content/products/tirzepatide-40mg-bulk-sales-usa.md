@@ -1,5 +1,6 @@
 ---
 title: "tirzepatide 40 mg"
+image: "Tirzepatide-from-hk-peptidesworldwide-40mg.jpg"
 slug: tirzepatide-40mg-bulk-sales-usa
 date: 2025-11-15
 source: https://hkpeptidesworldwide.com/tirzepatide-40mg-bulk-sales-usa/
