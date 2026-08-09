@@ -2,7 +2,7 @@
 title: "Where To Buy HGH Peptide"
 slug: where-to-buy-hgh-peptides
 date: 2026-08-07
-source: https://hkpeptidesworldwide.com/where-to-buy-hgh-peptides/
+source: https://hkpeptides.net/where-to-buy-hgh-peptides/
 ---
 
 # Where To Buy HGH Peptide

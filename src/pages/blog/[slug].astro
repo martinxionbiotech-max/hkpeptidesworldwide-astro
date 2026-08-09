@@ -29,15 +29,15 @@ const blogSchema = {
       "description": description,
       "datePublished": pubDate?.toISOString(),
       "author": author ? { "@type": "Person", "name": author } : { "@type": "Organization", "name": "HK Peptides Worldwide" },
-      "publisher": { "@id": "https://hkpeptidesworldwide.com/#organization" },
-      "url": `https://hkpeptidesworldwide.com${pageUrl}`,
-      "isPartOf": { "@id": "https://hkpeptidesworldwide.com/blog/#blog" }
+      "publisher": { "@id": "https://hkpeptides.net/#organization" },
+      "url": `https://hkpeptides.net${pageUrl}`,
+      "isPartOf": { "@id": "https://hkpeptides.net/blog/#blog" }
     },
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptidesworldwide.com/" },
-        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://hkpeptidesworldwide.com/blog/" },
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptides.net/" },
+        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://hkpeptides.net/blog/" },
         { "@type": "ListItem", "position": 3, "name": title }
       ]
     }

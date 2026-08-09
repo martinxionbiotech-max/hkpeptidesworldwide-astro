@@ -3,7 +3,7 @@ title: "sermorelin 5 mg"
 image: "Sermorelin-5mg-hk-peptides-worldwide.jpg"
 slug: sermorelin-5-mg-biochemical-research-peptide
 date: 2025-11-27
-source: https://hkpeptidesworldwide.com/sermorelin-5-mg-biochemical-research-peptide/
+source: https://hkpeptides.net/sermorelin-5-mg-biochemical-research-peptide/
 jsonLd:
   product:
     "@context": "https://schema.org"

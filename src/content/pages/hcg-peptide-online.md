@@ -2,7 +2,7 @@
 title: "HCG Peptide Online"
 slug: hcg-peptide-online
 date: 2026-08-02
-source: https://hkpeptidesworldwide.com/hcg-peptide-online/
+source: https://hkpeptides.net/hcg-peptide-online/
 ---
 
 # HCG Peptide Online

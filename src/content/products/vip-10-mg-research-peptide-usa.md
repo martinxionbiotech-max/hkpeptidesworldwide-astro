@@ -3,7 +3,7 @@ title: "vip 10 mg"
 image: "VIP-10MG.jpg"
 slug: vip-10-mg-research-peptide-usa
 date: 2026-04-03
-source: https://hkpeptidesworldwide.com/vip-10-mg-research-peptide-usa/
+source: https://hkpeptides.net/vip-10-mg-research-peptide-usa/
 jsonLd:
   product:
     "@context": "https://schema.org"

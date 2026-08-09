@@ -24,11 +24,11 @@ schema:
   "publisher":
     "@type": "Organization"
     "name": "HKPEPTIDE WORLDWIDE"
-    "url": "https://hkpeptidesworldwide.com"
+    "url": "https://hkpeptides.net"
   "description": "Deep analysis of why peptide research standardization has become a critical priority in 2026, covering protocol harmonization, quality benchmarks, global collaboration challenges, and emerging consensus frameworks."
   "mainEntityOfPage":
     "@type": "WebPage"
-    "@id": "https://hkpeptidesworldwide.com/why-standardization-is-a-major-topic-in-2026/"
+    "@id": "https://hkpeptides.net/why-standardization-is-a-major-topic-in-2026/"
 ---
 ## Key Takeaways
 

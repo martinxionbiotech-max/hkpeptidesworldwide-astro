@@ -3,7 +3,7 @@ title: "CJC-1295 Without DAC (Modified GRF 1-29) 5 mg"
 image: "CJC-1295-WITHOUT-DAC-5mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: cjc-1295-without-dac-5-mg-research-peptide-usa
-source: https://hkpeptidesworldwide.com/cjc-1295-without-dac-5-mg-research-peptide-usa/
+source: https://hkpeptides.net/cjc-1295-without-dac-5-mg-research-peptide-usa/
 category: GHRH Analogue Research Peptide
 molecule: CJC-1295 Without DAC (Modified GRF 1-29)
 cas: N/A (modified peptide; parent GRF 1-29 CAS 83930-13-6)
@@ -63,19 +63,19 @@ jsonLd:
       - "@type": "ListItem"
         position: 1
         name: "Home"
-        item: "https://hkpeptidesworldwide.com"
+        item: "https://hkpeptides.net"
       - "@type": "ListItem"
         position: 2
         name: "Products"
-        item: "https://hkpeptidesworldwide.com/products"
+        item: "https://hkpeptides.net/products"
       - "@type": "ListItem"
         position: 3
         name: "GHRH Research Peptides"
-        item: "https://hkpeptidesworldwide.com/category/ghrh-research-peptides"
+        item: "https://hkpeptides.net/category/ghrh-research-peptides"
       - "@type": "ListItem"
         position: 4
         name: "CJC-1295 Without DAC 5 mg"
-        item: "https://hkpeptidesworldwide.com/cjc-1295-without-dac-5-mg-research-peptide-usa/"
+        item: "https://hkpeptides.net/cjc-1295-without-dac-5-mg-research-peptide-usa/"
 reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-cjc-1295-without-dac-5-mg-research-peptide-usa-v1.0"

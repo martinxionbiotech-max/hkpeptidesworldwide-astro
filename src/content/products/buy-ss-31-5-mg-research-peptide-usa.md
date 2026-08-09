@@ -4,7 +4,7 @@ image: "MK677-5MG.jpg"
 slug: buy-ss-31-5-mg-research-peptide-usa
 date: 2025-11-27
 lastUpdated: 2026-08-08
-source: https://hkpeptidesworldwide.com/buy-ss-31-5-mg-research-peptide-usa/
+source: https://hkpeptides.net/buy-ss-31-5-mg-research-peptide-usa/
 reviewedBy: "HKPEPTIDE WORLDWIDE Research Team"
 schema_jsonld: |
   {
@@ -12,7 +12,7 @@ schema_jsonld: |
     "@graph": [
       {
         "@type": "Product",
-        "@id": "https://hkpeptidesworldwide.com/buy-ss-31-5-mg-research-peptide-usa/#product",
+        "@id": "https://hkpeptides.net/buy-ss-31-5-mg-research-peptide-usa/#product",
         "name": "SS-31 (Elamipretide) 5 mg Mitochondrial Research Peptide",
         "description": "High-purity SS-31 (Elamipretide) 5 mg, a synthetic mitochondria-targeted tetrapeptide that selectively binds cardiolipin on the inner mitochondrial membrane. Supplied exclusively for mitochondrial biology research, oxidative stress studies, and cellular bioenergetics investigation in United States laboratories.",
         "sku": "SS31-5MG-USA",
@@ -31,9 +31,9 @@ schema_jsonld: |
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptidesworldwide.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptidesworldwide.com/products/" },
-          { "@type": "ListItem", "position": 3, "name": "SS-31 5 mg", "item": "https://hkpeptidesworldwide.com/buy-ss-31-5-mg-research-peptide-usa/" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptides.net/" },
+          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptides.net/products/" },
+          { "@type": "ListItem", "position": 3, "name": "SS-31 5 mg", "item": "https://hkpeptides.net/buy-ss-31-5-mg-research-peptide-usa/" }
         ]
       },
       {

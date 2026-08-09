@@ -3,7 +3,7 @@ title: "2 2 10 mg"
 image: "Melanotan-II-10mg-hk-peptides-worldwide.jpg"
 slug: melanotan-2-mt-2-10-mg-peptide-study-materials
 date: 2025-11-27
-source: https://hkpeptidesworldwide.com/melanotan-2-mt-2-10-mg-peptide-study-materials/
+source: https://hkpeptides.net/melanotan-2-mt-2-10-mg-peptide-study-materials/
 jsonLd:
   product:
     "@context": "https://schema.org"

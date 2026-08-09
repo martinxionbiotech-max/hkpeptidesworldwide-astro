@@ -4,7 +4,7 @@ image: "SS-31-10mg-hk-peptides-worldwide.jpg"
 slug: ss-31-10-mg-precision-mitochondrial-research-peptide-usa
 date: 2025-11-27
 lastUpdated: 2026-08-08
-source: https://hkpeptidesworldwide.com/ss-31-10-mg-precision-mitochondrial-research-peptide-usa/
+source: https://hkpeptides.net/ss-31-10-mg-precision-mitochondrial-research-peptide-usa/
 reviewedBy: "HKPEPTIDE WORLDWIDE Research Team"
 schema_jsonld: |
   {
@@ -12,7 +12,7 @@ schema_jsonld: |
     "@graph": [
       {
         "@type": "Product",
-        "@id": "https://hkpeptidesworldwide.com/ss-31-10-mg-precision-mitochondrial-research-peptide-usa/#product",
+        "@id": "https://hkpeptides.net/ss-31-10-mg-precision-mitochondrial-research-peptide-usa/#product",
         "name": "SS-31 (Elamipretide) 10 mg Mitochondrial Research Peptide",
         "description": "High-purity SS-31 (Elamipretide) 10 mg, a mitochondria-targeted tetrapeptide that selectively binds cardiolipin on the inner mitochondrial membrane. Optimized for mechanistic mitochondrial biology studies, multi-endpoint assays, and small-scale in vivo pilot research in United States laboratories.",
         "sku": "SS31-10MG-USA",
@@ -31,9 +31,9 @@ schema_jsonld: |
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptidesworldwide.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptidesworldwide.com/products/" },
-          { "@type": "ListItem", "position": 3, "name": "SS-31 10 mg", "item": "https://hkpeptidesworldwide.com/ss-31-10-mg-precision-mitochondrial-research-peptide-usa/" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptides.net/" },
+          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptides.net/products/" },
+          { "@type": "ListItem", "position": 3, "name": "SS-31 10 mg", "item": "https://hkpeptides.net/ss-31-10-mg-precision-mitochondrial-research-peptide-usa/" }
         ]
       },
       {

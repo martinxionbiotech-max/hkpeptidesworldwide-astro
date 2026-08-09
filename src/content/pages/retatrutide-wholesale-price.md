@@ -2,7 +2,7 @@
 title: "Retatrutide Wholesale Price"
 slug: retatrutide-wholesale-price
 date: 2026-07-19
-source: https://hkpeptidesworldwide.com/retatrutide-wholesale-price/
+source: https://hkpeptides.net/retatrutide-wholesale-price/
 ---
 
 # Retatrutide Wholesale Price

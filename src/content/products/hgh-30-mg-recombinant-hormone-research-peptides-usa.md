@@ -3,7 +3,7 @@ title: "hgh 30 mg"
 image: "HGH-30iu-hk-peptides-worldwide.jpg"
 slug: hgh-30-mg-recombinant-hormone-research-peptides-usa
 date: 2025-11-18
-source: https://hkpeptidesworldwide.com/hgh-30-mg-recombinant-hormone-research-peptides-usa/
+source: https://hkpeptides.net/hgh-30-mg-recombinant-hormone-research-peptides-usa/
 jsonLd:
   product:
     "@context": "https://schema.org"

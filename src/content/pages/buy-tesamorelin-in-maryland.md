@@ -2,7 +2,7 @@
 title: "Buy Tesamorelin in Maryland"
 slug: buy-tesamorelin-in-maryland
 date: 2026-07-19
-source: https://hkpeptidesworldwide.com/buy-tesamorelin-in-maryland/
+source: https://hkpeptides.net/buy-tesamorelin-in-maryland/
 ---
 
 # Buy Tesamorelin in Maryland

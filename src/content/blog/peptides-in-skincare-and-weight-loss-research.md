@@ -25,11 +25,11 @@ schema:
   "publisher":
     "@type": "Organization"
     "name": "HKPEPTIDE WORLDWIDE"
-    "url": "https://hkpeptidesworldwide.com"
+    "url": "https://hkpeptides.net"
   "description": "Comprehensive exploration of peptide applications in skincare and weight loss research, covering GHK-Cu, Matrixyl, Argireline, GLP-1 agonists, collagen peptides, and the scientific evidence driving interest in 2026."
   "mainEntityOfPage":
     "@type": "WebPage"
-    "@id": "https://hkpeptidesworldwide.com/peptides-in-skincare-and-weight-loss-research/"
+    "@id": "https://hkpeptides.net/peptides-in-skincare-and-weight-loss-research/"
 ---
 ## Key Takeaways
 
@@ -276,4 +276,4 @@ The same rigorous quality standards apply to skincare and metabolic research pep
 
 ---
 
-*© 2026 HKPEPTIDE WORLDWIDE. The skincare and metabolic peptides discussed in this article are research-grade materials intended exclusively for laboratory and scientific research. They are not cosmetic products, dietary supplements, or pharmaceutical agents. Researchers must use these materials only in appropriate laboratory settings following all applicable institutional and regulatory requirements. For product-specific information, visit our [product catalog](https://hkpeptidesworldwide.com).*
+*© 2026 HKPEPTIDE WORLDWIDE. The skincare and metabolic peptides discussed in this article are research-grade materials intended exclusively for laboratory and scientific research. They are not cosmetic products, dietary supplements, or pharmaceutical agents. Researchers must use these materials only in appropriate laboratory settings following all applicable institutional and regulatory requirements. For product-specific information, visit our [product catalog](https://hkpeptides.net).*

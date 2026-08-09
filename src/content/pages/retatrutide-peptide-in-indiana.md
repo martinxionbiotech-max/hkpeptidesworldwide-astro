@@ -2,7 +2,7 @@
 title: "Retatrutide Peptide in Indiana"
 slug: retatrutide-peptide-in-indiana
 date: 2026-07-19
-source: https://hkpeptidesworldwide.com/retatrutide-peptide-in-indiana/
+source: https://hkpeptides.net/retatrutide-peptide-in-indiana/
 ---
 
 # Retatrutide Peptide in Indiana

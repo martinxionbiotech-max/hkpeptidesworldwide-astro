@@ -1,6 +1,6 @@
 ---
-title: "Contact HK Peptides Worldwide — Get Support & Order Assistance"
-description: "Contact HK Peptides Worldwide for order support, product inquiries, and research peptide sourcing. USA distribution center, fast shipping, professional service."
+title: "Contact HK Peptides — Get Support & Order HK Peptides"
+description: "Contact HK Peptides for order support, product inquiries, and HK peptides sourcing. Manufacturer direct ship, fast worldwide delivery, professional service."
 slug: contact
 date: 2025-11-28
 ---
@@ -29,9 +29,9 @@ Our support staff is always ready to help with order details, payment verificati
 |---|---|
 | **Company Name** | HK Peptides Worldwide LLC |
 | **Established** | 2025 |
-| **Distribution Center** | United States |
+| **Distribution Center** | Manufacturer Direct Ship |
 | **Email** | aaron@senobiocorp.com |
-| **Website** | [https://hkpeptidesworldwide.com](https://hkpeptidesworldwide.com) |
+| **Website** | [https://hkpeptides.net](https://hkpeptides.net) |
 | **Business Hours** | Mon–Sat, 9 AM – 6 PM (EST) |
 
 ## Location

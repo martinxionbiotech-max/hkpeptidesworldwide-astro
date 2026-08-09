@@ -3,7 +3,7 @@ title: "8 10 mg"
 image: "Snap-8-10mg.jpg"
 slug: snap-8-10-mg-research-peptide-usa
 date: 2026-04-03
-source: https://hkpeptidesworldwide.com/snap-8-10-mg-research-peptide-usa/
+source: https://hkpeptides.net/snap-8-10-mg-research-peptide-usa/
 jsonLd:
   product:
     "@context": "https://schema.org"

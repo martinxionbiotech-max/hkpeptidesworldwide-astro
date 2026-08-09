@@ -3,7 +3,7 @@ title: "retatrutide 30 mg"
 image: "ratatrutide-30mg-hk-peptides-worldwide.jpg"
 slug: retatrutide-30-mg-research-peptides-usa
 date: 2025-11-28
-source: https://hkpeptidesworldwide.com/retatrutide-30-mg-research-peptides-usa/
+source: https://hkpeptides.net/retatrutide-30-mg-research-peptides-usa/
 jsonLd:
   product:
     "@context": "https://schema.org"

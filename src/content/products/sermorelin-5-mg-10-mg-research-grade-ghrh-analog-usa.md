@@ -3,7 +3,7 @@ title: "Sermorelin (GHRH 1-29 amide, GRF 5 mg + 10 mg"
 image: "Sermorelin-10mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: sermorelin-5-mg-10-mg-research-grade-ghrh-analog-peptide-usa
-source: https://hkpeptidesworldwide.com/sermorelin-5-mg-10-mg-research-grade-ghrh-analog-peptide-usa/
+source: https://hkpeptides.net/sermorelin-5-mg-10-mg-research-grade-ghrh-analog-peptide-usa/
 category: Growth Hormone Research
 molecule: "Sermorelin (GHRH 1-29 amide, GRF 1-29 NH₂)"
 cas: "86168-78-7"
@@ -68,19 +68,19 @@ jsonLd:
       - "@type": "ListItem"
         position: 1
         name: "Home"
-        item: "https://hkpeptidesworldwide.com"
+        item: "https://hkpeptides.net"
       - "@type": "ListItem"
         position: 2
         name: "Products"
-        item: "https://hkpeptidesworldwide.com/products"
+        item: "https://hkpeptides.net/products"
       - "@type": "ListItem"
         position: 3
         name: "Growth Hormone Research"
-        item: "https://hkpeptidesworldwide.com/category/growth-hormone-research"
+        item: "https://hkpeptides.net/category/growth-hormone-research"
       - "@type": "ListItem"
         position: 4
         name: "Sermorelin"
-        item: "https://hkpeptidesworldwide.com/sermorelin-5-mg-10-mg-research-grade-ghrh-analog-peptide-usa/"
+        item: "https://hkpeptides.net/sermorelin-5-mg-10-mg-research-grade-ghrh-analog-peptide-usa/"
 ---
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-sermorelin-5-mg-10-mg-research-grade-ghrh-v1.0**
 

@@ -2,7 +2,7 @@
 title: "Buy Tesamorelin in Alabama"
 slug: buy-tesamorelin-in-alabama
 date: 2026-07-19
-source: https://hkpeptidesworldwide.com/buy-tesamorelin-in-alabama/
+source: https://hkpeptides.net/buy-tesamorelin-in-alabama/
 ---
 
 # Buy Tesamorelin in Alabama

@@ -3,7 +3,7 @@ title: "NAD+ (Nicotinamide Adenine Dinucleotide, Oxi "
 image: "NAD-100mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: nad-plus-research-grade-nicotinamide-adenine-dinucleotide-usa
-source: https://hkpeptidesworldwide.com/nad-plus-research-grade-nicotinamide-adenine-dinucleotide-usa/
+source: https://hkpeptides.net/nad-plus-research-grade-nicotinamide-adenine-dinucleotide-usa/
 category: Coenzyme & Cellular Metabolism Research
 molecule: "NAD+ (Nicotinamide Adenine Dinucleotide, Oxidized Form)"
 cas: "53-84-9"
@@ -67,19 +67,19 @@ jsonLd:
       - "@type": "ListItem"
         position: 1
         name: "Home"
-        item: "https://hkpeptidesworldwide.com"
+        item: "https://hkpeptides.net"
       - "@type": "ListItem"
         position: 2
         name: "Products"
-        item: "https://hkpeptidesworldwide.com/products"
+        item: "https://hkpeptides.net/products"
       - "@type": "ListItem"
         position: 3
         name: "Coenzyme & Cellular Metabolism Research"
-        item: "https://hkpeptidesworldwide.com/category/coenzyme-cellular-metabolism-research"
+        item: "https://hkpeptides.net/category/coenzyme-cellular-metabolism-research"
       - "@type": "ListItem"
         position: 4
         name: "NAD+"
-        item: "https://hkpeptidesworldwide.com/nad-plus-research-grade-nicotinamide-adenine-dinucleotide-usa/"
+        item: "https://hkpeptides.net/nad-plus-research-grade-nicotinamide-adenine-dinucleotide-usa/"
 ---
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-nad-plus-research-grade-nicotinamide-adenine-dinucleotide-v1.0**
 

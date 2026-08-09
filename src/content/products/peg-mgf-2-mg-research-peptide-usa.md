@@ -3,7 +3,7 @@ title: "peg 2 mg"
 image: "PEG-MGF-2MG.jpg"
 slug: peg-mgf-2-mg-research-peptide-usa
 date: 2026-04-03
-source: https://hkpeptidesworldwide.com/peg-mgf-2-mg-research-peptide-usa/
+source: https://hkpeptides.net/peg-mgf-2-mg-research-peptide-usa/
 jsonLd:
   product:
     "@context": "https://schema.org"

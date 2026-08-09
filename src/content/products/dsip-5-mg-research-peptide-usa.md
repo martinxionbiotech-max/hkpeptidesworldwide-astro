@@ -3,7 +3,7 @@ title: "DSIP 5 mg"
 image: "DSIP-5MG.jpg"
 date: 2026-08-08
 slug: dsip-5-mg-research-peptide-usa
-source: https://hkpeptidesworldwide.com/dsip-5-mg-research-peptide-usa/
+source: https://hkpeptides.net/dsip-5-mg-research-peptide-usa/
 category: Research Peptide
 molecule: "DSIP"
 cas: "62568-57-4"

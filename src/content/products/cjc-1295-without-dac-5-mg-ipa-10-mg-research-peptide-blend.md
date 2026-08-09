@@ -3,7 +3,7 @@ title: "CJC-1295/Ipamorelin Blend 5 mg + 10 mg"
 image: "CJC-1295-WITHOUT-DAC-5mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: cjc-1295-without-dac-5-mg-ipa-10-mg-research-peptide-blend
-source: https://hkpeptidesworldwide.com/cjc-1295-without-dac-5-mg-ipa-10-mg-research-peptide-blend/
+source: https://hkpeptides.net/cjc-1295-without-dac-5-mg-ipa-10-mg-research-peptide-blend/
 category: Research Peptide
 molecule: "CJC-1295/Ipamorelin Blend"
 cas: "863288-34-0 / 170851-70-4"

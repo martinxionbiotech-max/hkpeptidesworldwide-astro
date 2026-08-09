@@ -3,7 +3,7 @@ title: "MOTS-c (Mitochondrial Open Reading Fram 20 mg"
 image: "MOTS-C-20mg-hk-peptides-wordlwide.jpg"
 date: 2025-11-18
 slug: mots-c-20-mg-mitochondrial-peptide-research-usa
-source: https://hkpeptidesworldwide.com/mots-c-20-mg-mitochondrial-peptide-research-usa/
+source: https://hkpeptides.net/mots-c-20-mg-mitochondrial-peptide-research-usa/
 category: Mitochondrial Research Peptide
 molecule: MOTS-c (Mitochondrial Open Reading Frame of the 12S rRNA-c)
 cas: 1628322-46-2
@@ -63,19 +63,19 @@ jsonLd:
       - "@type": "ListItem"
         position: 1
         name: "Home"
-        item: "https://hkpeptidesworldwide.com"
+        item: "https://hkpeptides.net"
       - "@type": "ListItem"
         position: 2
         name: "Products"
-        item: "https://hkpeptidesworldwide.com/products"
+        item: "https://hkpeptides.net/products"
       - "@type": "ListItem"
         position: 3
         name: "Mitochondrial Research Peptides"
-        item: "https://hkpeptidesworldwide.com/category/mitochondrial-research-peptide"
+        item: "https://hkpeptides.net/category/mitochondrial-research-peptide"
       - "@type": "ListItem"
         position: 4
         name: "MOTS-c 20 mg"
-        item: "https://hkpeptidesworldwide.com/mots-c-20-mg-mitochondrial-peptide-research-usa/"
+        item: "https://hkpeptides.net/mots-c-20-mg-mitochondrial-peptide-research-usa/"
 reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-mots-c-20-mg-mitochondrial-peptide-research-usa-v1.0"

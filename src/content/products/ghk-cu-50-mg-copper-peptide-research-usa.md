@@ -3,7 +3,7 @@ title: "GHK-Cu (Copper Tripeptide-1) 50 mg"
 image: "GHK-Cu-50mg-hk-peptides-worldwide.jpg"
 date: 2025-11-18
 slug: ghk-cu-50-mg-copper-peptide-research-usa
-source: https://hkpeptidesworldwide.com/ghk-cu-50-mg-copper-peptide-research-usa/
+source: https://hkpeptides.net/ghk-cu-50-mg-copper-peptide-research-usa/
 category: Copper Peptide Research
 molecule: GHK-Cu (Copper Tripeptide-1)
 cas: 49557-75-7
@@ -63,19 +63,19 @@ jsonLd:
       - "@type": "ListItem"
         position: 1
         name: "Home"
-        item: "https://hkpeptidesworldwide.com"
+        item: "https://hkpeptides.net"
       - "@type": "ListItem"
         position: 2
         name: "Products"
-        item: "https://hkpeptidesworldwide.com/products"
+        item: "https://hkpeptides.net/products"
       - "@type": "ListItem"
         position: 3
         name: "Copper Peptide Research"
-        item: "https://hkpeptidesworldwide.com/category/copper-peptide-research"
+        item: "https://hkpeptides.net/category/copper-peptide-research"
       - "@type": "ListItem"
         position: 4
         name: "GHK-Cu 50 mg"
-        item: "https://hkpeptidesworldwide.com/ghk-cu-50-mg-copper-peptide-research-usa/"
+        item: "https://hkpeptides.net/ghk-cu-50-mg-copper-peptide-research-usa/"
 reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-ghk-cu-50-mg-copper-peptide-research-usa-v1.0"

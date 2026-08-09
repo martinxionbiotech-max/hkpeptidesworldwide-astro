@@ -24,7 +24,7 @@ keywords:
 schema:
   "@context": "https://schema.org"
   "@type": "CollectionPage"
-  "@id": "https://hkpeptidesworldwide.com/pillars/glp-1-metabolic-peptides-hub/"
+  "@id": "https://hkpeptides.net/pillars/glp-1-metabolic-peptides-hub/"
   "name": "GLP-1 & Metabolic Peptides Research Hub — Mechanisms, Comparisons & Complete Cluster Resource"
   "headline": "GLP-1 and Metabolic Peptides Research Hub: Mechanisms, Receptor Pharmacology, and Complete Research Cluster (2026)"
   "description": "Comprehensive hub for GLP-1 and metabolic peptide research covering Semaglutide, Tirzepatide, Retatrutide, Cagrilintide, Cag/Sema blends, AOD-9604, AICAR, MOTS-c, and NAD+. Includes mechanism comparison tables, receptor target matrix, detailed molecular profiles, and links to all cluster product and blog pages."
@@ -34,12 +34,12 @@ schema:
   "publisher":
     "@type": "Organization"
     "name": "HKPEPTIDE WORLDWIDE"
-    "url": "https://hkpeptidesworldwide.com"
+    "url": "https://hkpeptides.net"
   "datePublished": "2026-08-08"
   "dateModified": "2026-08-08"
   "mainEntityOfPage":
     "@type": "WebPage"
-    "@id": "https://hkpeptidesworldwide.com/pillars/glp-1-metabolic-peptides-hub/"
+    "@id": "https://hkpeptides.net/pillars/glp-1-metabolic-peptides-hub/"
   "hasPart":
     - "@type": "WebPageElement"
       "name": "The Incretin System"
@@ -99,15 +99,15 @@ breadcrumb:
     - "@type": "ListItem"
       "position": 1
       "name": "Home"
-      "item": "https://hkpeptidesworldwide.com"
+      "item": "https://hkpeptides.net"
     - "@type": "ListItem"
       "position": 2
       "name": "Research Peptides Guide"
-      "item": "https://hkpeptidesworldwide.com/pillars/complete-guide-research-peptides/"
+      "item": "https://hkpeptides.net/pillars/complete-guide-research-peptides/"
     - "@type": "ListItem"
       "position": 3
       "name": "GLP-1 & Metabolic Peptides Hub"
-      "item": "https://hkpeptidesworldwide.com/pillars/glp-1-metabolic-peptides-hub/"
+      "item": "https://hkpeptides.net/pillars/glp-1-metabolic-peptides-hub/"
 ---
 
 # GLP-1 & Metabolic Peptides Research Hub — Mechanisms, Comparisons & Complete Cluster Resource (2026)
@@ -685,4 +685,4 @@ NAD+ is the central coenzyme linking cellular redox status to sirtuin-mediated m
 
 ---
 
-*This pillar hub was last reviewed by the HKPEPTIDE WORLDWIDE Research Team on 2026-08-08. All product listings are for laboratory research purposes only. Always consult your institution's research compliance office and biosafety committee before initiating new research protocols. For the most current product availability, COA documentation, and technical specifications, visit [hkpeptidesworldwide.com](https://hkpeptidesworldwide.com).*
+*This pillar hub was last reviewed by the HKPEPTIDE WORLDWIDE Research Team on 2026-08-08. All product listings are for laboratory research purposes only. Always consult your institution's research compliance office and biosafety committee before initiating new research protocols. For the most current product availability, COA documentation, and technical specifications, visit [hkpeptides.net](https://hkpeptides.net).*

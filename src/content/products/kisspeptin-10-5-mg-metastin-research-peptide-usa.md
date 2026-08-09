@@ -4,7 +4,7 @@ image: "kisspeptin-10-5mg.jpg"
 slug: kisspeptin-10-5-mg-metastin-research-peptide-usa
 date: 2025-11-18
 lastUpdated: 2026-08-08
-source: https://hkpeptidesworldwide.com/kisspeptin-10-5-mg-metastin-research-peptide-usa/
+source: https://hkpeptides.net/kisspeptin-10-5-mg-metastin-research-peptide-usa/
 reviewedBy: "HKPEPTIDE WORLDWIDE Research Team"
 schema_jsonld: |
   {
@@ -12,7 +12,7 @@ schema_jsonld: |
     "@graph": [
       {
         "@type": "Product",
-        "@id": "https://hkpeptidesworldwide.com/kisspeptin-10-5-mg-metastin-research-peptide-usa/#product",
+        "@id": "https://hkpeptides.net/kisspeptin-10-5-mg-metastin-research-peptide-usa/#product",
         "name": "Kisspeptin-10 5 mg Metastin Research Peptide",
         "description": "High-purity Kisspeptin-10 (Metastin 45-54), 5 mg, supplied for KISS1R/GPR54 receptor research, GnRH pulse generator studies, and reproductive neuroendocrinology investigation. Strictly for laboratory and scientific research use in the United States.",
         "sku": "KP10-5MG-USA",
@@ -31,9 +31,9 @@ schema_jsonld: |
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptidesworldwide.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptidesworldwide.com/products/" },
-          { "@type": "ListItem", "position": 3, "name": "Kisspeptin-10 5 mg", "item": "https://hkpeptidesworldwide.com/kisspeptin-10-5-mg-metastin-research-peptide-usa/" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptides.net/" },
+          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptides.net/products/" },
+          { "@type": "ListItem", "position": 3, "name": "Kisspeptin-10 5 mg", "item": "https://hkpeptides.net/kisspeptin-10-5-mg-metastin-research-peptide-usa/" }
         ]
       },
       {

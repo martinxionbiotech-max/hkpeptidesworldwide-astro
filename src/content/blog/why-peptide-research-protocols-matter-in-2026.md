@@ -24,11 +24,11 @@ schema:
   "publisher":
     "@type": "Organization"
     "name": "HKPEPTIDE WORLDWIDE"
-    "url": "https://hkpeptidesworldwide.com"
+    "url": "https://hkpeptides.net"
   "description": "Definitive guide to peptide research protocols covering laboratory preparation, storage, handling, analytical verification, documentation standards, and emerging best practices for reproducible peptide science in 2026."
   "mainEntityOfPage":
     "@type": "WebPage"
-    "@id": "https://hkpeptidesworldwide.com/why-peptide-research-protocols-matter-in-2026/"
+    "@id": "https://hkpeptides.net/why-peptide-research-protocols-matter-in-2026/"
 ---
 ## Key Takeaways
 

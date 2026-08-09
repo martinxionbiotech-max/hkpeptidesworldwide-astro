@@ -3,7 +3,7 @@ title: "IGF-1 (Insulin-like Growth Factor-1 / Somato "
 image: "IGF-1mg.jpg"
 date: 2026-08-08
 slug: igf-1-research-grade-insulin-like-growth-factor-peptide-usa
-source: https://hkpeptidesworldwide.com/igf-1-research-grade-insulin-like-growth-factor-peptide-usa/
+source: https://hkpeptides.net/igf-1-research-grade-insulin-like-growth-factor-peptide-usa/
 category: Growth Factor Research
 molecule: IGF-1 (Insulin-like Growth Factor-1 / Somatomedin C)
 cas: "67763-96-6"
@@ -68,19 +68,19 @@ jsonLd:
       - "@type": "ListItem"
         position: 1
         name: "Home"
-        item: "https://hkpeptidesworldwide.com"
+        item: "https://hkpeptides.net"
       - "@type": "ListItem"
         position: 2
         name: "Products"
-        item: "https://hkpeptidesworldwide.com/products"
+        item: "https://hkpeptides.net/products"
       - "@type": "ListItem"
         position: 3
         name: "Growth Factor Research"
-        item: "https://hkpeptidesworldwide.com/category/growth-factor-research"
+        item: "https://hkpeptides.net/category/growth-factor-research"
       - "@type": "ListItem"
         position: 4
         name: "IGF-1"
-        item: "https://hkpeptidesworldwide.com/igf-1-research-grade-insulin-like-growth-factor-peptide-usa/"
+        item: "https://hkpeptides.net/igf-1-research-grade-insulin-like-growth-factor-peptide-usa/"
 ---
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-igf-1-research-grade-insulin-like-growth-factor-v1.0**
 

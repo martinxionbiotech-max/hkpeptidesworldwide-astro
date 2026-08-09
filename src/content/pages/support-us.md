@@ -9,7 +9,7 @@ document_id: "HKPW-PAGE-support-us-v1.0"
 title: "Support us"
 slug: support-us
 date: 2026-06-18
-source: https://hkpeptidesworldwide.com/support-us/
+source: https://hkpeptides.net/support-us/
 ---
 
 # Support us

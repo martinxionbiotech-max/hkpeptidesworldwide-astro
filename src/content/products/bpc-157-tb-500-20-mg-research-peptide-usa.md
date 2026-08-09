@@ -3,7 +3,7 @@ title: "BPC-157/TB-500 Blend 20 mg"
 image: "hkpeptideworldwide.png"
 date: 2026-08-08
 slug: bpc-157-tb-500-20-mg-research-peptide-usa
-source: https://hkpeptidesworldwide.com/bpc-157-tb-500-20-mg-research-peptide-usa/
+source: https://hkpeptides.net/bpc-157-tb-500-20-mg-research-peptide-usa/
 category: Research Peptide
 molecule: "BPC-157/TB-500 Blend"
 cas: "N/A (blend)"

@@ -3,7 +3,7 @@ title: "tirzepatide 15 mg"
 image: "Tirzepatide-from-hk-peptidesworldwide-15mg.jpg"
 slug: tirzepatide-15mg-high-puriy-research-peptide
 date: 2025-11-15
-source: https://hkpeptidesworldwide.com/tirzepatide-15mg-high-puriy-research-peptide/
+source: https://hkpeptides.net/tirzepatide-15mg-high-puriy-research-peptide/
 jsonLd:
   product:
     "@context": "https://schema.org"

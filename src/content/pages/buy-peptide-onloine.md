@@ -2,7 +2,7 @@
 title: "Buy Peptide Onloine"
 slug: buy-peptide-onloine
 date: 2026-08-06
-source: https://hkpeptidesworldwide.com/buy-peptide-onloine/
+source: https://hkpeptides.net/buy-peptide-onloine/
 ---
 
 # Buy Peptide Onloine

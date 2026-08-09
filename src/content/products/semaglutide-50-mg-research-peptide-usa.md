@@ -3,7 +3,7 @@ title: "semaglutide 50 mg"
 image: "semaglutide-50mg-hk-peptides-worldwide.jpg"
 slug: semaglutide-50-mg-research-peptide-usa
 date: 2025-11-17
-source: https://hkpeptidesworldwide.com/semaglutide-50-mg-research-peptide-usa/
+source: https://hkpeptides.net/semaglutide-50-mg-research-peptide-usa/
 jsonLd:
   product:
     "@context": "https://schema.org"

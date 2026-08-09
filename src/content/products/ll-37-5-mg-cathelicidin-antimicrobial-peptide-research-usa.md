@@ -4,7 +4,7 @@ image: "LL37-5MG.jpg"
 slug: ll-37-5-mg-cathelicidin-antimicrobial-peptide-research-usa
 date: 2025-11-18
 lastUpdated: 2026-08-08
-source: https://hkpeptidesworldwide.com/ll-37-5-mg-cathelicidin-antimicrobial-peptide-research-usa/
+source: https://hkpeptides.net/ll-37-5-mg-cathelicidin-antimicrobial-peptide-research-usa/
 reviewedBy: "HKPEPTIDE WORLDWIDE Research Team"
 schema_jsonld: |
   {
@@ -12,7 +12,7 @@ schema_jsonld: |
     "@graph": [
       {
         "@type": "Product",
-        "@id": "https://hkpeptidesworldwide.com/ll-37-5-mg-cathelicidin-antimicrobial-peptide-research-usa/#product",
+        "@id": "https://hkpeptides.net/ll-37-5-mg-cathelicidin-antimicrobial-peptide-research-usa/#product",
         "name": "LL-37 5 mg Cathelicidin Antimicrobial Peptide",
         "description": "High-purity LL-37, the human cathelicidin antimicrobial peptide (hCAP-18/LL-37), 5 mg, supplied for host defense peptide research, antimicrobial mechanism studies, and immunomodulatory pathway analysis. Strictly for laboratory and scientific research use in the United States.",
         "sku": "LL37-5MG-USA",
@@ -31,9 +31,9 @@ schema_jsonld: |
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptidesworldwide.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptidesworldwide.com/products/" },
-          { "@type": "ListItem", "position": 3, "name": "LL-37 5 mg", "item": "https://hkpeptidesworldwide.com/ll-37-5-mg-cathelicidin-antimicrobial-peptide-research-usa/" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptides.net/" },
+          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptides.net/products/" },
+          { "@type": "ListItem", "position": 3, "name": "LL-37 5 mg", "item": "https://hkpeptides.net/ll-37-5-mg-cathelicidin-antimicrobial-peptide-research-usa/" }
         ]
       },
       {

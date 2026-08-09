@@ -3,7 +3,7 @@ title: "mots 40 mg"
 image: "MOTS-C-40mg-hk-peptides-wordlwide.jpg"
 slug: mots-c-40-mg-mitochondrial-peptide-research-usa
 date: 2025-11-18
-source: https://hkpeptidesworldwide.com/mots-c-40-mg-mitochondrial-peptide-research-usa/
+source: https://hkpeptides.net/mots-c-40-mg-mitochondrial-peptide-research-usa/
 jsonLd:
   product:
     "@context": "https://schema.org"

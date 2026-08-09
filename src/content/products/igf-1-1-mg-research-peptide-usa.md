@@ -3,7 +3,7 @@ title: "IGF-1 1 mg"
 image: "IGF-1mg.jpg"
 date: 2026-08-08
 slug: igf-1-1-mg-research-peptide-usa
-source: https://hkpeptidesworldwide.com/igf-1-1-mg-research-peptide-usa/
+source: https://hkpeptides.net/igf-1-1-mg-research-peptide-usa/
 category: Research Peptide
 molecule: "IGF-1"
 cas: "67763-96-6"

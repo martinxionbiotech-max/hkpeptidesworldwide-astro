@@ -25,11 +25,11 @@ schema:
   "publisher":
     "@type": "Organization"
     "name": "HKPEPTIDE WORLDWIDE"
-    "url": "https://hkpeptidesworldwide.com"
+    "url": "https://hkpeptides.net"
   "description": "Evidence-based analysis of peptide research developments. Covers quality standards, analytical verification, and best practices for laboratory scientists."
   "mainEntityOfPage":
     "@type": "WebPage"
-    "@id": "https://hkpeptidesworldwide.com/the-growing-interest-in-peptides-for-muscle-research/"
+    "@id": "https://hkpeptides.net/the-growing-interest-in-peptides-for-muscle-research/"
 ---
 ## Key Takeaways
 
@@ -238,7 +238,7 @@ The HKPEPTIDE WORLDWIDE Research Team is a multidisciplinary group of scientists
 
 We collaborate with academic institutions, contract research organizations, and biotechnology companies worldwide to promote evidence-based peptide research practices, transparent analytical documentation, and rigorous quality control standards. All content published under our byline undergoes internal peer review to ensure scientific accuracy, currency, and alignment with the latest research literature.
 
-*For questions about this article, peptide quality standards, or our research-grade product documentation, contact our team at [hkpeptidesworldwide.com](https://hkpeptidesworldwide.com).*
+*For questions about this article, peptide quality standards, or our research-grade product documentation, contact our team at [hkpeptides.net](https://hkpeptides.net).*
 ---
 
 ## Explore Related Resources
@@ -258,4 +258,4 @@ We collaborate with academic institutions, contract research organizations, and 
 
 ---
 
-*© 2026 HKPEPTIDE WORLDWIDE. All content is for educational and informational purposes. Research peptides are exclusively for laboratory research use (RUO) and are not intended for human consumption or therapeutic application. For batch-specific documentation, contact our quality assurance team or visit [hkpeptidesworldwide.com](https://hkpeptidesworldwide.com).*
+*© 2026 HKPEPTIDE WORLDWIDE. All content is for educational and informational purposes. Research peptides are exclusively for laboratory research use (RUO) and are not intended for human consumption or therapeutic application. For batch-specific documentation, contact our quality assurance team or visit [hkpeptides.net](https://hkpeptides.net).*

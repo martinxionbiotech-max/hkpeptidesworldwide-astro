@@ -2,7 +2,7 @@
 title: "Pure Health Peptides Online"
 slug: pure-health-peptides-online
 date: 2026-07-15
-source: https://hkpeptidesworldwide.com/pure-health-peptides-online/
+source: https://hkpeptides.net/pure-health-peptides-online/
 ---
 
 # Pure Health Peptides Online

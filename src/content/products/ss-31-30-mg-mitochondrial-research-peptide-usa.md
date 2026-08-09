@@ -4,7 +4,7 @@ image: "SS-31-30mg-hk-peptides-worldwide.jpg"
 slug: ss-31-30-mg-mitochondrial-research-peptide-usa
 date: 2025-11-27
 lastUpdated: 2026-08-08
-source: https://hkpeptidesworldwide.com/ss-31-30-mg-mitochondrial-research-peptide-usa/
+source: https://hkpeptides.net/ss-31-30-mg-mitochondrial-research-peptide-usa/
 reviewedBy: "HKPEPTIDE WORLDWIDE Research Team"
 schema_jsonld: |
   {
@@ -12,7 +12,7 @@ schema_jsonld: |
     "@graph": [
       {
         "@type": "Product",
-        "@id": "https://hkpeptidesworldwide.com/ss-31-30-mg-mitochondrial-research-peptide-usa/#product",
+        "@id": "https://hkpeptides.net/ss-31-30-mg-mitochondrial-research-peptide-usa/#product",
         "name": "SS-31 (Elamipretide) 30 mg Mitochondrial Research Peptide",
         "description": "High-purity SS-31 (Elamipretide) 30 mg, the high-quantity research format of the cardiolipin-targeted mitochondrial tetrapeptide. Optimized for extended in vivo studies, high-throughput screening, core facility shared resources, and longitudinal mitochondrial biology research in United States laboratories.",
         "sku": "SS31-30MG-USA",
@@ -31,9 +31,9 @@ schema_jsonld: |
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptidesworldwide.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptidesworldwide.com/products/" },
-          { "@type": "ListItem", "position": 3, "name": "SS-31 30 mg", "item": "https://hkpeptidesworldwide.com/ss-31-30-mg-mitochondrial-research-peptide-usa/" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptides.net/" },
+          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptides.net/products/" },
+          { "@type": "ListItem", "position": 3, "name": "SS-31 30 mg", "item": "https://hkpeptides.net/ss-31-30-mg-mitochondrial-research-peptide-usa/" }
         ]
       },
       {

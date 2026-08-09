@@ -3,7 +3,7 @@ title: "oxytocin 5 mg"
 image: "Oxytocin-a-5mg.jpg"
 slug: oxytocin-acetate-5-mg-research-peptide-uas
 date: 2026-03-18
-source: https://hkpeptidesworldwide.com/oxytocin-acetate-5-mg-research-peptide-uas/
+source: https://hkpeptides.net/oxytocin-acetate-5-mg-research-peptide-uas/
 jsonLd:
   product:
     "@context": "https://schema.org"

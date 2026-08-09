@@ -24,7 +24,7 @@ keywords:
 schema:
   "@context": "https://schema.org"
   "@type": "CollectionPage"
-  "@id": "https://hkpeptidesworldwide.com/pillars/complete-guide-research-peptides/"
+  "@id": "https://hkpeptides.net/pillars/complete-guide-research-peptides/"
   "name": "Complete Guide to Research Peptides — Classification, Mechanisms & Laboratory Applications"
   "headline": "Complete Guide to Research Peptides: Classification, Mechanisms, and Laboratory Applications (2026)"
   "description": "Ultimate comprehensive guide to research peptides covering all major categories: GLP-1/metabolic, healing/regenerative, growth hormone secretagogues, cosmetic/copper peptides, mitochondrial, and immune-modulating peptides. Includes classification tables, mechanism overviews, quality standards, sourcing guidance, and links to all product categories."
@@ -34,12 +34,12 @@ schema:
   "publisher":
     "@type": "Organization"
     "name": "HKPEPTIDE WORLDWIDE"
-    "url": "https://hkpeptidesworldwide.com"
+    "url": "https://hkpeptides.net"
   "datePublished": "2026-08-08"
   "dateModified": "2026-08-08"
   "mainEntityOfPage":
     "@type": "WebPage"
-    "@id": "https://hkpeptidesworldwide.com/pillars/complete-guide-research-peptides/"
+    "@id": "https://hkpeptides.net/pillars/complete-guide-research-peptides/"
   "hasPart":
     - "@type": "WebPageElement"
       "name": "Peptide Classification System"
@@ -95,11 +95,11 @@ breadcrumb:
     - "@type": "ListItem"
       "position": 1
       "name": "Home"
-      "item": "https://hkpeptidesworldwide.com"
+      "item": "https://hkpeptides.net"
     - "@type": "ListItem"
       "position": 2
       "name": "Research Peptides Guide"
-      "item": "https://hkpeptidesworldwide.com/pillars/complete-guide-research-peptides/"
+      "item": "https://hkpeptides.net/pillars/complete-guide-research-peptides/"
 ---
 
 # Complete Guide to Research Peptides — Classification, Mechanisms & Laboratory Applications (2026)
@@ -564,4 +564,4 @@ First, verify your reconstitution and handling procedures — improper storage, 
 
 ---
 
-*This pillar page was last reviewed by the HKPEPTIDE WORLDWIDE Research Team on 2026-08-08. All product listings are for laboratory research purposes only. Always consult your institution's research compliance office and biosafety committee before initiating new research protocols. For the most current product availability, COA documentation, and technical specifications, visit [hkpeptidesworldwide.com](https://hkpeptidesworldwide.com).*
+*This pillar page was last reviewed by the HKPEPTIDE WORLDWIDE Research Team on 2026-08-08. All product listings are for laboratory research purposes only. Always consult your institution's research compliance office and biosafety committee before initiating new research protocols. For the most current product availability, COA documentation, and technical specifications, visit [hkpeptides.net](https://hkpeptides.net).*

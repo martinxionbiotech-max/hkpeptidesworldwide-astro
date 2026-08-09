@@ -3,7 +3,7 @@ title: "retatrutide 40 mg"
 image: "ratatrutide-40mg-hk-peptides-worldwide.jpg"
 slug: retatrutide-40-mg-lab-grade-peptides
 date: 2025-11-28
-source: https://hkpeptidesworldwide.com/retatrutide-40-mg-lab-grade-peptides/
+source: https://hkpeptides.net/retatrutide-40-mg-lab-grade-peptides/
 jsonLd:
   product:
     "@context": "https://schema.org"
@@ -190,7 +190,7 @@ Retatrutide 40 mg undergoes comprehensive release testing (HPLC purity ≥98%, E
 
 **9. Is Retatrutide approved for human use?** No. Exclusively for laboratory and scientific research.
 
-**10. How do I order for my institution?** Contact HK Peptides Worldwide through hkpeptidesworldwide.com.
+**10. How do I order for my institution?** Contact HK Peptides Worldwide through hkpeptides.net.
 
 
 ## Related Research & Resources

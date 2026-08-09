@@ -2,7 +2,7 @@
 title: "Buy GLP 3 Peptide"
 slug: buy-glp-3-peptide
 date: 2026-08-02
-source: https://hkpeptidesworldwide.com/buy-glp-3-peptide/
+source: https://hkpeptides.net/buy-glp-3-peptide/
 ---
 
 # Buy GLP 3 Peptide

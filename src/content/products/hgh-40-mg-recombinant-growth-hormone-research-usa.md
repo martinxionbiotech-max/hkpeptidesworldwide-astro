@@ -3,7 +3,7 @@ title: "HGH 40 mg"
 image: "HGH-40iu-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: hgh-40-mg-recombinant-growth-hormone-research-usa
-source: https://hkpeptidesworldwide.com/hgh-40-mg-recombinant-growth-hormone-research-usa/
+source: https://hkpeptides.net/hgh-40-mg-recombinant-growth-hormone-research-usa/
 category: Research Peptide
 molecule: "HGH"
 cas: "12629-01-5"

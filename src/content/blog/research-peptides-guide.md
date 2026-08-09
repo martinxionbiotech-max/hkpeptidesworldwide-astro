@@ -24,11 +24,11 @@ schema:
   "publisher":
     "@type": "Organization"
     "name": "HKPEPTIDE WORLDWIDE"
-    "url": "https://hkpeptidesworldwide.com"
+    "url": "https://hkpeptides.net"
   "description": "Comprehensive guide to research peptides covering peptide classification, major research applications, quality standards, analytical methods, and how to select reliable peptide suppliers for laboratory research."
   "mainEntityOfPage":
     "@type": "WebPage"
-    "@id": "https://hkpeptidesworldwide.com/research-peptides-guide/"
+    "@id": "https://hkpeptides.net/research-peptides-guide/"
 ---
 ## Key Takeaways
 
@@ -162,7 +162,7 @@ High-purity synthetic peptides (>98-99%) are essential for structural biology te
 | TB-500 | Thymosin β4 fragment (17-23) | Actin binding and cell migration |
 | GHK-Cu | Gly-His-Lys-Cu²⁺ | Extracellular matrix remodeling, copper biology |
 
-For complete product specifications and current availability, visit the [HKPEPTIDE WORLDWIDE product catalog](https://hkpeptidesworldwide.com).
+For complete product specifications and current availability, visit the [HKPEPTIDE WORLDWIDE product catalog](https://hkpeptides.net).
 
 ---
 
@@ -332,4 +332,4 @@ Price variation reflects differences in synthesis difficulty (some sequences are
 
 ---
 
-*© 2026 HKPEPTIDE WORLDWIDE. All products referenced are for laboratory research use only. For specific product availability, current pricing, and batch-level analytical documentation, please visit our [online catalog](https://hkpeptidesworldwide.com) or contact our technical support team.*
+*© 2026 HKPEPTIDE WORLDWIDE. All products referenced are for laboratory research use only. For specific product availability, current pricing, and batch-level analytical documentation, please visit our [online catalog](https://hkpeptides.net) or contact our technical support team.*

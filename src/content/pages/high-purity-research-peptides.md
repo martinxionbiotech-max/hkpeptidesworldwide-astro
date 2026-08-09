@@ -2,7 +2,7 @@
 title: "High Purity Research Peptides"
 slug: high-purity-research-peptides
 date: 2026-08-02
-source: https://hkpeptidesworldwide.com/high-purity-research-peptides/
+source: https://hkpeptides.net/high-purity-research-peptides/
 ---
 
 # High Purity Research Peptides

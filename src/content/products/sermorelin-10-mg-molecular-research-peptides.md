@@ -3,7 +3,7 @@ title: "sermorelin 10 mg"
 image: "Sermorelin-10mg-hk-peptides-worldwide.jpg"
 slug: sermorelin-10-mg-molecular-research-peptides
 date: 2025-11-27
-source: https://hkpeptidesworldwide.com/sermorelin-10-mg-molecular-research-peptides/
+source: https://hkpeptides.net/sermorelin-10-mg-molecular-research-peptides/
 jsonLd:
   product:
     "@context": "https://schema.org"

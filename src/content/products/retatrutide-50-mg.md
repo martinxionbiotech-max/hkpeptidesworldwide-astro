@@ -3,7 +3,7 @@ title: "retatrutide 50 mg"
 image: "ratatrutide-50mg-hk-peptides-worldwide.jpg"
 slug: retatrutide-50-mg
 date: 2025-11-28
-source: https://hkpeptidesworldwide.com/retatrutide-50-mg/
+source: https://hkpeptides.net/retatrutide-50-mg/
 jsonLd:
   product:
     "@context": "https://schema.org"
@@ -172,7 +172,7 @@ Comprehensive release testing: HPLC purity ≥98%, ESI-MS identity (MW 4845.5 ±
 
 **9. Is Retatrutide approved for human use?** No. Research use only.
 
-**10. How do I order?** Contact HK Peptides Worldwide at hkpeptidesworldwide.com.
+**10. How do I order?** Contact HK Peptides Worldwide at hkpeptides.net.
 
 
 ## Related Research & Resources

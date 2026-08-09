@@ -2,7 +2,7 @@
 title: "Where To Buy Peptides"
 slug: where-to-buy-peptides
 date: 2026-07-19
-source: https://hkpeptidesworldwide.com/where-to-buy-peptides/
+source: https://hkpeptides.net/where-to-buy-peptides/
 ---
 
 # Where To Buy Peptides

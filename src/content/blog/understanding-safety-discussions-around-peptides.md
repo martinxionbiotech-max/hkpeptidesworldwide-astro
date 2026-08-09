@@ -24,11 +24,11 @@ schema:
   "publisher":
     "@type": "Organization"
     "name": "HKPEPTIDE WORLDWIDE"
-    "url": "https://hkpeptidesworldwide.com"
+    "url": "https://hkpeptides.net"
   "description": "Comprehensive analysis of safety considerations in peptide research, covering common biological responses observed in laboratory studies, the role of product quality in safety outcomes, and best practices for responsible peptide research."
   "mainEntityOfPage":
     "@type": "WebPage"
-    "@id": "https://hkpeptidesworldwide.com/understanding-safety-discussions-around-peptides/"
+    "@id": "https://hkpeptides.net/understanding-safety-discussions-around-peptides/"
 ---
 ## Key Takeaways
 

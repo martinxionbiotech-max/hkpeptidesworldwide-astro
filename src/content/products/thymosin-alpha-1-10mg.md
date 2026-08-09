@@ -3,7 +3,7 @@ title: "1 10 mg"
 image: "Thymosin-Alpha-1-10mg.jpg"
 slug: thymosin-alpha-1-10mg
 date: 2026-03-18
-source: https://hkpeptidesworldwide.com/thymosin-alpha-1-10mg/
+source: https://hkpeptides.net/thymosin-alpha-1-10mg/
 jsonLd:
   product:
     "@context": "https://schema.org"

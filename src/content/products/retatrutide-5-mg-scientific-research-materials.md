@@ -3,7 +3,7 @@ title: "retatrutide 5 mg"
 image: "ratatrutide-5mg-hk-peptides-worldwide.jpg"
 slug: retatrutide-5-mg-scientific-research-materials
 date: 2025-11-28
-source: https://hkpeptidesworldwide.com/retatrutide-5-mg-scientific-research-materials/
+source: https://hkpeptides.net/retatrutide-5-mg-scientific-research-materials/
 jsonLd:
   product:
     "@context": "https://schema.org"
@@ -273,7 +273,7 @@ Researchers are encouraged to consult current scientific databases, peer-reviewe
 
 ## Ordering and Research Support
 
-Retatrutide 5 mg is available for purchase by qualified research institutions and laboratories through HK Peptides Worldwide. Each order is processed with appropriate documentation verifying the research-purpose nature of the acquisition. For detailed product specifications, current pricing, availability, and batch-specific certificates of analysis, researchers should contact HK Peptides Worldwide directly through the official website at hkpeptidesworldwide.com.
+Retatrutide 5 mg is available for purchase by qualified research institutions and laboratories through HK Peptides Worldwide. Each order is processed with appropriate documentation verifying the research-purpose nature of the acquisition. For detailed product specifications, current pricing, availability, and batch-specific certificates of analysis, researchers should contact HK Peptides Worldwide directly through the official website at hkpeptides.net.
 
 ---
 

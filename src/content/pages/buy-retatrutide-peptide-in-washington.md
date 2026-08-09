@@ -2,7 +2,7 @@
 title: "Buy Retatrutide Peptide in Washington"
 slug: buy-retatrutide-peptide-in-washington
 date: 2026-07-19
-source: https://hkpeptidesworldwide.com/buy-retatrutide-peptide-in-washington/
+source: https://hkpeptides.net/buy-retatrutide-peptide-in-washington/
 ---
 
 # Buy Retatrutide Peptide in Washington

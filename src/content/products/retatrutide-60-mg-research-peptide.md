@@ -3,7 +3,7 @@ title: "retatrutide 60 mg"
 image: "ratatrutide-60mg-hk-peptides-worldwide.jpg"
 slug: retatrutide-60-mg-research-peptide
 date: 2025-12-01
-source: https://hkpeptidesworldwide.com/retatrutide-60-mg-research-peptide/
+source: https://hkpeptides.net/retatrutide-60-mg-research-peptide/
 jsonLd:
   product:
     "@context": "https://schema.org"

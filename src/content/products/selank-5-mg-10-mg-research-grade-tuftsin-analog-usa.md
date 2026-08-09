@@ -3,7 +3,7 @@ title: "Selank (Thr-Lys-Pro-Arg-Pro-Gly- 5 mg + 10 mg"
 image: "Selank-10mg.jpg"
 date: 2026-08-08
 slug: selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa
-source: https://hkpeptidesworldwide.com/selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa/
+source: https://hkpeptides.net/selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa/
 category: Neuropeptide Research
 molecule: "Selank (Thr-Lys-Pro-Arg-Pro-Gly-Pro)"
 cas: "129954-34-1"
@@ -68,19 +68,19 @@ jsonLd:
       - "@type": "ListItem"
         position: 1
         name: "Home"
-        item: "https://hkpeptidesworldwide.com"
+        item: "https://hkpeptides.net"
       - "@type": "ListItem"
         position: 2
         name: "Products"
-        item: "https://hkpeptidesworldwide.com/products"
+        item: "https://hkpeptides.net/products"
       - "@type": "ListItem"
         position: 3
         name: "Neuropeptide Research"
-        item: "https://hkpeptidesworldwide.com/category/neuropeptide-research"
+        item: "https://hkpeptides.net/category/neuropeptide-research"
       - "@type": "ListItem"
         position: 4
         name: "Selank"
-        item: "https://hkpeptidesworldwide.com/selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa/"
+        item: "https://hkpeptides.net/selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa/"
 ---
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-selank-5-mg-10-mg-research-grade-tuftsin-analog-v1.0**
 

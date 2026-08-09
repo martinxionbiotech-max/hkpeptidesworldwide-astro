@@ -7,6 +7,8 @@ document_id: HKPW-BLOG-2026-001
 author: "HKPEPTIDE WORLDWIDE Research Team"
 author_bio: "The HKPEPTIDE WORLDWIDE Research Team comprises experienced biochemists, analytical chemists, and laboratory quality assurance specialists dedicated to advancing peptide research standards globally. With decades of combined expertise in peptide synthesis, HPLC analysis, mass spectrometry verification, and quality control protocol development, our team provides authoritative guidance to the international research community."
 keywords:
+  - hk peptides
+  - hk peptide
   - COA tested peptides
   - Certificate of Analysis peptides
   - peptide quality verification
@@ -24,11 +26,11 @@ schema:
   "publisher":
     "@type": "Organization"
     "name": "HKPEPTIDE WORLDWIDE"
-    "url": "https://hkpeptidesworldwide.com"
+    "url": "https://hkpeptides.net"
   "description": "Comprehensive analysis of Certificate of Analysis (COA) testing for research peptides. Covers HPLC, mass spectrometry, purity verification, and how COA documentation supports reproducible scientific research."
   "mainEntityOfPage":
     "@type": "WebPage"
-    "@id": "https://hkpeptidesworldwide.com/coa-tested-peptides/"
+    "@id": "https://hkpeptides.net/coa-tested-peptides/"
 ---
 ## Key Takeaways
 
@@ -290,4 +292,4 @@ COA validity is not formally defined for research-grade peptides, as it depends 
 
 ---
 
-*© 2026 HKPEPTIDE WORLDWIDE. All COAs referenced in this article are for educational illustration purposes. For batch-specific COA documentation on any of our research peptides, please contact our quality assurance team or visit our [product catalog](https://hkpeptidesworldwide.com).*
+*© 2026 HKPEPTIDE WORLDWIDE. All COAs referenced in this article are for educational illustration purposes. For batch-specific COA documentation on any of our research peptides, please contact our quality assurance team or visit our [product catalog](https://hkpeptides.net).*

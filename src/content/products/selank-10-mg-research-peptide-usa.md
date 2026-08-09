@@ -3,7 +3,7 @@ title: "selank 10 mg"
 image: "Selank-10mg.jpg"
 slug: selank-10-mg-research-peptide-usa
 date: 2026-03-18
-source: https://hkpeptidesworldwide.com/selank-10-mg-research-peptide-usa/
+source: https://hkpeptides.net/selank-10-mg-research-peptide-usa/
 jsonLd:
   product:
     "@context": "https://schema.org"

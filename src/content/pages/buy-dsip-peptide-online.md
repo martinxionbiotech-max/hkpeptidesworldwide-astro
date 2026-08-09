@@ -2,7 +2,7 @@
 title: "Buy DSIP Peptide Online"
 slug: buy-dsip-peptide-online
 date: 2026-07-19
-source: https://hkpeptidesworldwide.com/buy-dsip-peptide-online/
+source: https://hkpeptides.net/buy-dsip-peptide-online/
 ---
 
 # Buy DSIP Peptide Online

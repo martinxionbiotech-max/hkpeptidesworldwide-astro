@@ -4,7 +4,7 @@ image: "KPV-10mg-hk-peptides-worldwide.jpg"
 slug: kpv-10-mg-anti-inflammatory-research-peptide-usa
 date: 2025-11-18
 lastUpdated: 2026-08-08
-source: https://hkpeptidesworldwide.com/kpv-10-mg-anti-inflammatory-research-peptide-usa/
+source: https://hkpeptides.net/kpv-10-mg-anti-inflammatory-research-peptide-usa/
 reviewedBy: "HKPEPTIDE WORLDWIDE Research Team"
 schema_jsonld: |
   {
@@ -12,7 +12,7 @@ schema_jsonld: |
     "@graph": [
       {
         "@type": "Product",
-        "@id": "https://hkpeptidesworldwide.com/kpv-10-mg-anti-inflammatory-research-peptide-usa/#product",
+        "@id": "https://hkpeptides.net/kpv-10-mg-anti-inflammatory-research-peptide-usa/#product",
         "name": "KPV 10 mg Anti-Inflammatory Research Peptide",
         "description": "High-purity KPV (Lys-Pro-Val) tripeptide, 10 mg, supplied for anti-inflammatory pathway research, melanocortin receptor studies, and cytokine modulation analysis. Strictly for laboratory and scientific research use in the United States.",
         "sku": "KPV-10MG-USA",
@@ -31,9 +31,9 @@ schema_jsonld: |
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptidesworldwide.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptidesworldwide.com/products/" },
-          { "@type": "ListItem", "position": 3, "name": "KPV 10 mg", "item": "https://hkpeptidesworldwide.com/kpv-10-mg-anti-inflammatory-research-peptide-usa/" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptides.net/" },
+          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptides.net/products/" },
+          { "@type": "ListItem", "position": 3, "name": "KPV 10 mg", "item": "https://hkpeptides.net/kpv-10-mg-anti-inflammatory-research-peptide-usa/" }
         ]
       },
       {

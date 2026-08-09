@@ -3,7 +3,7 @@ title: "GHRP-2 5 mg"
 image: "GHRP-2-Acetate-5mg.jpg"
 date: 2026-08-08
 slug: ghrp-2-acetate-5-mg-research-peptide-usa
-source: https://hkpeptidesworldwide.com/ghrp-2-acetate-5-mg-research-peptide-usa/
+source: https://hkpeptides.net/ghrp-2-acetate-5-mg-research-peptide-usa/
 category: Research Peptide
 molecule: "GHRP-2"
 cas: "158861-67-7"

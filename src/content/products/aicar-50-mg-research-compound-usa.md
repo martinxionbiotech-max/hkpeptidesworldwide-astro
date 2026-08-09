@@ -4,7 +4,7 @@ image: "AICAR-50ng.jpg"
 slug: aicar-50-mg-research-compound-usa
 date: 2026-03-18
 lastUpdated: 2026-08-08
-source: https://hkpeptidesworldwide.com/aicar-50-mg-research-compound-usa/
+source: https://hkpeptides.net/aicar-50-mg-research-compound-usa/
 reviewedBy: "HKPEPTIDE WORLDWIDE Research Team"
 schema_jsonld: |
   {
@@ -12,7 +12,7 @@ schema_jsonld: |
     "@graph": [
       {
         "@type": "Product",
-        "@id": "https://hkpeptidesworldwide.com/aicar-50-mg-research-compound-usa/#product",
+        "@id": "https://hkpeptides.net/aicar-50-mg-research-compound-usa/#product",
         "name": "AICAR 50 mg Research Compound",
         "description": "High-purity AICAR (5-Aminoimidazole-4-carboxamide ribonucleotide) 50 mg research compound for extended AMPK pathway studies, metabolic regulation research, and mitochondrial biogenesis investigation. Supplied exclusively for laboratory and scientific research purposes in the United States.",
         "sku": "AICAR-50MG-USA",
@@ -31,9 +31,9 @@ schema_jsonld: |
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptidesworldwide.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptidesworldwide.com/products/" },
-          { "@type": "ListItem", "position": 3, "name": "AICAR 50 mg", "item": "https://hkpeptidesworldwide.com/aicar-50-mg-research-compound-usa/" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptides.net/" },
+          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptides.net/products/" },
+          { "@type": "ListItem", "position": 3, "name": "AICAR 50 mg", "item": "https://hkpeptides.net/aicar-50-mg-research-compound-usa/" }
         ]
       },
       {

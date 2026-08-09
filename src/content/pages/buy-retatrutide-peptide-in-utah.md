@@ -2,7 +2,7 @@
 title: "Buy Retatrutide Peptide in Utah"
 slug: buy-retatrutide-peptide-in-utah
 date: 2026-07-19
-source: https://hkpeptidesworldwide.com/buy-retatrutide-peptide-in-utah/
+source: https://hkpeptides.net/buy-retatrutide-peptide-in-utah/
 ---
 
 # Buy Retatrutide Peptide in Utah

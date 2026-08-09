@@ -4,7 +4,7 @@ image: "AOD9604-5mg-hk-peptides-worldwide.jpg"
 slug: aod9604-5-mg-fragmented-hgh-research-peptide-usa
 date: 2025-11-18
 lastUpdated: 2026-08-08
-source: https://hkpeptidesworldwide.com/aod9604-5-mg-fragmented-hgh-research-peptide-usa/
+source: https://hkpeptides.net/aod9604-5-mg-fragmented-hgh-research-peptide-usa/
 reviewedBy: "HKPEPTIDE WORLDWIDE Research Team"
 schema_jsonld: |
   {
@@ -12,7 +12,7 @@ schema_jsonld: |
     "@graph": [
       {
         "@type": "Product",
-        "@id": "https://hkpeptidesworldwide.com/aod9604-5-mg-fragmented-hgh-research-peptide-usa/#product",
+        "@id": "https://hkpeptides.net/aod9604-5-mg-fragmented-hgh-research-peptide-usa/#product",
         "name": "AOD9604 5 mg Fragmented HGH Research Peptide",
         "description": "High-purity AOD9604 5 mg, a synthetic peptide fragment (hGH 177-191) of human growth hormone, supplied for lipolytic pathway research, metabolic studies, and peptide fragment analysis. Strictly for laboratory and scientific research use in the United States.",
         "sku": "AOD9604-5MG-USA",
@@ -31,9 +31,9 @@ schema_jsonld: |
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptidesworldwide.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptidesworldwide.com/products/" },
-          { "@type": "ListItem", "position": 3, "name": "AOD9604 5 mg", "item": "https://hkpeptidesworldwide.com/aod9604-5-mg-fragmented-hgh-research-peptide-usa/" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://hkpeptides.net/" },
+          { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://hkpeptides.net/products/" },
+          { "@type": "ListItem", "position": 3, "name": "AOD9604 5 mg", "item": "https://hkpeptides.net/aod9604-5-mg-fragmented-hgh-research-peptide-usa/" }
         ]
       },
       {

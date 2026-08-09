@@ -2,7 +2,7 @@
 title: "Peptides Shop"
 slug: peptides-shop
 date: 2026-07-19
-source: https://hkpeptidesworldwide.com/peptides-shop/
+source: https://hkpeptides.net/peptides-shop/
 ---
 
 # Peptides Shop

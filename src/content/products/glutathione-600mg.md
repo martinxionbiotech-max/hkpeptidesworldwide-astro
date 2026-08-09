@@ -3,7 +3,7 @@ title: "Glutathione 600 mg"
 image: "Glutathione-600mg.jpg"
 date: 2026-08-08
 slug: glutathione-600mg
-source: https://hkpeptidesworldwide.com/glutathione-600mg/
+source: https://hkpeptides.net/glutathione-600mg/
 category: Research Peptide
 molecule: "Glutathione"
 cas: "70-18-8"

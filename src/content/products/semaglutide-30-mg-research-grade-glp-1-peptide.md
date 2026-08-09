@@ -3,7 +3,7 @@ title: "Semaglutide 30 mg"
 image: "semaglutide-30mg-hk-peptides-worldwide.jpg"
 date: 2025-11-17
 slug: semaglutide-30-mg-research-grade-glp-1-peptide
-source: https://hkpeptidesworldwide.com/semaglutide-30-mg-research-grade-glp-1-peptide/
+source: https://hkpeptides.net/semaglutide-30-mg-research-grade-glp-1-peptide/
 category: Metabolic Research Peptide
 molecule: Semaglutide
 cas: 910463-68-2
@@ -63,19 +63,19 @@ jsonLd:
       - "@type": "ListItem"
         position: 1
         name: "Home"
-        item: "https://hkpeptidesworldwide.com"
+        item: "https://hkpeptides.net"
       - "@type": "ListItem"
         position: 2
         name: "Products"
-        item: "https://hkpeptidesworldwide.com/products"
+        item: "https://hkpeptides.net/products"
       - "@type": "ListItem"
         position: 3
         name: "Metabolic Research Peptides"
-        item: "https://hkpeptidesworldwide.com/category/metabolic-research-peptide"
+        item: "https://hkpeptides.net/category/metabolic-research-peptide"
       - "@type": "ListItem"
         position: 4
         name: "Semaglutide 30 mg"
-        item: "https://hkpeptidesworldwide.com/semaglutide-30-mg-research-grade-glp-1-peptide/"
+        item: "https://hkpeptides.net/semaglutide-30-mg-research-grade-glp-1-peptide/"
 reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-semaglutide-30-mg-research-grade-glp-1-peptide-v1.0"

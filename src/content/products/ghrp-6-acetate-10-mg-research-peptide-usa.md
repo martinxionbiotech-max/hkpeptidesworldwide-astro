@@ -3,7 +3,7 @@ title: "GHRP-6 10 mg"
 image: "GHRP-6-Acetate-10mg.jpg"
 date: 2026-08-08
 slug: ghrp-6-acetate-10-mg-research-peptide-usa
-source: https://hkpeptidesworldwide.com/ghrp-6-acetate-10-mg-research-peptide-usa/
+source: https://hkpeptides.net/ghrp-6-acetate-10-mg-research-peptide-usa/
 category: Research Peptide
 molecule: "GHRP-6"
 cas: "87616-84-0"

@@ -2,7 +2,7 @@
 title: "Buy Tesamorelin Online"
 slug: buy-tesamorelin-online
 date: 2026-07-19
-source: https://hkpeptidesworldwide.com/buy-tesamorelin-online/
+source: https://hkpeptides.net/buy-tesamorelin-online/
 ---
 
 # Buy Tesamorelin Online

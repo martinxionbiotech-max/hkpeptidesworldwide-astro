@@ -2,7 +2,7 @@
 title: "Buy Retatrutide Online"
 slug: buy-retatrutide-online
 date: 2026-07-15
-source: https://hkpeptidesworldwide.com/buy-retatrutide-online/
+source: https://hkpeptides.net/buy-retatrutide-online/
 ---
 
 # Buy Retatrutide Online

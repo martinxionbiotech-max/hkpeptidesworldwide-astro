@@ -2,7 +2,7 @@
 title: "Buy Bacteriostatic Water in USA"
 slug: buy-bacteriostatic-water-in-usa
 date: 2026-08-02
-source: https://hkpeptidesworldwide.com/buy-bacteriostatic-water-in-usa/
+source: https://hkpeptides.net/buy-bacteriostatic-water-in-usa/
 ---
 
 # Buy Bacteriostatic Water in USA

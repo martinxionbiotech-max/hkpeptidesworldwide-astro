@@ -2,7 +2,7 @@
 title: "Refund and Returns Policy"
 slug: refund_returns
 date: 2025-11-28
-source: https://hkpeptidesworldwide.com/refund_returns/
+source: https://hkpeptides.net/refund_returns/
 ---
 
 # Refund and Returns Policy

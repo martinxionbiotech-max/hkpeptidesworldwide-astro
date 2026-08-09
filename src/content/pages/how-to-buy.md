@@ -9,7 +9,7 @@ document_id: "HKPW-PAGE-how-to-buy-v1.0"
 title: "How To Buy"
 slug: how-to-buy
 date: 2025-11-28
-source: https://hkpeptidesworldwide.com/how-to-buy/
+source: https://hkpeptides.net/how-to-buy/
 ---
 
 # How To Buy

@@ -2,7 +2,7 @@
 title: "Transfer A Peptide From Pen To A Vial"
 slug: transfer-a-peptide-from-pen-to-a-vial
 date: 2026-08-02
-source: https://hkpeptidesworldwide.com/transfer-a-peptide-from-pen-to-a-vial/
+source: https://hkpeptides.net/transfer-a-peptide-from-pen-to-a-vial/
 ---
 
 # Transfer A Peptide From Pen To A Vial

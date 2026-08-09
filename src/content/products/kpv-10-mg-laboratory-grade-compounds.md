@@ -3,7 +3,7 @@ title: "KPV 10 mg"
 image: "KPV-10mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: kpv-10-mg-laboratory-grade-compounds
-source: https://hkpeptidesworldwide.com/kpv-10-mg-laboratory-grade-compounds/
+source: https://hkpeptides.net/kpv-10-mg-laboratory-grade-compounds/
 category: Research Peptide
 molecule: "KPV"
 cas: "--"

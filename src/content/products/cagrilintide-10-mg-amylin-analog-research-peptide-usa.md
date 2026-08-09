@@ -3,7 +3,7 @@ title: "Cagrilintide 10 mg"
 image: "Cagrilinitide-10mg-Hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: cagrilintide-10-mg-amylin-analog-research-peptide-usa
-source: https://hkpeptidesworldwide.com/cagrilintide-10-mg-amylin-analog-research-peptide-usa/
+source: https://hkpeptides.net/cagrilintide-10-mg-amylin-analog-research-peptide-usa/
 category: Research Peptide
 molecule: "Cagrilintide"
 cas: "1415456-99-3"

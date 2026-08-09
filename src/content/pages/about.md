@@ -1,13 +1,15 @@
 ---
-title: "About HK Peptides Worldwide — Premium Research Peptides Supplier"
-description: "Founded in 2025, HK Peptides Worldwide provides HPLC-verified, COA-tested research peptides with a USA distribution center, fast shipping, and professional support."
+title: "About HK Peptides — Premium HK Peptides Supplier"
+description: "Founded in 2025, HK Peptides Worldwide provides HPLC-verified, COA-tested HK peptides with manufacturer direct shipping, professional support, and reliable global delivery."
 slug: about
 date: 2025-11-28
 ---
 
-# About HK Peptides Worldwide
+# About HK Peptides
 
-HK Peptides Worldwide is proud to introduce our USA Distribution Center, established in 2025 to expand our global footprint and strengthen our ability to serve customers with faster, more reliable, and more transparent delivery services. Our U.S. hub was created to bridge the gap between international manufacturing standards and the efficiency demanded by the American market.
+HK Peptides Worldwide is proud to introduce our Manufacturer Direct Ship program, established in 2025 to expand our global footprint and strengthen our ability to serve customers with faster, more reliable, and more transparent delivery services. Our direct-from-manufacturer logistics bridge the gap between international manufacturing standards and the efficiency demanded by the global market.
+
+As a trusted source for premium HK peptides, we focus on providing researchers with consistent, verified compounds for laboratory and scientific investigation.
 
 From day one, our goal has been to provide dependable logistics, consistent quality control procedures, and professional customer support for clients across research, development, and laboratory fields. We focus heavily on maintaining responsible operational practices, clear communication, and a seamless customer experience from order placement to final delivery.
 

@@ -3,7 +3,7 @@ title: "TB-500 5 mg"
 image: "TB500-5mg-hk-peptide-worldwide.jpg"
 date: 2026-08-08
 slug: tb-500-5-mg-thymosin-beta-research-peptide-usa
-source: https://hkpeptidesworldwide.com/tb-500-5-mg-thymosin-beta-research-peptide-usa/
+source: https://hkpeptides.net/tb-500-5-mg-thymosin-beta-research-peptide-usa/
 category: Research Peptide
 molecule: TB-500
 cas: "77591-33-4"

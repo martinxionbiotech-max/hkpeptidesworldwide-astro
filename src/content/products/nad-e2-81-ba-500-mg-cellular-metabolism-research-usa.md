@@ -3,7 +3,7 @@ title: "NAD+ 500 mg"
 image: "NAD-500mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: nad-e2-81-ba-500-mg-cellular-metabolism-research-usa
-source: https://hkpeptidesworldwide.com/nad-e2-81-ba-500-mg-cellular-metabolism-research-usa/
+source: https://hkpeptides.net/nad-e2-81-ba-500-mg-cellular-metabolism-research-usa/
 category: Research Peptide
 molecule: "NAD+"
 cas: "53-84-9"

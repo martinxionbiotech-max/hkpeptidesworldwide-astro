@@ -3,7 +3,7 @@ title: "dermorphin 5 mg"
 image: "Dermorphin-5mg.jpg"
 slug: dermorphin-5-mg-opioid-receptor-research-peptide-usa
 date: 2026-04-03
-source: https://hkpeptidesworldwide.com/dermorphin-5-mg-opioid-receptor-research-peptide-usa/
+source: https://hkpeptides.net/dermorphin-5-mg-opioid-receptor-research-peptide-usa/
 jsonLd:
   product:
     "@context": "https://schema.org"

@@ -2,7 +2,7 @@
 title: "Order Peptides in USA"
 slug: order-peptides-in-usa
 date: 2026-08-06
-source: https://hkpeptidesworldwide.com/order-peptides-in-usa/
+source: https://hkpeptides.net/order-peptides-in-usa/
 ---
 
 # Order Peptides in USA

@@ -3,7 +3,7 @@ title: "retatrutide 20 mg"
 image: "ratatrutide-20mg-hk-peptides-worldwide.jpg"
 slug: retatrutide-20-mg-high-purity-peptides
 date: 2025-11-28
-source: https://hkpeptidesworldwide.com/retatrutide-20-mg-high-purity-peptides/
+source: https://hkpeptides.net/retatrutide-20-mg-high-purity-peptides/
 jsonLd:
   product:
     "@context": "https://schema.org"

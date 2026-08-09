@@ -3,7 +3,7 @@ title: "NAD+ 1000 mg"
 image: "NAD-1000mg-hk-peptides-worldwide.jpg"
 date: 2026-08-08
 slug: nad-e2-81-ba-1000-mg-laboratory-research-compound-usa
-source: https://hkpeptidesworldwide.com/nad-e2-81-ba-1000-mg-laboratory-research-compound-usa/
+source: https://hkpeptides.net/nad-e2-81-ba-1000-mg-laboratory-research-compound-usa/
 category: Research Peptide
 molecule: "NAD+"
 cas: "53-84-9"
