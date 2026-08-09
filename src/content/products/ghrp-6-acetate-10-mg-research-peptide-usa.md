@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# GHRP-6 (Growth Hormone Releasing Peptide-6) 10 mg × 10 vials — Research-Grade Ghrelin Mimetic / GHS-R1a Agonist
-
 **Document ID:** HKPW-ghrp-6-acetate-10-mg-research-peptide-us-v1.0 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team | **Last Updated:** 2026-08-08
 
 ## Product Identity & Specifications

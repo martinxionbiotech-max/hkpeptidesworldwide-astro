@@ -80,9 +80,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-semaglutide-10-mg-grade-glp-1-research-peptide-v1.0"
 ---
-
-# Semaglutide 10 mg | Research-Grade GLP-1 Agonist | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-semaglutide-10-mg-grade-glp-1-research-peptide-v1.0**
 
 ---

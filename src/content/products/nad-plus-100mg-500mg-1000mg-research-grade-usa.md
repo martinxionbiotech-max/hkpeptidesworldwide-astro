@@ -81,9 +81,6 @@ jsonLd:
         name: "NAD+"
         item: "https://hkpeptidesworldwide.com/nad-plus-research-grade-nicotinamide-adenine-dinucleotide-usa/"
 ---
-
-# NAD+ 100 mg / 500 mg / 1000 mg | Research-Grade Nicotinamide Adenine Dinucleotide | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-nad-plus-research-grade-nicotinamide-adenine-dinucleotide-v1.0**
 
 ---

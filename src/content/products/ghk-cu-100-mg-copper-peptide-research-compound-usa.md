@@ -80,9 +80,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-ghk-cu-100-mg-copper-peptide-research-compound-usa-v1.0"
 ---
-
-# GHK-Cu 100 mg | High-Quantity Copper Peptide for Extended ECM Research | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-ghk-cu-100-mg-copper-peptide-research-compound-usa-v2.0**
 
 ---

@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# LL-37 (Cathelicidin Antimicrobial Peptide) 5 mg x 10 vials — Research-Grade Antimicrobial Host Defense Peptide
-
 **Document ID:** HKPW-ll-37-5-mg-research-peptide-usa-v1.0 | **Reviewed:** HKPEPTIDE WORLDWIDE Research Team | **Updated:** 2026-08-08
 
 ## Product Identity & Specifications

@@ -80,9 +80,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-cjc-1295-with-dac-5-mg-molecular-research-peptides-v1.0"
 ---
-
-# CJC-1295 With DAC 5 mg | Long-Acting GHRH Research Peptide | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-cjc-dac-5mg-v2.0**
 
 ---

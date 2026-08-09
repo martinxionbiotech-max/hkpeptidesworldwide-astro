@@ -82,9 +82,6 @@ jsonLd:
         name: "IGF-1"
         item: "https://hkpeptidesworldwide.com/igf-1-research-grade-insulin-like-growth-factor-peptide-usa/"
 ---
-
-# IGF-1 0.1 mg & 1 mg | Research-Grade Insulin-like Growth Factor-1 | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-igf-1-research-grade-insulin-like-growth-factor-v1.0**
 
 ---

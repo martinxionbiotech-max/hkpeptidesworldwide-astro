@@ -31,9 +31,6 @@ schema:
     "@type": "WebPage"
     "@id": "https://hkpeptidesworldwide.com/where-can-i-find-peptide-mot-testing-services-near-me-in-the-uk/"
 ---
-
-# Where Can I Find Peptide MOT Testing Services Near Me in the UK?
-
 ## Key Takeaways
 
 - MOT (Mitochondrial-Derived Peptide) testing services in the UK are available through **specialized analytical laboratories** and university-affiliated core facilities.

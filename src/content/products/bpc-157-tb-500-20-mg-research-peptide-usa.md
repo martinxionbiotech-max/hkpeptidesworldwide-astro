@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# BPC-157 + TB-500 Combination BPC-157 20mg + TB-500 20mg — Research-Grade Pre-Formulated Healing Peptide Blend
-
 **Document ID:** HKPW-bpc-157-tb-500-20-mg-research-peptide-us-v1.0 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team | **Last Updated:** 2026-08-08
 
 ## Product Identity & Specifications

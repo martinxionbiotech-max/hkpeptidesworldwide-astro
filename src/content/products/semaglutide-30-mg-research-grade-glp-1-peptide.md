@@ -80,9 +80,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-semaglutide-30-mg-research-grade-glp-1-peptide-v1.0"
 ---
-
-# Semaglutide 30 mg | Research-Grade GLP-1 Peptide | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-semaglutide-30-mg-research-grade-glp-1-peptide-v1.0**
 
 ---

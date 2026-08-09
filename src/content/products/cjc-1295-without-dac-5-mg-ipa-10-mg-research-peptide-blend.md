@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# CJC-1295 (no DAC) + Ipamorelin Combination CJC-1295 (no DAC) 5mg + Ipamorelin 10mg — Research-Grade GHRH/GHS-R Synergistic GH Secretagogue Blend
-
 **Document ID:** HKPW-cjc-1295-without-dac-5-mg-ipa-10-mg-rese-v1.0 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team | **Last Updated:** 2026-08-08
 
 ## Product Identity & Specifications

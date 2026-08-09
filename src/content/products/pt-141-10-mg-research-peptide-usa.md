@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# PT-141 (Bremelanotide) 10 mg x 10 vials — Research-Grade Melanocortin Receptor Agonist (MC3R/MC4R)
-
 **Document ID:** HKPW-pt-141-10-mg-research-peptide-usa-v1.0 | **Reviewed:** HKPEPTIDE WORLDWIDE Research Team | **Updated:** 2026-08-08
 
 ## Product Identity & Specifications

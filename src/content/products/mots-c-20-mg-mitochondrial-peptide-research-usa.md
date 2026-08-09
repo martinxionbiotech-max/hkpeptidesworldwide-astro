@@ -80,9 +80,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-mots-c-20-mg-mitochondrial-peptide-research-usa-v1.0"
 ---
-
-# MOTS-c 20 mg | Precision Mitochondrial-Derived Peptide for Metabolic Research | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-mots-c-20-mg-mitochondrial-peptide-research-usa-v2.0**
 
 ---

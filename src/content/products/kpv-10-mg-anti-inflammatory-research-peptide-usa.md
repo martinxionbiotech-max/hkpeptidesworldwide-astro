@@ -68,9 +68,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-kpv-10-mg-anti-inflammatory-research-peptide-usa-v1.0"
 ---
-
-# KPV 10 mg Anti-Inflammatory Research Peptide USA
-
 ## Product Identity & Specifications
 
 KPV is a minimalist tripeptide consisting of lysine (Lys/K), proline (Pro/P), and valine (Val/V) — the three C-terminal amino acid residues of alpha-melanocyte-stimulating hormone (α-MSH). Derived from the post-translational processing of proopiomelanocortin (POMC), α-MSH is a 13-amino acid neuropeptide with well-characterized roles in pigmentation, energy homeostasis, and immunomodulation. Structure-activity relationship (SAR) studies demonstrated that the C-terminal tripeptide Lys-Pro-Val retains the full anti-inflammatory potency of the parent tridecapeptide while completely lacking melanogenic activity, thereby representing a minimal pharmacophore for the anti-inflammatory actions of melanocortin peptides. The 10 mg format is optimized for extended in-vitro inflammatory pathway research, dose-response characterization, and multi-well experimental protocols requiring substantial material quantities.
@@ -158,7 +155,7 @@ KPV 10 mg is deployed in a variety of specialized research contexts:
 | Analytical Method | Specification | Acceptance Criteria |
 |---|---|---|
 | **RP-HPLC Purity** | C18, 214 nm UV detection | ≥98.0% peak area |
-| **ESI-TOF Mass Spectrometry** | Positive ion mode | [M+H]⁺ 343.2 ± 0.5 Da |
+| **ESI-TOF Mass Spectrometry** | Positive ion mode | ⁺ 343.2 ± 0.5 Da |
 | **Amino Acid Analysis** | Post-column ninhydrin detection | ±10% of theoretical composition (Lys:Pro:Val = 1:1:1) |
 | **Peptide Content (Net Peptide)** | Elemental analysis (N%) | ≥80% |
 | **Residual TFA** | Ion chromatography | ≤1.0% |
@@ -198,7 +195,7 @@ KPV is employed across a broad spectrum of inflammation-focused research models.
 
 ### 5. What purity level is verified for KPV 10 mg?
 
-HKPEPTIDE WORLDWIDE supplies KPV 10 mg at ≥98% purity as verified by reverse-phase HPLC analysis using a C18 column with UV detection at 214 nm. Peptide identity and molecular weight are confirmed by electrospray ionization time-of-flight mass spectrometry (ESI-TOF MS) with the expected [M+H]⁺ ion at m/z 343.2 (±0.5 Da). Each batch includes a comprehensive Certificate of Analysis (CoA) documenting HPLC chromatogram, mass spectrum, peptide content (net peptide analysis via elemental nitrogen determination), residual trifluoroacetic acid (TFA), Karl Fischer water content, and LAL endotoxin level. Researchers may request batch-specific CoA documentation for regulatory compliance, grant reporting, or publication support.
+HKPEPTIDE WORLDWIDE supplies KPV 10 mg at ≥98% purity as verified by reverse-phase HPLC analysis using a C18 column with UV detection at 214 nm. Peptide identity and molecular weight are confirmed by electrospray ionization time-of-flight mass spectrometry (ESI-TOF MS) with the expected ⁺ ion at m/z 343.2 (±0.5 Da). Each batch includes a comprehensive Certificate of Analysis (CoA) documenting HPLC chromatogram, mass spectrum, peptide content (net peptide analysis via elemental nitrogen determination), residual trifluoroacetic acid (TFA), Karl Fischer water content, and LAL endotoxin level. Researchers may request batch-specific CoA documentation for regulatory compliance, grant reporting, or publication support.
 
 ---
 

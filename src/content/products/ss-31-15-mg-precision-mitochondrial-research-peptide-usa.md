@@ -68,9 +68,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-ss-31-15-mg-precision-mitochondrial-research-pepti-v1.0"
 ---
-
-# SS-31 (Elamipretide) 15 mg Mitochondrial Research Peptide USA
-
 ## Product Identity & Specifications
 
 SS-31 (Elamipretide) 15 mg is the mid-range research format of the Szeto-Schiller series' lead mitochondrial-targeted tetrapeptide, providing optimal material quantities for Seahorse XF metabolic flux analysis panels, moderate-throughput in vitro screening, and multi-group in vivo pilot investigations. This configuration balances per-milligram cost efficiency with practical laboratory workflow — 15 mg supports complete experimental campaigns (multiple independent biological replicates × multiple assay endpoints) from a single vial, reducing inter-batch variability that can arise when pooling material from multiple smaller vials. SS-31's well-characterized pharmacological profile, extensive peer-reviewed literature base (>200 publications), and progression through Phase II/III clinical trials make it the most thoroughly validated mitochondrial research tool available for laboratories investigating mitochondrial quality control, cristae biology, and redox signaling.
@@ -160,7 +157,7 @@ SS-31 15 mg enables comprehensive mitochondrial research programs:
 | Analytical Method | Specification | Acceptance Criteria |
 |---|---|---|
 | **RP-HPLC Purity** | C18, 214 nm UV detection | ≥98.0% peak area |
-| **ESI-TOF Mass Spectrometry** | Positive ion mode | [M+H]⁺ 640.4 ± 0.5 Da (free base) |
+| **ESI-TOF Mass Spectrometry** | Positive ion mode | ⁺ 640.4 ± 0.5 Da (free base) |
 | **Amino Acid Analysis** | Post-column ninhydrin detection | ±10% of theoretical composition |
 | **Peptide Content (Net Peptide)** | Elemental analysis (N%) | ≥85% |
 | **Residual TFA** | Ion chromatography | ≤1.0% |

@@ -82,9 +82,6 @@ jsonLd:
         name: "Selank"
         item: "https://hkpeptidesworldwide.com/selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa/"
 ---
-
-# Selank 5 mg & 10 mg | Research-Grade Tuftsin Analog Heptapeptide | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-selank-5-mg-10-mg-research-grade-tuftsin-analog-v1.0**
 
 ---

@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# Cagrilintide (Long-Acting Amylin Analogue) 5 mg × 10 vials — Research-Grade Long-Acting Amylin Analogue
-
 **Document ID:** HKPW-cagrilintide-5-mg-amylin-research-peptid-v1.0 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team | **Last Updated:** 2026-08-08
 
 ## Product Identity & Specifications

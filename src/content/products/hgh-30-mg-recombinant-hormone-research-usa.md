@@ -29,9 +29,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# Human Growth Hormone (Somatropin) 30 mg × 10 vials — Research-Grade Recombinant Human Growth Hormone
-
 **Document ID:** HKPW-hgh-30-mg-recombinant-hormone-research-u-v1.0 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team | **Last Updated:** 2026-08-08
 
 ## Product Identity & Specifications

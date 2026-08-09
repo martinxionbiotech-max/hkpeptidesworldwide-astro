@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# Glutathione (GSH) 600 mg — Research-Grade Endogenous Antioxidant Tripeptide
-
 **Document ID:** HKPW-glutathione-600mg-v1.0 | **Reviewed:** HKPEPTIDE WORLDWIDE Research Team | **Updated:** 2026-08-08
 
 ## Product Identity & Specifications

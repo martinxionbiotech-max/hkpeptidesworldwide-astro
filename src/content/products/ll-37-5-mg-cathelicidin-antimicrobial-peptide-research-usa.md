@@ -68,9 +68,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-ll-37-5-mg-cathelicidin-antimicrobial-peptide-rese-v1.0"
 ---
-
-# LL-37 5 mg Cathelicidin Antimicrobial Peptide Research USA
-
 ## Product Identity & Specifications
 
 LL-37 is the sole human cathelicidin antimicrobial peptide, a 37-amino acid, α-helical, amphipathic peptide liberated from the C-terminal domain of the precursor protein hCAP-18 (human cationic antimicrobial protein, 18 kDa) by proteolytic processing. As the primary antimicrobial peptide produced by human neutrophils, epithelial cells, and keratinocytes, LL-37 occupies a central position in innate immune defense at mucosal surfaces and barrier tissues. Beyond its direct microbicidal activity, LL-37 functions as a master immunomodulator — recruiting immune cells to sites of infection, modulating Toll-like receptor (TLR) responses, promoting wound healing and angiogenesis, and neutralizing bacterial endotoxins. The 5 mg format is optimized for antimicrobial susceptibility assays, membrane permeabilization studies, immunomodulation research, and host defense peptide structure-function analysis.
@@ -160,7 +157,7 @@ LL-37 5 mg is deployed in a variety of specialized research contexts:
 | Analytical Method | Specification | Acceptance Criteria |
 |---|---|---|
 | **RP-HPLC Purity** | C18, 214 nm UV detection | ≥98.0% peak area |
-| **ESI-TOF Mass Spectrometry** | Positive ion mode | [M+4H]⁴⁺ 1124.8 ± 0.5 Da; [M+5H]⁵⁺ 900.3 ± 0.5 Da |
+| **ESI-TOF Mass Spectrometry** | Positive ion mode | ⁴⁺ 1124.8 ± 0.5 Da; ⁵⁺ 900.3 ± 0.5 Da |
 | **Amino Acid Analysis** | Post-column ninhydrin detection | ±10% of theoretical composition |
 | **Peptide Content (Net Peptide)** | Elemental analysis (N%) | ≥80% |
 | **Residual TFA** | Ion chromatography | ≤1.0% |
@@ -202,7 +199,7 @@ LL-37 exhibits broad-spectrum antimicrobial activity encompassing both Gram-posi
 
 ### 5. What purity level is verified for LL-37 5 mg?
 
-HKPEPTIDE WORLDWIDE supplies LL-37 5 mg at ≥98% purity as verified by reverse-phase HPLC analysis using a C18 column with UV detection at 214 nm. Peptide identity and molecular weight are confirmed by electrospray ionization time-of-flight mass spectrometry (ESI-TOF MS). Due to the size and charge of LL-37 (4496 Da, +6 charge), multiply charged ion envelopes ([M+3H]³⁺ through [M+7H]⁷⁺) are observed; the [M+4H]⁴⁺ ion at m/z 1124.8 (±0.5 Da) and the [M+5H]⁵⁺ ion at m/z 900.3 (±0.5 Da) are typically the most abundant charge states. Each batch includes a comprehensive Certificate of Analysis (CoA) documenting HPLC chromatogram, mass spectrum, peptide content (net peptide analysis via elemental nitrogen determination), residual trifluoroacetic acid (TFA), Karl Fischer water content, and LAL endotoxin level. Researchers may request batch-specific CoA documentation for regulatory compliance, grant reporting, or publication support.
+HKPEPTIDE WORLDWIDE supplies LL-37 5 mg at ≥98% purity as verified by reverse-phase HPLC analysis using a C18 column with UV detection at 214 nm. Peptide identity and molecular weight are confirmed by electrospray ionization time-of-flight mass spectrometry (ESI-TOF MS). Due to the size and charge of LL-37 (4496 Da, +6 charge), multiply charged ion envelopes (³⁺ through ⁷⁺) are observed; the ⁴⁺ ion at m/z 1124.8 (±0.5 Da) and the ⁵⁺ ion at m/z 900.3 (±0.5 Da) are typically the most abundant charge states. Each batch includes a comprehensive Certificate of Analysis (CoA) documenting HPLC chromatogram, mass spectrum, peptide content (net peptide analysis via elemental nitrogen determination), residual trifluoroacetic acid (TFA), Karl Fischer water content, and LAL endotoxin level. Researchers may request batch-specific CoA documentation for regulatory compliance, grant reporting, or publication support.
 
 ---
 

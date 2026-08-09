@@ -68,9 +68,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-kisspeptin-10-5-mg-metastin-research-peptide-usa-v1.0"
 ---
-
-# Kisspeptin-10 5 mg Metastin Research Peptide USA
-
 ## Product Identity & Specifications
 
 Kisspeptin-10 is a C-terminal amidated decapeptide (Tyr-Asn-Trp-Asn-Ser-Phe-Gly-Leu-Arg-Phe-NH₂) representing the minimal receptor-binding sequence of the endogenous KISS1R (GPR54) ligand, metastin (kisspeptin-54). Discovered through the convergence of cancer metastasis research and reproductive endocrinology, the kisspeptin signaling system has emerged as the master gatekeeper of the hypothalamic-pituitary-gonadal (HPG) axis, governing the onset of puberty, the regulation of reproductive cyclicity, and the feedback control of gonadotropin secretion. Kisspeptin-10, corresponding to residues 45-54 of the full-length 54-amino acid metastin peptide, retains the complete receptor binding affinity and full agonistic potency of the parent peptide, making it the most widely employed molecular probe in kisspeptin signaling research. The 5 mg format is optimized for precision in-vitro studies, dose-response characterization, and receptor pharmacology investigations.
@@ -163,7 +160,7 @@ Kisspeptin-10 5 mg is deployed in a variety of specialized research contexts:
 | Analytical Method | Specification | Acceptance Criteria |
 |---|---|---|
 | **RP-HPLC Purity** | C18, 214 nm UV detection | ≥98.0% peak area |
-| **ESI-TOF Mass Spectrometry** | Positive ion mode | [M+H]⁺ 1303.5 ± 1.0 Da; [M+2H]²⁺ 652.3 ± 0.5 Da |
+| **ESI-TOF Mass Spectrometry** | Positive ion mode | ⁺ 1303.5 ± 1.0 Da; ²⁺ 652.3 ± 0.5 Da |
 | **Amino Acid Analysis** | Post-column ninhydrin detection | ±10% of theoretical composition |
 | **Peptide Content (Net Peptide)** | Elemental analysis (N%) | ≥80% |
 | **Residual TFA** | Ion chromatography | ≤1.0% |
@@ -204,7 +201,7 @@ In-vitro KISS1R signaling studies typically employ Kisspeptin-10 across a wide c
 
 ### 5. What purity level is verified for Kisspeptin-10 5 mg?
 
-HKPEPTIDE WORLDWIDE supplies Kisspeptin-10 5 mg at ≥98% purity as verified by reverse-phase HPLC analysis using a C18 column with UV detection at 214 nm. Peptide identity and molecular weight are confirmed by electrospray ionization time-of-flight mass spectrometry (ESI-TOF MS), with the expected monoisotopic [M+H]⁺ ion at m/z 1303.46 (±1.0 Da) and the doubly charged [M+2H]²⁺ ion at m/z 652.23 (±0.5 Da). C-terminal amidation integrity is confirmed by mass spectrometric analysis, with the free acid ([M-OH]) impurity specified at ≤2%. Each batch includes a comprehensive Certificate of Analysis (CoA) documenting HPLC chromatogram, mass spectrum, peptide content (net peptide analysis via elemental nitrogen determination), residual trifluoroacetic acid (TFA), Karl Fischer water content, and LAL endotoxin level. Researchers may request batch-specific CoA documentation for regulatory compliance, grant reporting, or publication support.
+HKPEPTIDE WORLDWIDE supplies Kisspeptin-10 5 mg at ≥98% purity as verified by reverse-phase HPLC analysis using a C18 column with UV detection at 214 nm. Peptide identity and molecular weight are confirmed by electrospray ionization time-of-flight mass spectrometry (ESI-TOF MS), with the expected monoisotopic ⁺ ion at m/z 1303.46 (±1.0 Da) and the doubly charged ²⁺ ion at m/z 652.23 (±0.5 Da). C-terminal amidation integrity is confirmed by mass spectrometric analysis, with the free acid ([M-OH]) impurity specified at ≤2%. Each batch includes a comprehensive Certificate of Analysis (CoA) documenting HPLC chromatogram, mass spectrum, peptide content (net peptide analysis via elemental nitrogen determination), residual trifluoroacetic acid (TFA), Karl Fischer water content, and LAL endotoxin level. Researchers may request batch-specific CoA documentation for regulatory compliance, grant reporting, or publication support.
 
 ---
 

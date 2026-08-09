@@ -68,9 +68,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-aod9604-5-mg-fragmented-hgh-research-peptide-usa-v1.0"
 ---
-
-# AOD9604 5 mg Fragmented HGH Research Peptide USA
-
 ## Product Identity & Specifications
 
 AOD9604 is a rationally designed synthetic peptide fragment derived from the C-terminal domain of human growth hormone (hGH), specifically corresponding to amino acid residues 177-191 of the native 191-amino acid protein with an engineered N-terminal tyrosine addition. Developed through structure-activity relationship (SAR) studies of the hGH molecule, AOD9604 was designed to isolate the lipolytic (fat-mobilizing) biological activity of growth hormone while eliminating the growth-promoting, mitogenic, and diabetogenic properties inherent to full-length hGH. The 5 mg format is optimized for precision in-vitro research, pilot studies, and small-scale metabolic pathway analysis.
@@ -159,7 +156,7 @@ AOD9604 5 mg is deployed in a variety of specialized research contexts:
 | Analytical Method | Specification | Acceptance Criteria |
 |---|---|---|
 | **RP-HPLC Purity** | C18, 214 nm UV detection | ≥98.0% peak area |
-| **ESI-TOF Mass Spectrometry** | Positive ion mode | [M+H]⁺ 1815.9 ± 1.0 Da |
+| **ESI-TOF Mass Spectrometry** | Positive ion mode | ⁺ 1815.9 ± 1.0 Da |
 | **Amino Acid Analysis** | Post-column ninhydrin detection | ±10% of theoretical composition |
 | **Peptide Content (Net Peptide)** | Elemental analysis (N%) | ≥80% |
 | **Residual TFA** | Ion chromatography | ≤1.0% |
@@ -201,7 +198,7 @@ A defining and mechanistically significant characteristic of AOD9604 is its inab
 
 ### 5. What purity level is verified for AOD9604 5 mg?
 
-HKPEPTIDE WORLDWIDE supplies AOD9604 5 mg at ≥98% purity as verified by reverse-phase HPLC analysis using a C18 column with UV detection at 214 nm. Peptide identity and molecular weight are confirmed by electrospray ionization time-of-flight mass spectrometry (ESI-TOF MS) with the expected monoisotopic [M+H]⁺ ion at m/z 1814.89 (±1.0 Da). Each batch includes a comprehensive Certificate of Analysis (CoA) documenting HPLC chromatogram, mass spectrum, peptide content (net peptide analysis), amino acid composition, residual trifluoroacetic acid (TFA), Karl Fischer water content, and LAL endotoxin level. Researchers may request batch-specific CoA documentation for regulatory compliance or publication support.
+HKPEPTIDE WORLDWIDE supplies AOD9604 5 mg at ≥98% purity as verified by reverse-phase HPLC analysis using a C18 column with UV detection at 214 nm. Peptide identity and molecular weight are confirmed by electrospray ionization time-of-flight mass spectrometry (ESI-TOF MS) with the expected monoisotopic ⁺ ion at m/z 1814.89 (±1.0 Da). Each batch includes a comprehensive Certificate of Analysis (CoA) documenting HPLC chromatogram, mass spectrum, peptide content (net peptide analysis), amino acid composition, residual trifluoroacetic acid (TFA), Karl Fischer water content, and LAL endotoxin level. Researchers may request batch-specific CoA documentation for regulatory compliance or publication support.
 
 ---
 

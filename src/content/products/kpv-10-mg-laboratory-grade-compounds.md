@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# KPV (Lys-Pro-Val) 10 mg x 10 vials — Research-Grade Anti-Inflammatory Tripeptide
-
 **Document ID:** HKPW-kpv-10-mg-laboratory-grade-compounds-v1.0 | **Reviewed:** HKPEPTIDE WORLDWIDE Research Team | **Updated:** 2026-08-08
 
 ## Product Identity & Specifications

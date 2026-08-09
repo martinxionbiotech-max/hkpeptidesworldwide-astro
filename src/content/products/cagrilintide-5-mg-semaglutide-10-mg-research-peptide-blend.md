@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# Cagrilintide + Semaglutide Fixed-Dose Combination Cagrilintide 5mg + Semaglutide 10mg — Research-Grade Dual-Pathway Metabolic Research Blend
-
 **Document ID:** HKPW-cagrilintide-5-mg-semaglutide-10-mg-rese-v1.0 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team | **Last Updated:** 2026-08-08
 
 ## Product Identity & Specifications

@@ -24,9 +24,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-retatrutide-15-mg-laboratory-peptide-supply-v1.0"
 ---
-
-# Retatrutide 15 mg Laboratory Peptide Supply
-
 ## Technical Specifications
 
 | Parameter | Value |

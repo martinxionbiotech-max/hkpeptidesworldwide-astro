@@ -80,9 +80,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-semaglutide-5-mg-research-peptide-usa-v1.0"
 ---
-
-# Semaglutide 5 mg | Research-Grade ≥99% Purity | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-semaglutide-5-mg-research-peptide-usa-v1.0**
 
 ---

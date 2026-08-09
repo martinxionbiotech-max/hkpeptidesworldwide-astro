@@ -68,9 +68,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-aicar-50-mg-research-compound-usa-v1.0"
 ---
-
-# AICAR 50 mg Research Compound USA
-
 ## Product Identity & Specifications
 
 AICAR (5-Aminoimidazole-4-carboxamide ribonucleotide) 50 mg is the high-quantity research format of one of biomedical science's most consequential pharmacological tools for probing AMP-activated protein kinase (AMPK) signaling. This 50 mg configuration provides sufficient compound for extended experimental protocols, chronic in-vivo administration studies, high-throughput screening campaigns, and large-volume cell culture investigations. As the direct metabolic precursor of the AMP-mimetic ZMP, AICAR remains the gold-standard small-molecule activator for interrogating cellular energy-sensing pathways.
@@ -158,7 +155,7 @@ HKPEPTIDE WORLDWIDE maintains rigorous quality management for every batch of AIC
 | Analytical Method | Specification | Acceptance Criteria |
 |---|---|---|
 | **HPLC Purity** | RP-C18, 260 nm UV | ≥98.0% peak area |
-| **LC-MS Identity** | ESI+ full scan | [M+H]⁺ 339.1 ± 0.5 Da; [M+Na]⁺ 361.1 Da |
+| **LC-MS Identity** | ESI+ full scan | ⁺ 339.1 ± 0.5 Da; [M+Na]⁺ 361.1 Da |
 | **¹H-NMR Conformation** | 400 MHz, D₂O | Characteristic imidazole C2-H at δ 7.8; ribose anomeric H at δ 5.8 |
 | **Residual Solvents (GC-HS)** | USP <467> Method IV | Class 1: not detected; Class 2/3: ≤0.5% individually |
 | **Water Content (Karl Fischer)** | Coulometric | ≤5.0% w/w |
@@ -196,7 +193,7 @@ Lyophilized AICAR 50 mg powder must be stored at -20°C in a desiccated, light-p
 
 ### 4. What analytical documentation accompanies AICAR 50 mg orders?
 
-Every AICAR 50 mg shipment from HKPEPTIDE WORLDWIDE is accompanied by a batch-specific Certificate of Analysis (CoA) documenting the complete quality control testing suite: reverse-phase HPLC purity (≥98% at 260 nm), LC-MS identity confirmation (m/z 339.1 [M+H]⁺; m/z 361.1 [M+Na]⁺), residual solvent analysis by GC-HS per USP <467>, water content by Karl Fischer coulometric titration (≤5.0% w/w), Limulus amebocyte lysate (LAL) endotoxin quantification (≤1.0 EU/mg), and macroscopic appearance assessment. Additional analytical data, including ¹H-NMR spectra and heavy metal analysis (ICP-MS), are available upon request. Researchers may contact our Quality Control department for historical batch trending data.
+Every AICAR 50 mg shipment from HKPEPTIDE WORLDWIDE is accompanied by a batch-specific Certificate of Analysis (CoA) documenting the complete quality control testing suite: reverse-phase HPLC purity (≥98% at 260 nm), LC-MS identity confirmation (m/z 339.1 ⁺; m/z 361.1 [M+Na]⁺), residual solvent analysis by GC-HS per USP <467>, water content by Karl Fischer coulometric titration (≤5.0% w/w), Limulus amebocyte lysate (LAL) endotoxin quantification (≤1.0 EU/mg), and macroscopic appearance assessment. Additional analytical data, including ¹H-NMR spectra and heavy metal analysis (ICP-MS), are available upon request. Researchers may contact our Quality Control department for historical batch trending data.
 
 ### 5. Can AICAR 50 mg be used in combination with other AMPK modulators in research?
 

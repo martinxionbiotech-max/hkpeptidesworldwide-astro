@@ -82,9 +82,6 @@ jsonLd:
         name: "Sermorelin"
         item: "https://hkpeptidesworldwide.com/sermorelin-5-mg-10-mg-research-grade-ghrh-analog-peptide-usa/"
 ---
-
-# Sermorelin 5 mg & 10 mg | Research-Grade GHRH (1-29) Amide | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-sermorelin-5-mg-10-mg-research-grade-ghrh-v1.0**
 
 ---

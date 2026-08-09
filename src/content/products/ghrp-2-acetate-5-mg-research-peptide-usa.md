@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# GHRP-2 (Pralmorelin) 5 mg × 10 vials — Research-Grade Ghrelin Receptor (GHS-R1a) Agonist
-
 **Document ID:** HKPW-ghrp-2-acetate-5-mg-research-peptide-usa-v1.0 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team | **Last Updated:** 2026-08-08
 
 ## Product Identity & Specifications

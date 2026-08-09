@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# Insulin-like Growth Factor-1 (IGF-1) 0.1 mg × 10 vials — Research-Grade Recombinant Insulin-like Growth Factor-1
-
 **Document ID:** HKPW-igf-1-0-1-mg-research-peptide-usa-v1.0 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team | **Last Updated:** 2026-08-08
 
 ## Product Identity & Specifications

@@ -24,9 +24,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-retatrutide-30-mg-research-peptides-usa-v1.0"
 ---
-
-# Retatrutide 30 mg Research Peptides USA
-
 ## Technical Specifications
 
 | Parameter | Value |

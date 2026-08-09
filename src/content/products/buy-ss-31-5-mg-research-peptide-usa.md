@@ -68,9 +68,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-buy-ss-31-5-mg-research-peptide-usa-v1.0"
 ---
-
-# SS-31 (Elamipretide) 5 mg Mitochondrial Research Peptide USA
-
 ## Product Identity & Specifications
 
 SS-31 (Elamipretide, also designated MTP-131 in early literature) is a groundbreaking synthetic aromatic-cationic tetrapeptide developed through structure-activity relationship optimization by the Szeto-Schiller laboratory at Cornell University. This 5 mg configuration represents the precision-research format, optimized for exploratory mitochondrial biology studies, pilot dose-response characterization, and small-scale in vitro investigations. SS-31 represents the most thoroughly characterized member of the Szeto-Schiller (SS) peptide family — mitochondria-targeted compounds that exploit the electrochemical gradient across the inner mitochondrial membrane (ΔΨm ≈ -180 mV) to achieve extraordinary mitochondrial matrix concentrations (1000- to 5000-fold over extracellular levels) without requiring a dedicated import sequence. Its ability to selectively bind cardiolipin distinguishes it from conventional antioxidants and positions it as a uniquely valuable tool for investigating mitochondrial quality control, cristae architecture, and redox biology.
@@ -162,7 +159,7 @@ SS-31 5 mg is employed across multiple specialized research domains:
 | Analytical Method | Specification | Acceptance Criteria |
 |---|---|---|
 | **RP-HPLC Purity** | C18, 214 nm UV detection | ≥98.0% peak area |
-| **ESI-TOF Mass Spectrometry** | Positive ion mode | [M+H]⁺ 640.4 ± 0.5 Da (free base) |
+| **ESI-TOF Mass Spectrometry** | Positive ion mode | ⁺ 640.4 ± 0.5 Da (free base) |
 | **Amino Acid Analysis** | Post-column ninhydrin detection | ±10% of theoretical composition |
 | **Peptide Content (Net Peptide)** | Elemental analysis (N%) | ≥85% |
 | **Residual TFA** | Ion chromatography | ≤1.0% |

@@ -80,9 +80,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-mots-c-10-mg-mitochondrial-peptide-supply-usa-v1.0"
 ---
-
-# MOTS-c 10 mg | Research-Grade Mitochondrial-Derived Peptide ≥98% Purity | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-mots-c-10-mg-mitochondrial-peptide-supply-usa-v2.0**
 
 ---

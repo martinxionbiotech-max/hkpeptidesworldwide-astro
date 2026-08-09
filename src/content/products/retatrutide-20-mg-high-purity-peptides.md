@@ -24,9 +24,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-retatrutide-20-mg-high-purity-peptides-v1.0"
 ---
-
-# Retatrutide 20 mg High Purity Peptides
-
 ## Technical Specifications
 
 | Parameter | Value |

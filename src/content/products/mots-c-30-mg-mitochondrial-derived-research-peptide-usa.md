@@ -80,9 +80,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-mots-c-30-mg-mitochondrial-derived-research-peptid-v1.0"
 ---
-
-# MOTS-c 30 mg | Multi-Phase Mitochondrial-Derived Peptide for Extended Research | HKPEPTIDE WORLDWIDE
-
 > **Reviewed by: HKPEPTIDE WORLDWIDE Research Team** | **Last Updated: 2026-08-08** | **Document ID: HKPW-mots-c-30-mg-mitochondrial-derived-research-peptide-usa-v2.0**
 
 ---

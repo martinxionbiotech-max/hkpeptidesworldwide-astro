@@ -30,9 +30,6 @@ schema:
     "@type": "WebPage"
     "@id": "https://hkpeptidesworldwide.com/coa-tested-peptides/"
 ---
-
-# COA Tested Peptides: Why Certificate of Analysis Matters in Modern Peptide Research
-
 ## Key Takeaways
 
 - **COA-tested peptides** are research compounds accompanied by a Certificate of Analysis — a formal laboratory document verifying identity, purity, and batch-specific analytical data through methods such as HPLC and mass spectrometry.
@@ -157,7 +154,7 @@ When you receive a COA from a peptide supplier, systematic evaluation should fol
 1. **Verify batch/lot matching**: The lot number on the COA must match the lot number on the vial label. Mismatches are a critical red flag.
 2. **Check the date**: COAs older than 12-24 months may no longer reflect the current condition of the peptide, especially for stability-sensitive sequences.
 3. **Examine the HPLC chromatogram**: Look for a single dominant peak. Multiple significant peaks or a broad, poorly resolved main peak suggest impurities or degradation.
-4. **Confirm MS data matches theoretical values**: The observed [M+H]⁺ or [M+2H]²⁺ peaks should match theoretical values within instrument tolerance (typically ±1 Da for unit-resolution instruments).
+4. **Confirm MS data matches theoretical values**: The observed ⁺ or ²⁺ peaks should match theoretical values within instrument tolerance (typically ±1 Da for unit-resolution instruments).
 5. **Assess purity relative to your application**: 
    - **>95%**: Adequate for most biochemical assays, ELISA standards, and antibody production
    - **>98%**: Recommended for cell-based assays, receptor binding studies, and enzyme kinetics

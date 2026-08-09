@@ -68,9 +68,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-aicar-5-mg-research-compound-usa-v1.0"
 ---
-
-# AICAR 5 mg Research Compound USA
-
 ## Product Identity & Specifications
 
 AICAR (5-Aminoimidazole-4-carboxamide ribonucleotide), also known as Acadesine or AICA ribonucleotide, is a cell-permeable adenosine analog and one of the most widely utilized pharmacological activators of AMP-activated protein kinase (AMPK) in biomedical research. The 5 mg format is optimized for precision laboratory experiments, pilot studies, and controlled in-vitro protocols where exact dosimetry and minimal material usage are critical.
@@ -154,7 +151,7 @@ Every batch of AICAR 5 mg supplied by HKPEPTIDE WORLDWIDE undergoes rigorous ana
 | Analytical Method | Specification | Acceptance Criteria |
 |---|---|---|
 | **HPLC Purity** | Reverse-phase C18, UV detection at 260 nm | ≥98.0% peak area |
-| **LC-MS Identity** | Electrospray ionization, positive mode | Molecular ion [M+H]⁺ 339.1 ± 0.5 Da |
+| **LC-MS Identity** | Electrospray ionization, positive mode | Molecular ion ⁺ 339.1 ± 0.5 Da |
 | **Residual Solvents (GC-HS)** | USP <467> | Class 3 solvents <0.5% |
 | **Water Content (Karl Fischer)** | Coulometric titration | ≤5.0% w/w |
 | **Endotoxin** | LAL kinetic chromogenic | ≤1.0 EU/mg |
@@ -196,7 +193,7 @@ Yes, AICAR is extensively utilized in in-vivo rodent models. Published protocols
 
 ### 5. What purity grade does HKPEPTIDE WORLDWIDE supply for AICAR 5 mg?
 
-HKPEPTIDE WORLDWIDE supplies AICAR 5 mg at ≥98% purity verified by reverse-phase HPLC with UV detection at 260 nm. Identity confirmation is performed via LC-MS (ESI+, molecular ion [M+H]⁺ m/z 339.1). Each batch is accompanied by a comprehensive Certificate of Analysis (CoA) that includes retention time, purity percentage, mass spectrum, residual solvent analysis, water content, and endotoxin levels. Laboratory researchers can request batch-specific CoA documentation at any time.
+HKPEPTIDE WORLDWIDE supplies AICAR 5 mg at ≥98% purity verified by reverse-phase HPLC with UV detection at 260 nm. Identity confirmation is performed via LC-MS (ESI+, molecular ion ⁺ m/z 339.1). Each batch is accompanied by a comprehensive Certificate of Analysis (CoA) that includes retention time, purity percentage, mass spectrum, residual solvent analysis, water content, and endotoxin levels. Laboratory researchers can request batch-specific CoA documentation at any time.
 
 ---
 

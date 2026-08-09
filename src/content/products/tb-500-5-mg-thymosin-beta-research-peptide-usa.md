@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# Thymosin Beta-4 Fragment (17-23) 5 mg × 10 vials — Research-Grade Actin-Sequestering Peptide Fragment
-
 **Document ID:** HKPW-tb-500-5-mg-thymosin-beta-research-pepti-v1.0 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team | **Last Updated:** 2026-08-08
 
 ## Product Identity & Specifications
@@ -57,7 +54,7 @@ jsonLd:
 
 TB-500 is the synthetic N-terminal fragment (residues 17-23) of Thymosin Beta-4. This 7-amino acid peptide retains the complete actin-binding domain responsible for TB4's effects on cell migration and angiogenesis. By sequestering G-actin monomers (1:1 binding, Kd ~0.7 μM), TB-500 maintains the cellular actin monomer pool essential for rapid cytoskeletal reorganization during wound healing and tissue regeneration.
 
-The 5 mg × 10 vials configuration provides an optimal quantity for [specific protocol type] research designs. Each vial is manufactured under strict quality control protocols with full analytical documentation including HPLC purity verification and mass spectrometry identity confirmation.
+The 5 mg × 10 vials configuration provides an optimal quantity for protocol-specific research designs. Each vial is manufactured under strict quality control protocols with full analytical documentation including HPLC purity verification and mass spectrometry identity confirmation.
 
 ## Molecular Mechanisms
 

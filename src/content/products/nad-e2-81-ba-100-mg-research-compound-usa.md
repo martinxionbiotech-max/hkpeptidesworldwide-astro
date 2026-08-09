@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# Nicotinamide Adenine Dinucleotide (NAD+) 100 mg — Research-Grade Essential Cellular Coenzyme
-
 **Document ID:** HKPW-nad-e2-81-ba-100-mg-research-compound-us-v1.0 | **Reviewed:** HKPEPTIDE WORLDWIDE Research Team | **Updated:** 2026-08-08
 
 ## Product Identity & Specifications

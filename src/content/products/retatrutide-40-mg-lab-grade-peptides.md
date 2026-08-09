@@ -24,9 +24,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-retatrutide-40-mg-lab-grade-peptides-v1.0"
 ---
-
-# Retatrutide 40 mg Lab Grade Peptides
-
 ## Technical Specifications
 
 | Parameter | Value |

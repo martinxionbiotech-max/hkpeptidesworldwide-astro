@@ -68,9 +68,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-ss-31-30-mg-mitochondrial-research-peptide-usa-v1.0"
 ---
-
-# SS-31 (Elamipretide) 30 mg Mitochondrial Research Peptide USA
-
 ## Product Identity & Specifications
 
 SS-31 (Elamipretide) 30 mg is the high-quantity research format of the benchmark mitochondrial-targeted tetrapeptide from the Szeto-Schiller series. This configuration is purpose-designed for laboratories conducting extended in vivo studies, chronic disease models, high-throughput screening campaigns, and multi-user core facility operations. The 30 mg format provides the most cost-efficient per-milligram pricing while maintaining identical purity specifications (≥98% by HPLC) and quality control standards across all SS-31 configurations. With over 200 peer-reviewed publications spanning mitochondrial biology, cardiovascular research, nephrology, neurology, and aging biology, SS-31 represents the most thoroughly validated cardiolipin-targeted research compound available for preclinical mitochondrial investigation.
@@ -156,7 +153,7 @@ SS-31 30 mg is the format of choice for research programs requiring sustained, h
 | Analytical Method | Specification | Acceptance Criteria |
 |---|---|---|
 | **RP-HPLC Purity** | C18, 214 nm UV detection | ≥98.0% peak area |
-| **ESI-TOF Mass Spectrometry** | Positive ion mode | [M+H]⁺ 640.4 ± 0.5 Da (free base) |
+| **ESI-TOF Mass Spectrometry** | Positive ion mode | ⁺ 640.4 ± 0.5 Da (free base) |
 | **Amino Acid Analysis** | Post-column ninhydrin detection | ±10% of theoretical composition |
 | **Peptide Content (Net Peptide)** | Elemental analysis (N%) | ≥85% |
 | **Residual TFA** | Ion chromatography | ≤1.0% |
@@ -205,7 +202,7 @@ The 30 mg format is optimized for rodent-scale research and is generally insuffi
 
 ### 5. What analytical methods verify SS-31 30 mg identity and purity?
 
-Each SS-31 30 mg batch undergoes a comprehensive analytical characterization battery before release: **RP-HPLC**: C18 reversed-phase column with linear acetonitrile/water (0.1% TFA) gradient, UV detection at 214 nm; purity acceptance criterion ≥98.0% peak area. **ESI-TOF Mass Spectrometry**: Positive ion mode; expected [M+H]⁺ = 640.39 Da (monoisotopic mass); acceptance window ±0.5 Da. **Amino Acid Analysis**: Acid hydrolysis (6N HCl, 110°C, 24 hr) followed by post-column ninhydrin derivatization; quantitation of D-Arg, Dmt (detected as modified Tyr), Lys, and Phe; acceptance ±10% of theoretical. **Chiral HPLC**: Crownpak CR(+) chiral column; confirms D-configuration at Arg (≥99%) and L-configuration at Lys (≥98%). **Peptide Content**: Elemental nitrogen analysis for net peptide content correction; acceptance ≥85%. **Karl Fischer Titration**: Coulometric water determination; acceptance ≤8.0% w/w. **Residual TFA**: Ion chromatography; acceptance ≤1.0%. **LAL Endotoxin**: Kinetic chromogenic Limulus amebocyte lysate assay; acceptance ≤1.0 EU/mg. **Appearance**: Visual inspection; white to off-white lyophilized powder free of visible particulates. A complete Certificate of Analysis (CoA) documenting all analytical results accompanies each shipment.
+Each SS-31 30 mg batch undergoes a comprehensive analytical characterization battery before release: **RP-HPLC**: C18 reversed-phase column with linear acetonitrile/water (0.1% TFA) gradient, UV detection at 214 nm; purity acceptance criterion ≥98.0% peak area. **ESI-TOF Mass Spectrometry**: Positive ion mode; expected ⁺ = 640.39 Da (monoisotopic mass); acceptance window ±0.5 Da. **Amino Acid Analysis**: Acid hydrolysis (6N HCl, 110°C, 24 hr) followed by post-column ninhydrin derivatization; quantitation of D-Arg, Dmt (detected as modified Tyr), Lys, and Phe; acceptance ±10% of theoretical. **Chiral HPLC**: Crownpak CR(+) chiral column; confirms D-configuration at Arg (≥99%) and L-configuration at Lys (≥98%). **Peptide Content**: Elemental nitrogen analysis for net peptide content correction; acceptance ≥85%. **Karl Fischer Titration**: Coulometric water determination; acceptance ≤8.0% w/w. **Residual TFA**: Ion chromatography; acceptance ≤1.0%. **LAL Endotoxin**: Kinetic chromogenic Limulus amebocyte lysate assay; acceptance ≤1.0 EU/mg. **Appearance**: Visual inspection; white to off-white lyophilized powder free of visible particulates. A complete Certificate of Analysis (CoA) documenting all analytical results accompanies each shipment.
 
 ---
 

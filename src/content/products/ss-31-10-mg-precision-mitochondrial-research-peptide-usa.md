@@ -68,9 +68,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-ss-31-10-mg-precision-mitochondrial-research-pepti-v1.0"
 ---
-
-# SS-31 (Elamipretide) 10 mg Mitochondrial Research Peptide USA
-
 ## Product Identity & Specifications
 
 SS-31 (Elamipretide) 10 mg represents the entry-level mechanistic research format of this mitochondrial-targeted tetrapeptide, providing sufficient material for multi-endpoint experimental designs and small-scale in vivo pilot studies. As the lead compound from the Szeto-Schiller (SS) peptide series developed at Weill Cornell Medical College, SS-31 has been refined through two decades of structure-activity relationship (SAR) optimization to achieve its signature property: selective, high-affinity binding to cardiolipin — the signature phospholipid of the inner mitochondrial membrane (IMM). The 10 mg configuration bridges the gap between the exploratory 5 mg format and the multi-experiment 15-30 mg configurations, making it the preferred choice for laboratories initiating mechanistic mitochondrial investigations with this compound.
@@ -160,7 +157,7 @@ SS-31 10 mg supports a versatile range of mitochondrial research methodologies:
 | Analytical Method | Specification | Acceptance Criteria |
 |---|---|---|
 | **RP-HPLC Purity** | C18, 214 nm UV detection | ≥98.0% peak area |
-| **ESI-TOF Mass Spectrometry** | Positive ion mode | [M+H]⁺ 640.4 ± 0.5 Da (free base) |
+| **ESI-TOF Mass Spectrometry** | Positive ion mode | ⁺ 640.4 ± 0.5 Da (free base) |
 | **Amino Acid Analysis** | Post-column ninhydrin detection | ±10% of theoretical composition |
 | **Peptide Content (Net Peptide)** | Elemental analysis (N%) | ≥85% |
 | **Residual TFA** | Ion chromatography | ≤1.0% |

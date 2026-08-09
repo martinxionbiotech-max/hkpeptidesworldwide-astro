@@ -32,9 +32,6 @@ jsonLd:
     "@context": "https://schema.org"
     "@type": "BreadcrumbList"
 ---
-
-# Delta Sleep-Inducing Peptide 10 mg × 10 vials — Research-Grade Delta Sleep-Inducing Nonapeptide
-
 **Document ID:** HKPW-dsip-10-mg-research-peptide-usa-v1.0 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team | **Last Updated:** 2026-08-08
 
 ## Product Identity & Specifications

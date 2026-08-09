@@ -68,9 +68,6 @@ reviewed_by: "HKPEPTIDE WORLDWIDE Research Team"
 last_updated: "2026-08-08"
 document_id: "HKPW-aod9604-10-mg-research-peptide-usa-v1.0"
 ---
-
-# AOD9604 10 mg Research Peptide USA
-
 ## Product Identity & Specifications
 
 AOD9604 10 mg is the higher-quantity research format of this synthetic hGH-derived lipolytic peptide fragment. Representing the C-terminal region of human growth hormone (Tyr-hGH177-191) with a distinctive intramolecular disulfide-stabilized conformation, AOD9604 has been extensively characterized for its selective capacity to stimulate adipocyte triglyceride hydrolysis without engaging the somatogenic, mitogenic, or diabetogenic signaling pathways of full-length hGH. The 10 mg format supports extended dose-response experimental designs, chronic in-vivo metabolic studies, and high-throughput lipolysis screening campaigns.
@@ -158,7 +155,7 @@ The AOD9604 10 mg format enables a broad range of research protocols:
 | Analytical Method | Specification | Acceptance Criteria |
 |---|---|---|
 | **RP-HPLC Purity** | C18, 214 nm | ≥98.0% peak area |
-| **ESI-TOF MS** | Positive ion | [M+H]⁺ 1815.9 ± 1.0 Da; [M+2H]²⁺ 908.5 ± 0.5 Da |
+| **ESI-TOF MS** | Positive ion | ⁺ 1815.9 ± 1.0 Da; ²⁺ 908.5 ± 0.5 Da |
 | **HPLC Purity (220 nm)** | Alternative wavelength confirmation | ≥98.0% |
 | **Peptide Content** | Nitrogen elemental analysis | ≥80% net peptide |
 | **Residual TFA** | Ion chromatography | ≤1.0% |
