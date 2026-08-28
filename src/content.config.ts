@@ -11,6 +11,12 @@ const products = defineCollection({
     pubDate: z.coerce.date().optional(),
     image: z.string().optional(),
     tags: z.array(z.string()).optional(),
+    jsonLd: z.any().optional(),
+    sku: z.string().optional(),
+    molecule: z.string().optional(),
+    cas: z.string().optional(),
+    mw: z.string().optional(),
+    purity: z.string().optional(),
   }),
 });
 
