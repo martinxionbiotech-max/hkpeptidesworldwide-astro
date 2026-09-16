@@ -23,6 +23,24 @@ const pageUrl = `${siteUrl}${Astro.url.pathname}`;
 
 // --- Build Product schema (from frontmatter jsonLd.product, completed with url/image/category) ---
 const baseProduct = (jsonLd && jsonLd.product) || {};
+// Offers: Google requires Product markup to carry "offers", "review" or
+// "aggregateRating" — a bare Product node raises
+// "Either offers, review, or aggregateRating should be specified".
+// The frontmatter already carries an inquiry-type Offer (no price: product pages
+// show no price, so no price/priceCurrency may be emitted); we complete it with
+// the page URL and the seller and carry over any rating/review data present.
+const baseOffer = (baseProduct.offers && typeof baseProduct.offers === 'object') ? baseProduct.offers : {};
+const offersSchema = {
+  '@type': 'Offer',
+  url: pageUrl,
+  availability: baseOffer.availability || 'https://schema.org/InStock',
+  itemCondition: baseOffer.itemCondition || 'https://schema.org/NewCondition',
+  businessFunction: baseOffer.businessFunction || 'https://schema.org/Sell',
+  seller: baseOffer.seller || { '@type': 'Organization', name: 'HKPEPTIDE WORLDWIDE', url: siteUrl },
+  ...(baseOffer.eligibleRegion ? { eligibleRegion: baseOffer.eligibleRegion } : {}),
+  ...(baseOffer.price ? { price: baseOffer.price, priceCurrency: baseOffer.priceCurrency || 'USD' } : {}),
+};
+
 const productSchema = {
   '@context': 'https://schema.org',
   '@type': 'Product',
@@ -33,6 +51,9 @@ const productSchema = {
   ...(imageSrc ? { image: `${siteUrl}${imageSrc}` } : {}),
   ...(category ? { category } : {}),
   url: pageUrl,
+  offers: offersSchema,
+  ...(baseProduct.aggregateRating ? { aggregateRating: baseProduct.aggregateRating } : {}),
+  ...(baseProduct.review ? { review: baseProduct.review } : {}),
 };
 
 // --- Build BreadcrumbList ---
