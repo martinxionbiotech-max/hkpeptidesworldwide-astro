@@ -30,7 +30,7 @@ Our support staff is always ready to help with order details, payment verificati
 | **Company Name** | HK Peptides Worldwide LLC |
 | **Established** | 2025 |
 | **Distribution Center** | Manufacturer Direct Ship |
-| **Email** | aaron@senobiocorp.com |
+| **Email** | aaronwong2023@gmail.com |
 | **Website** | [https://hkpeptides.net](https://hkpeptides.net) |
 | **Business Hours** | Mon–Sat, 9 AM – 6 PM (EST) |
 
@@ -40,7 +40,7 @@ Our support staff is always ready to help with order details, payment verificati
 
 ## Contact Form
 
-For order inquiries, product questions, or support requests, please email us at **aaron@senobiocorp.com**. We typically reply within a few hours, often faster.
+For order inquiries, product questions, or support requests, please email us at **aaronwong2023@gmail.com**. We typically reply within a few hours, often faster.
 
 ## WhatsApp — Chat with Us Directly
 
@@ -55,7 +55,7 @@ Scan the QR code below to add us on WhatsApp:
 ![WhatsApp QR Code](/images/whatsapp-qr.png)
 
 You can also reach us via:
-- **Email**: [aaron@senobiocorp.com](mailto:aaron@senobiocorp.com)
+- **Email**: [aaronwong2023@gmail.com](mailto:aaronwong2023@gmail.com)
 - **Response Time**: Typically within a few hours
 
 [Browse Products →](/products/)
