@@ -18,7 +18,7 @@ const { title, description, category, price, image, tags, jsonLd } = entry.data;
 let imageSrc = image ? `/images/${image}` : null;
 
 // Canonical page URL (uses site from astro.config.mjs)
-const siteUrl = Astro.site ? String(Astro.site).replace(/\/$/, '') : 'https://hkpeptidesworldwide.com';
+const siteUrl = Astro.site ? String(Astro.site).replace(/\/$/, '') : 'https://hkpeptides.net';
 const pageUrl = `${siteUrl}${Astro.url.pathname}`;
 
 // --- Build Product schema (from frontmatter jsonLd.product, completed with url/image/category) ---

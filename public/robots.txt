@@ -3,4 +3,4 @@ Allow: /
 Disallow: /home/
 Disallow: /cdn-cgi/
 
-Sitemap: https://hkpeptidesworldwide.com/sitemap.xml
+Sitemap: https://hkpeptides.net/sitemap-index.xml
