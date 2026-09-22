@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
+import RuoNotice from '../components/RuoNotice.astro';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages');
@@ -54,6 +55,7 @@ const pageSchema = {
 ---
 
 <Layout title={title} description={description || title} schema={pageSchema}>
+<RuoNotice />
   <article class="mx-auto max-w-3xl px-4 py-8 sm:px-6 lg:px-8">
     <!-- Breadcrumb -->
     <nav class="mb-6 text-sm text-gray-500">

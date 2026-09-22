@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import RuoNotice from '../../components/RuoNotice.astro';
 
 export async function getStaticPaths() {
   const products = await getCollection('products');
@@ -99,6 +100,7 @@ const faqSchema = faqItems.length > 0
 ---
 
 <Layout title={title} description={description || `${title} — HK Peptides Worldwide`}>
+<RuoNotice />
   <script type="application/ld+json" set:html={JSON.stringify(productSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}

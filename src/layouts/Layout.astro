@@ -121,8 +121,25 @@ const brandTitle = title.includes('HK Peptides Worldwide') ? title : `${title} â
             </ul>
           </div>
         </div>
-        <div class="mt-10 border-t border-white/10 pt-6 text-center text-sm text-gray-500">
-          &copy; {new Date().getFullYear()} HK Peptides Worldwide LLC. All rights reserved. HK peptides sold for laboratory research purposes only.
+        <!-- Legal & Compliance links -->
+        <nav class="mt-10 border-t border-white/10 pt-6" aria-label="Legal and compliance">
+          <ul class="flex flex-wrap items-center justify-center gap-x-5 gap-y-2 text-xs">
+            <li><a href="/research-use-only/" class="text-gray-400 transition-colors hover:text-emerald-400">Research Use Only</a></li>
+            <li><a href="/disclaimer/" class="text-gray-400 transition-colors hover:text-emerald-400">Disclaimer</a></li>
+            <li><a href="/compliance/" class="text-gray-400 transition-colors hover:text-emerald-400">Compliance &amp; Eligibility</a></li>
+            <li><a href="/quality-and-testing/" class="text-gray-400 transition-colors hover:text-emerald-400">Quality &amp; Testing</a></li>
+            <li><a href="/privacy-policy/" class="text-gray-400 transition-colors hover:text-emerald-400">Privacy Policy</a></li>
+            <li><a href="/terms-and-conditions/" class="text-gray-400 transition-colors hover:text-emerald-400">Terms &amp; Conditions</a></li>
+            <li><a href="/refund_returns/" class="text-gray-400 transition-colors hover:text-emerald-400">Refund &amp; Returns</a></li>
+            <li><a href="/how-to-buy/" class="text-gray-400 transition-colors hover:text-emerald-400">How to Buy &amp; Shipping</a></li>
+          </ul>
+        </nav>
+
+        <div class="mt-6 border-t border-white/10 pt-6 text-center text-sm text-gray-500">
+          <p>&copy; {new Date().getFullYear()} HK Peptides Worldwide LLC. All rights reserved.</p>
+          <p class="mt-2 text-xs italic text-gray-400">
+            FOR LABORATORY RESEARCH USE ONLY â€” NOT FOR HUMAN OR VETERINARY USE, DIAGNOSIS, TREATMENT OR COSMETIC APPLICATION. Buyers must be 21+ and legally permitted to purchase research chemicals in their jurisdiction.
+          </p>
         </div>
       </div>
     </footer>

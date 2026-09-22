@@ -1,17 +1,98 @@
 ---
-jsonLd:
-  webpage:
-    "@context": "https://schema.org"
-    "@type": "WebPage"
-reviewed_by: "HKPEPTIDE WORLDWIDE"
-last_updated: "2026-08-08"
-document_id: "HKPW-PAGE-privacy-policy-v1.0"
 title: "Privacy Policy"
-slug: privacy-policy
-date: 2025-11-12
-source: https://hkpeptides.net/privacy-policy/
+description: "How HK Peptides Worldwide LLC collects, uses, shares and protects personal information submitted through hkpeptides.net, and the rights you have over it."
 ---
 
 # Privacy Policy
 
-Who we are Suggested text: Our website address is: https://hkpeptides.net. Comments Suggested text: When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment. Media Suggested text: If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website. Cookies Suggested text: If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year. If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed. If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day. Embedded content from other websites Suggested text: Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website. Who we share your data with Suggested text: If you request a password reset, your IP address will be included in the reset email. How long we retain your data Suggested text: If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information. What rights you have over your data Suggested text: If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes. Where your data is sent Suggested text: Visitor comments may be checked through an automated spam detection service.
+This policy explains how **HK Peptides Worldwide LLC** ("we", "us") handles personal information collected through **hkpeptides.net** and through our email and WhatsApp business communication. We keep this policy deliberately short, because we collect very little.
+
+## 1. Information We Collect
+
+| Category | What it covers | How it reaches us |
+|---|---|---|
+| Contact and identity details | Name, company or institution, country, email address, telephone or WhatsApp number | Provided by you in an enquiry or order |
+| Order and enquiry content | Products of interest, quantities, intended research use, delivery address, correspondence | Provided by you |
+| Transaction and delivery records | Invoice and payment-confirmation references, shipping details, customs documents | Created in the course of supplying an order |
+| Technical data | IP address, browser and device type, pages requested, timestamps | Recorded automatically in server and network logs when you visit the site |
+
+We do **not** ask for and do not want to receive special-category or sensitive personal data, and we do not collect payment card numbers: payment is arranged by bank transfer or digital-asset transfer through the channels stated on our [payment information](/payment/) page.
+
+## 2. Cookies and Tracking
+
+This website does **not** run advertising cookies, social-media pixels or third-party analytics trackers, and it has no comment system, no user accounts and no login area. Essential security cookies may be set by our hosting and content-delivery provider to protect the site against bots and abuse; these are used strictly for security and are not used to build a profile of you. Because no non-essential cookies are used, no cookie-consent banner is required on this site. If we ever add analytics or marketing cookies, we will update this policy and ask for consent where the law requires it.
+
+## 3. How We Use Your Information
+
+- to answer enquiries, provide quotations and invoices, and confirm orders;
+- to process, ship and support orders, including customs documentation;
+- to verify eligibility and intended use as described in our [Compliance & Buyer Eligibility](/compliance/) page and [Terms & Conditions](/terms-and-conditions/);
+- to keep accounting, tax and order records;
+- to maintain the security and availability of this website;
+- to comply with legal obligations and to prevent misuse of our products.
+
+We do not sell your personal information, and we do not send marketing email to addresses that contacted us about an order unless you ask us to.
+
+## 4. Legal Bases
+
+Where the GDPR, UK GDPR or similar laws apply, we process personal information on these bases:
+
+| Purpose | Legal basis |
+|---|---|
+| Answering enquiries, quoting, order fulfilment and support | Performance of a contract, or steps taken at your request before a contract |
+| Verifying eligibility and intended use | Compliance with legal obligations and our legitimate interests in preventing misuse |
+| Accounting, tax and order records | Compliance with legal obligations |
+| Site security and abuse prevention | Legitimate interests in protecting the site and our visitors |
+
+## 5. Sharing and Disclosure
+
+We share personal information only with parties who need it to provide a service to us, and only for the purposes above:
+
+- hosting, content-delivery and IT service providers;
+- email and messaging service providers;
+- shipping carriers, freight and customs brokers, for orders you place;
+- professional advisers such as accountants and auditors;
+- authorities or courts, where we are legally required to disclose.
+
+We do not sell, rent or trade personal information, and we do not share it with advertising networks or data brokers.
+
+## 6. International Transfers
+
+We are based in the United States, and the suppliers listed above may process information in other countries, including the country of the shipping carrier or fulfilment partner handling your order. Where personal information is transferred internationally, we take steps to keep it protected, including contractual measures with our service providers and limiting transfers to what is necessary for the stated purpose.
+
+## 7. Retention
+
+Enquiry and order records are kept for as long as needed to serve you and to meet our accounting, tax and quality-record obligations, after which they are deleted or anonymised. Lot traceability records for supplied material are retained as required for quality and recall purposes.
+
+## 8. Security
+
+We use technical and organisational measures to protect personal information, including restricted access to business systems and records, transport encryption on this website where available, and limiting collection to what we actually need. No method of transmission or storage is completely secure.
+
+## 9. Your Rights
+
+Subject to applicable law — including the GDPR/UK GDPR for visitors in those regions and applicable U.S. state privacy laws — you may request to:
+
+- access the personal information we hold about you;
+- correct inaccurate or incomplete information;
+- delete information we no longer need;
+- restrict or object to certain processing;
+- receive your information in a portable format;
+- withdraw consent where processing is based on consent.
+
+To exercise any of these rights, email [aaronwong2023@gmail.com](mailto:aaronwong2023@gmail.com). We will respond within a reasonable period and within any deadline set by applicable law. If you are not satisfied with our response, you may complain to your local data-protection authority.
+
+## 10. Children and Age
+
+This website is directed at businesses, institutions and adult researchers. It is not directed at anyone under 21, and we do not knowingly collect personal information from anyone under 21. See [Compliance & Buyer Eligibility](/compliance/).
+
+## 11. Changes to This Policy
+
+We may update this policy when our practices or legal obligations change. The version published on this page is the current version.
+
+## Contact
+
+HK Peptides Worldwide LLC — privacy enquiries: [aaronwong2023@gmail.com](mailto:aaronwong2023@gmail.com), [WhatsApp](https://wa.me/64204310558), or through our [contact page](/contact/).
+
+---
+
+*Last updated: 21 September 2026. Related: [Terms & Conditions](/terms-and-conditions/) · [Compliance & Buyer Eligibility](/compliance/) · [Disclaimer](/disclaimer/).*
