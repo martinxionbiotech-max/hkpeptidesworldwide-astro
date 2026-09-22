@@ -100,7 +100,7 @@ A 2022 review of injection site reactions across 40 peptide preclinical studies 
 - Mild irritation at application sites
 - Contact sensitivity in a minority of research models
 
-These responses are typically self-limiting and resolve upon discontinuation. For additional context on dermal peptide research, see our article on [peptides in skincare and cosmetic research](/peptides-in-skincare-and-weight-loss-research/).
+These responses are typically self-limiting and resolve upon discontinuation. For additional context on dermal peptide research, see our article on [peptides in skincare and cosmetic research](/blog/peptides-in-skincare-and-weight-loss-research/).
 
 ### Immunological Responses
 
@@ -154,7 +154,7 @@ In this context, the Certificate of Analysis (COA) is not merely a quality docum
 - The batch is traceable to specific manufacturing and testing records
 - No unexpected contaminants are present above detection limits
 
-Researchers who purchase peptides without verified COAs are conducting experiments with incompletely characterized reagents — a practice that undermines both scientific validity and research safety. Our [comprehensive guide to COA tested peptides](/coa-tested-peptides/) provides detailed guidance on COA interpretation and verification.
+Researchers who purchase peptides without verified COAs are conducting experiments with incompletely characterized reagents — a practice that undermines both scientific validity and research safety. Our [comprehensive guide to COA tested peptides](/blog/coa-tested-peptides/) provides detailed guidance on COA interpretation and verification.
 
 ### Degradation Products: The Hidden Variable
 
@@ -168,7 +168,7 @@ Even a high-purity peptide at the time of synthesis can degrade into a complex m
 | **Aggregation** | Hydrophobic sequences | Soluble oligomers, insoluble fibrils | Enhanced immunogenicity, altered bioavailability |
 | **Racemization** | All residues (elevated pH, temperature) | D-amino acid incorporation | Altered pharmacology, enhanced stability |
 
-These degradation pathways underscore why proper storage and handling protocols are integral to research safety. For comprehensive guidance, see our article on [peptide research protocols and handling best practices](/why-peptide-research-protocols-matter-in-2026/).
+These degradation pathways underscore why proper storage and handling protocols are integral to research safety. For comprehensive guidance, see our article on [peptide research protocols and handling best practices](/blog/why-peptide-research-protocols-matter-in-2026/).
 
 ---
 
@@ -252,7 +252,7 @@ Researchers and suppliers share a responsibility to maintain the integrity of th
 3. **Understand the limitations** of research-grade materials
 4. **Never use research-grade peptides** outside controlled laboratory research contexts
 
-For additional guidance on supplier evaluation, see our [research peptides guide](/research-peptides-guide/) and our article on [supplier transparency standards](/coa-tested-peptides/).
+For additional guidance on supplier evaluation, see our [research peptides guide](/blog/research-peptides-guide/) and our article on [supplier transparency standards](/blog/coa-tested-peptides/).
 
 ---
 
@@ -268,7 +268,7 @@ The most frequently documented biological responses in preclinical peptide resea
 
 ### How does peptide purity affect research safety?
 
-Peptide purity is one of the most important determinants of research safety outcomes. Impurities — including deletion sequences, epimers, residual solvents, and degradation products — can exhibit biological activities that are unrelated to the target peptide. These impurity-driven effects can confound experimental interpretation and, in some cases, produce biological responses more pronounced than those of the intended peptide. High-purity peptides (>95% by HPLC, with mass spectrometry identity confirmation) substantially reduce impurity-driven variability. See our [COA tested peptides guide](/coa-tested-peptides/) for more detail.
+Peptide purity is one of the most important determinants of research safety outcomes. Impurities — including deletion sequences, epimers, residual solvents, and degradation products — can exhibit biological activities that are unrelated to the target peptide. These impurity-driven effects can confound experimental interpretation and, in some cases, produce biological responses more pronounced than those of the intended peptide. High-purity peptides (>95% by HPLC, with mass spectrometry identity confirmation) substantially reduce impurity-driven variability. See our [COA tested peptides guide](/blog/coa-tested-peptides/) for more detail.
 
 ### What should researchers look for when evaluating peptide suppliers for safety-related concerns?
 

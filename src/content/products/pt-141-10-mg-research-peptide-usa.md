@@ -119,8 +119,8 @@ PT-141 has enhanced MC3R/MC4R selectivity with reduced MC1R activation. Melanota
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Pt 141 10 Mg Research Peptide Usa](/pt-141-10-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Aicar 5 Mg Research Compound Usa](/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
+| **[Pt 141 10 Mg Research Peptide Usa](/products/pt-141-10-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Aicar 5 Mg Research Compound Usa](/products/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
 | **[Peptides In Skincare And Weight Loss Research](/blog/peptides-in-skincare-and-weight-loss-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

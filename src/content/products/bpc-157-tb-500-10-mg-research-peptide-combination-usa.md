@@ -135,8 +135,8 @@ Yes. Standard is 1:1 (e.g., 10mg+10mg). Custom ratios (e.g., 10mg BPC + 5mg TB) 
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Bpc 157 5 Mg Body Protection Research Pe](/bpc-157-5-mg-body-protection-research-peptide-usa/)** | Related research peptide product |
-| **[Bpc 157 Tb 500 10 Mg Research Peptide Co](/bpc-157-tb-500-10-mg-research-peptide-combination-usa/)** | Related research peptide product |
+| **[Bpc 157 5 Mg Body Protection Research Pe](/products/bpc-157-5-mg-body-protection-research-peptide-usa/)** | Related research peptide product |
+| **[Bpc 157 Tb 500 10 Mg Research Peptide Co](/products/bpc-157-tb-500-10-mg-research-peptide-combination-usa/)** | Related research peptide product |
 | **[Why Anti Aging Peptide Research Is Growing Rapidly](/blog/why-anti-aging-peptide-research-is-growing-rapidly/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

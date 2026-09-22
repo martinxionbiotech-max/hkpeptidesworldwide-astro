@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Snap 8 10 Mg Research Peptide Usa](/snap-8-10-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Aicar 5 Mg Research Compound Usa](/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
+| **[Snap 8 10 Mg Research Peptide Usa](/products/snap-8-10-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Aicar 5 Mg Research Compound Usa](/products/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
 | **[Peptides In Skincare And Weight Loss Research](/blog/peptides-in-skincare-and-weight-loss-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

@@ -257,12 +257,12 @@ HKPEPTIDE WORLDWIDE reserves the right to request documentation verifying resear
 
 ## 12. Internal Links
 
-- [MOTS-c 10 mg – Pilot Studies & Method Development](/mots-c-10-mg-mitochondrial-peptide-supply-usa/)
-- [MOTS-c 20 mg – Controlled Experiments & Dose-Response](/mots-c-20-mg-mitochondrial-peptide-research-usa/)
-- [MOTS-c 40 mg – Maximum Research Quantity](/mots-c-40-mg-mitochondrial-peptide-research-usa/)
-- [SS-31 Research Peptides – Mitochondrial Membrane Stabilization](/buy-ss-31-5-mg-research-peptide-usa/)
-- [GHK-Cu Research Peptides – ECM & Wound Healing Research](/ghk-cu-50-mg-copper-peptide-research-usa/)
-- [All Research Peptides – Full Catalog](/category/research-peptides/)
+- [MOTS-c 10 mg – Pilot Studies & Method Development](/products/mots-c-10-mg-mitochondrial-peptide-supply-usa/)
+- [MOTS-c 20 mg – Controlled Experiments & Dose-Response](/products/mots-c-20-mg-mitochondrial-peptide-research-usa/)
+- [MOTS-c 40 mg – Maximum Research Quantity](/products/mots-c-40-mg-mitochondrial-peptide-research-usa/)
+- [SS-31 Research Peptides – Mitochondrial Membrane Stabilization](/products/buy-ss-31-5-mg-research-peptide-usa/)
+- [GHK-Cu Research Peptides – ECM & Wound Healing Research](/products/ghk-cu-50-mg-copper-peptide-research-usa/)
+- [All Research Peptides – Full Catalog](/pillars/complete-guide-research-peptides/)
 
 
 ## Related Research & Resources
@@ -270,8 +270,8 @@ HKPEPTIDE WORLDWIDE reserves the right to request documentation verifying resear
 | Resource | Description |
 |---|---|
 | **[Glp 1 Metabolic Peptides Hub](/pillars/glp-1-metabolic-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Mots C 10 Mg Mitochondrial Peptide Suppl](/mots-c-10-mg-mitochondrial-peptide-supply-usa/)** | Related research peptide product |
-| **[Mots C 20 Mg Mitochondrial Peptide Resea](/mots-c-20-mg-mitochondrial-peptide-research-usa/)** | Related research peptide product |
+| **[Mots C 10 Mg Mitochondrial Peptide Suppl](/products/mots-c-10-mg-mitochondrial-peptide-supply-usa/)** | Related research peptide product |
+| **[Mots C 20 Mg Mitochondrial Peptide Resea](/products/mots-c-20-mg-mitochondrial-peptide-research-usa/)** | Related research peptide product |
 | **[Glp 1 Peptides Metabolic Research](/blog/glp-1-peptides-metabolic-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

@@ -226,8 +226,8 @@ HKPEPTIDE WORLDWIDE supplies AICAR 5 mg at ≥98% purity verified by reverse-pha
 | Resource | Description |
 |---|---|
 | **[Glp 1 Metabolic Peptides Hub](/pillars/glp-1-metabolic-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Aicar 5 Mg Research Compound Usa](/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
-| **[Aicar 50 Mg Research Compound Usa](/aicar-50-mg-research-compound-usa/)** | Related research peptide product |
+| **[Aicar 5 Mg Research Compound Usa](/products/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
+| **[Aicar 50 Mg Research Compound Usa](/products/aicar-50-mg-research-compound-usa/)** | Related research peptide product |
 | **[Glp 1 Peptides Metabolic Research](/blog/glp-1-peptides-metabolic-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

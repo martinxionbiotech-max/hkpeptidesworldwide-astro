@@ -160,15 +160,15 @@ We collaborate with academic institutions, contract research organizations, and 
 ## Explore Related Resources
 
 ### Pillar Resource
-- [Peptides in Skincare & Weight Loss Research — Pillar Guide](/peptides-in-skincare-and-weight-loss-research/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
+- [Peptides in Skincare & Weight Loss Research — Pillar Guide](/blog/peptides-in-skincare-and-weight-loss-research/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
 
 ### Related Research Products
 - [Ghk Cu 100 Mg Copper Peptide Research Compound Usa](/products/ghk-cu-100-mg-copper-peptide-research-compound-usa/) — Research-grade peptide for laboratory investigation.
 
 ### Further Reading
-- [Complete Guide to Research Peptides](/research-peptides-guide/) — In-depth analysis of related peptide research topics.
-- [COA Tested Peptides Guide](/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
-- [Peptide Safety Discussions](/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
+- [Complete Guide to Research Peptides](/blog/research-peptides-guide/) — In-depth analysis of related peptide research topics.
+- [COA Tested Peptides Guide](/blog/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
+- [Peptide Safety Discussions](/blog/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
 
 ---
 

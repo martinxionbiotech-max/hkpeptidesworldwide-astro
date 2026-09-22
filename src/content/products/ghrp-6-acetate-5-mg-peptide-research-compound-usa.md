@@ -130,8 +130,8 @@ GHRP-6: stronger hunger, closer ghrelin mimic. GHRP-2: more potent GH release, l
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Ghrp 6 Acetate 10 Mg Research Peptide Us](/ghrp-6-acetate-10-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Ghrp 6 Acetate 5 Mg Peptide Research Com](/ghrp-6-acetate-5-mg-peptide-research-compound-usa/)** | Related research peptide product |
+| **[Ghrp 6 Acetate 10 Mg Research Peptide Us](/products/ghrp-6-acetate-10-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Ghrp 6 Acetate 5 Mg Peptide Research Com](/products/ghrp-6-acetate-5-mg-peptide-research-compound-usa/)** | Related research peptide product |
 | **[Why Muscle Growth Peptide Research Is Expanding](/blog/why-muscle-growth-peptide-research-is-expanding/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

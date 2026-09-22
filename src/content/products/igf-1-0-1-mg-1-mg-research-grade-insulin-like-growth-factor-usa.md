@@ -244,8 +244,8 @@ IGF-1 LR3 contains an Arg substitution at Glu³ and a 13-aa N-terminal extension
 
 ## 10. Internal Resources
 
-- [Research Peptide Quality Guide](/research-peptides-guide/)
-- [COA and Quality Standards](/coa-tested-peptides/)
+- [Research Peptide Quality Guide](/blog/research-peptides-guide/)
+- [COA and Quality Standards](/blog/coa-tested-peptides/)
 - [Shipping & Handling Information](/how-to-buy/)
 - [Contact Our Research Team](/contact/)
 
@@ -261,8 +261,8 @@ IGF-1 LR3 contains an Arg substitution at Glu³ and a 13-aa N-terminal extension
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Igf 1 0 1 Mg 1 Mg Research Grade Insulin](/igf-1-0-1-mg-1-mg-research-grade-insulin-like-growth-factor-usa/)** | Related research peptide product |
-| **[Igf 1 0 1 Mg Research Peptide Usa](/igf-1-0-1-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Igf 1 0 1 Mg 1 Mg Research Grade Insulin](/products/igf-1-0-1-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Igf 1 0 1 Mg Research Peptide Usa](/products/igf-1-0-1-mg-research-peptide-usa/)** | Related research peptide product |
 | **[Why Muscle Growth Peptide Research Is Expanding](/blog/why-muscle-growth-peptide-research-is-expanding/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

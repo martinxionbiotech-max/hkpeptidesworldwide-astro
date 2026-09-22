@@ -162,7 +162,7 @@ CJC-1295 (a GHRH analog with improved stability) and Ipamorelin (a selective ghr
 
 Researchers investigating these peptides should note that their pharmacology is complex — involving both direct receptor effects and indirect effects mediated through induced growth hormone secretion — and that results should be interpreted within the specific context of the experimental model.
 
-For comprehensive coverage of metabolic peptide research applications, see our [research peptides guide](/research-peptides-guide/).
+For comprehensive coverage of metabolic peptide research applications, see our [research peptides guide](/blog/research-peptides-guide/).
 
 ---
 
@@ -189,7 +189,7 @@ Metabolic research peptides — particularly those in the GLP-1 class — presen
 - **Aggregation propensity**: GLP-1 and certain analogs have documented tendencies to form amyloid-like fibrils under specific conditions; proper storage (lyophilized, -20°C or below) is essential
 - **Residual TFA content**: High residual trifluoroacetic acid from HPLC purification can affect cell-based metabolic assay results through pH effects
 
-Our detailed articles on [COA tested peptides](/coa-tested-peptides/) and [peptide research protocols](/why-peptide-research-protocols-matter-in-2026/) provide comprehensive guidance applicable to both skincare and metabolic peptide research.
+Our detailed articles on [COA tested peptides](/blog/coa-tested-peptides/) and [peptide research protocols](/blog/why-peptide-research-protocols-matter-in-2026/) provide comprehensive guidance applicable to both skincare and metabolic peptide research.
 
 ---
 
@@ -252,7 +252,7 @@ GHK-Cu (glycyl-L-histidyl-L-lysine-copper(II)) functions as a physiological copp
 
 ### What quality standards should researchers apply to skincare and metabolic peptides?
 
-The same rigorous quality standards apply to skincare and metabolic research peptides as to any other domain of peptide research: **≥95% purity by HPLC** (with chromatogram documentation), **mass spectrometry identity confirmation**, batch-specific **Certificates of Analysis (COAs)**, and adherence to recommended **storage and handling protocols**. Specific additional considerations include verifying copper coordination state for GHK-Cu, confirming lipidation status for palmitoylated peptides (Matrixyl), and assessing aggregation propensity for amyloidogenic sequences (certain GLP-1 analogs). See our [comprehensive quality guide](/coa-tested-peptides/) for detailed evaluation criteria.
+The same rigorous quality standards apply to skincare and metabolic research peptides as to any other domain of peptide research: **≥95% purity by HPLC** (with chromatogram documentation), **mass spectrometry identity confirmation**, batch-specific **Certificates of Analysis (COAs)**, and adherence to recommended **storage and handling protocols**. Specific additional considerations include verifying copper coordination state for GHK-Cu, confirming lipidation status for palmitoylated peptides (Matrixyl), and assessing aggregation propensity for amyloidogenic sequences (certain GLP-1 analogs). See our [comprehensive quality guide](/blog/coa-tested-peptides/) for detailed evaluation criteria.
 
 ---
 

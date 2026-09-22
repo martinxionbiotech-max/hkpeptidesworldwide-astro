@@ -135,8 +135,8 @@ DSIP was discovered in the 1970s by Swiss researchers who electrically induced s
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Dsip 10 Mg Research Peptide Usa](/dsip-10-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Dsip 5 Mg Research Peptide Usa](/dsip-5-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Dsip 10 Mg Research Peptide Usa](/products/dsip-10-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Dsip 5 Mg Research Peptide Usa](/products/dsip-5-mg-research-peptide-usa/)** | Related research peptide product |
 | **[Understanding Safety Discussions Around Peptides](/blog/understanding-safety-discussions-around-peptides/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

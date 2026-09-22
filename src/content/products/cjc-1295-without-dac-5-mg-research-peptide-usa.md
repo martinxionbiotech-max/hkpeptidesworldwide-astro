@@ -265,15 +265,15 @@ HKPEPTIDE WORLDWIDE reserves the right to request documentation verifying resear
 
 ## 12. Internal Links
 
-- [CJC-1295 Without DAC 2 mg – Pilot Studies & Binding Assays](/cjc-1295-without-dac-2-mg-in-vitro-research-peptide/)
-- [CJC-1295 Without DAC 10 mg – Extended Research Protocols](/cjc-1295-without-dac-10-mg-research-peptide-usa/)
-- [CJC-1295 With DAC 5 mg – Long-Acting GHRH Research](/cjc-1295-with-dac-5-mg-molecular-research-peptides/)
-- [CJC-1295 + Ipamorelin Blend – Synergistic Peptide Research](/cjc-1295-without-dac-5-mg-ipa-10-mg-research-peptide-blend/)
-- [GHRP-2 Research Peptides – GHS-R1a Agonist Studies](/ghrp-2-acetate-5-mg-research-peptide-usa/)
-- [GHRP-6 Research Peptides – Ghrelin Mimetic Research](/ghrp-6-acetate-5-mg-peptide-research-compound-usa/)
+- [CJC-1295 Without DAC 2 mg – Pilot Studies & Binding Assays](/products/cjc-1295-without-dac-2-mg-in-vitro-research-peptide/)
+- [CJC-1295 Without DAC 10 mg – Extended Research Protocols](/products/cjc-1295-without-dac-10-mg-research-peptide-usa/)
+- [CJC-1295 With DAC 5 mg – Long-Acting GHRH Research](/products/cjc-1295-with-dac-5-mg-molecular-research-peptides/)
+- [CJC-1295 + Ipamorelin Blend – Synergistic Peptide Research](/products/cjc-1295-without-dac-5-mg-ipa-10-mg-research-peptide-blend/)
+- [GHRP-2 Research Peptides – GHS-R1a Agonist Studies](/products/ghrp-2-acetate-5-mg-research-peptide-usa/)
+- [GHRP-6 Research Peptides – Ghrelin Mimetic Research](/products/ghrp-6-acetate-5-mg-peptide-research-compound-usa/)
 - [All Research Peptides – Full Catalog](/products/)
-- [Quality Control Standards](/quality-control/)
-- [Shipping & Handling Information](/shipping/)
+- [Quality Control Standards](/quality-and-testing/)
+- [Shipping & Handling Information](/how-to-buy/)
 
 
 ## Related Research & Resources
@@ -281,8 +281,8 @@ HKPEPTIDE WORLDWIDE reserves the right to request documentation verifying resear
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Cjc 1295 With Dac 10 Mgin Vitro Research](/cjc-1295-with-dac-10-mgin-vitro-research-peptide/)** | Related research peptide product |
-| **[Cjc 1295 With Dac 2 Mg Laboratory Resear](/cjc-1295-with-dac-2-mg-laboratory-research-peptide-usa/)** | Related research peptide product |
+| **[Cjc 1295 With Dac 10 Mgin Vitro Research](/products/cjc-1295-with-dac-10-mgin-vitro-research-peptide/)** | Related research peptide product |
+| **[Cjc 1295 With Dac 2 Mg Laboratory Resear](/products/cjc-1295-with-dac-2-mg-laboratory-research-peptide-usa/)** | Related research peptide product |
 | **[Why Muscle Growth Peptide Research Is Expanding](/blog/why-muscle-growth-peptide-research-is-expanding/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

@@ -73,7 +73,7 @@ Compared to genetic approaches (knockout/transgenic models) or small-molecule in
 - **Pathway specificity**: Engineered peptide analogs can isolate specific receptor subtypes or signaling branches
 - **Combinatorial studies**: Multiple peptides can be used simultaneously to investigate signaling crosstalk
 
-For an overview of peptide fundamentals and applications across research disciplines, see our [comprehensive guide to research peptides](/research-peptides-guide/).
+For an overview of peptide fundamentals and applications across research disciplines, see our [comprehensive guide to research peptides](/blog/research-peptides-guide/).
 
 ## Key Peptide Compounds in Muscle Development Research
 
@@ -122,7 +122,7 @@ Insulin-like Growth Factor-1 (IGF-1) is a 70-amino-acid polypeptide with approxi
 
 #### Clinical and Translational Significance
 
-A 2024 systematic review and meta-analysis in the *Journal of Cachexia, Sarcopenia and Muscle* examined 47 preclinical studies of IGF-1 in muscle wasting models and found consistent preservation of lean mass and myofiber cross-sectional area across diverse atrophy models. However, the review noted substantial heterogeneity in dosing protocols and outcome measures, underscoring the need for standardization—a topic explored further in our article on [research protocol standardization in 2026](/why-standardization-is-a-major-topic-in-2026/).
+A 2024 systematic review and meta-analysis in the *Journal of Cachexia, Sarcopenia and Muscle* examined 47 preclinical studies of IGF-1 in muscle wasting models and found consistent preservation of lean mass and myofiber cross-sectional area across diverse atrophy models. However, the review noted substantial heterogeneity in dosing protocols and outcome measures, underscoring the need for standardization—a topic explored further in our article on [research protocol standardization in 2026](/blog/why-standardization-is-a-major-topic-in-2026/).
 
 ### CJC-1295: Probing the Growth Hormone Axis
 
@@ -172,7 +172,7 @@ Peptides enable researchers to isolate and manipulate specific cellular and mole
 
 ### Quality Assurance and Peptide Verification
 
-The reliability of muscle peptide research depends on reagent quality. As detailed in our [guide to COA-tested peptides](/coa-tested-peptides/), researchers should insist on:
+The reliability of muscle peptide research depends on reagent quality. As detailed in our [guide to COA-tested peptides](/blog/coa-tested-peptides/), researchers should insist on:
 
 - HPLC purity ≥98%
 - Mass spectrometry confirmation of molecular identity
@@ -212,7 +212,7 @@ Three-dimensional engineered muscle tissue (EMT) platforms and muscle organoid c
 
 ### AI-Guided Peptide Optimization
 
-Machine learning models trained on peptide sequence-activity data are increasingly used to predict muscle-targeted peptide properties, including stability, receptor binding affinity, and cell permeability. This computational approach accelerates the identification of optimized peptide variants for muscle research applications, as discussed in our [overview of emerging research trends](/emerging-trends-in-modern-research-and-biotechnology/).
+Machine learning models trained on peptide sequence-activity data are increasingly used to predict muscle-targeted peptide properties, including stability, receptor binding affinity, and cell permeability. This computational approach accelerates the identification of optimized peptide variants for muscle research applications, as discussed in our [overview of emerging research trends](/blog/emerging-trends-in-modern-research-and-biotechnology/).
 
 ---
 
@@ -244,7 +244,7 @@ We collaborate with academic institutions, contract research organizations, and 
 ## Explore Related Resources
 
 ### Pillar Resource
-- [Muscle Growth Peptide Research — Pillar Guide](/why-muscle-growth-peptide-research-is-expanding/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
+- [Muscle Growth Peptide Research — Pillar Guide](/blog/why-muscle-growth-peptide-research-is-expanding/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
 
 ### Related Research Products
 - [Bpc 157 5 Mg Body Protection Research Peptide Usa](/products/bpc-157-5-mg-body-protection-research-peptide-usa/) — Research-grade peptide for laboratory investigation.
@@ -252,9 +252,9 @@ We collaborate with academic institutions, contract research organizations, and 
 - [Cjc 1295 Without Dac 5 Mg Research Peptide Usa](/products/cjc-1295-without-dac-5-mg-research-peptide-usa/) — Research-grade peptide for laboratory investigation.
 
 ### Further Reading
-- [Complete Guide to Research Peptides](/research-peptides-guide/) — In-depth analysis of related peptide research topics.
-- [COA Tested Peptides Guide](/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
-- [Peptide Safety Discussions](/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
+- [Complete Guide to Research Peptides](/blog/research-peptides-guide/) — In-depth analysis of related peptide research topics.
+- [COA Tested Peptides Guide](/blog/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
+- [Peptide Safety Discussions](/blog/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
 
 ---
 

@@ -74,15 +74,15 @@ We collaborate with academic institutions, contract research organizations, and 
 ## Explore Related Resources
 
 ### Pillar Resource
-- [Complete Research Peptides Guide — Pillar Resource](/research-peptides-guide/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
+- [Complete Research Peptides Guide — Pillar Resource](/blog/research-peptides-guide/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
 
 ### Related Research Products
 - [Cagrilintide 5 Mg Semaglutide 10 Mg Research Peptide Blend](/products/cagrilintide-5-mg-semaglutide-10-mg-research-peptide-blend/) — Research-grade peptide for laboratory investigation.
 
 ### Further Reading
-- [Complete Guide to Research Peptides](/research-peptides-guide/) — In-depth analysis of related peptide research topics.
-- [COA Tested Peptides Guide](/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
-- [Peptide Safety Discussions](/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
+- [Complete Guide to Research Peptides](/blog/research-peptides-guide/) — In-depth analysis of related peptide research topics.
+- [COA Tested Peptides Guide](/blog/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
+- [Peptide Safety Discussions](/blog/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
 
 ---
 

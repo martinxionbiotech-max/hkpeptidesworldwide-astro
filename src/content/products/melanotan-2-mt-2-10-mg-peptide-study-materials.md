@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Melanotan 2 Mt 2 10 Mg Peptide Study Mat](/melanotan-2-mt-2-10-mg-peptide-study-materials/)** | Related research peptide product |
-| **[Aicar 5 Mg Research Compound Usa](/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
+| **[Melanotan 2 Mt 2 10 Mg Peptide Study Mat](/products/melanotan-2-mt-2-10-mg-peptide-study-materials/)** | Related research peptide product |
+| **[Aicar 5 Mg Research Compound Usa](/products/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
 | **[Peptides In Skincare And Weight Loss Research](/blog/peptides-in-skincare-and-weight-loss-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

@@ -72,7 +72,7 @@ We collaborate with academic institutions, contract research organizations, and 
 ## Explore Related Resources
 
 ### Pillar Resource
-- [COA Tested Peptides — Pillar Guide](/coa-tested-peptides/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
+- [COA Tested Peptides — Pillar Guide](/blog/coa-tested-peptides/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
 
 ### Related Research Products
 - [Bpc 157 5 Mg Body Protection Research Peptide Usa](/products/bpc-157-5-mg-body-protection-research-peptide-usa/) — Research-grade peptide for laboratory investigation.
@@ -80,9 +80,9 @@ We collaborate with academic institutions, contract research organizations, and 
 - [Ghk Cu 100 Mg Copper Peptide Research Compound Usa](/products/ghk-cu-100-mg-copper-peptide-research-compound-usa/) — Research-grade peptide for laboratory investigation.
 
 ### Further Reading
-- [Complete Guide to Research Peptides](/research-peptides-guide/) — In-depth analysis of related peptide research topics.
-- [COA Tested Peptides Guide](/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
-- [Peptide Safety Discussions](/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
+- [Complete Guide to Research Peptides](/blog/research-peptides-guide/) — In-depth analysis of related peptide research topics.
+- [COA Tested Peptides Guide](/blog/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
+- [Peptide Safety Discussions](/blog/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
 
 ---
 

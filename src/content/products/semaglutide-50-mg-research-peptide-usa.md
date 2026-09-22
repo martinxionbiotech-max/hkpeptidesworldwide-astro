@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Glp 1 Metabolic Peptides Hub](/pillars/glp-1-metabolic-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Cagrilintide 5 Mg Semaglutide 10 Mg Rese](/cagrilintide-5-mg-semaglutide-10-mg-research-peptide-blend/)** | Related research peptide product |
-| **[Semaglutide 10 Mg Grade Glp 1 Research P](/semaglutide-10-mg-grade-glp-1-research-peptide/)** | Related research peptide product |
+| **[Cagrilintide 5 Mg Semaglutide 10 Mg Rese](/products/cagrilintide-5-mg-semaglutide-10-mg-research-peptide-blend/)** | Related research peptide product |
+| **[Semaglutide 10 Mg Grade Glp 1 Research P](/products/semaglutide-10-mg-grade-glp-1-research-peptide/)** | Related research peptide product |
 | **[Glp 1 Peptides Metabolic Research](/blog/glp-1-peptides-metabolic-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

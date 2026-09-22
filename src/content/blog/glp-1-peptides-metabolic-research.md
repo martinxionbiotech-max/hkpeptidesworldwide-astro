@@ -132,7 +132,7 @@ Cagrilintide-amylin-semaglutide combination research (CagriSema) is currently in
 
 Research reproducibility depends critically on the quality of peptide reagents. In a 2024 survey of laboratory scientists published in *Nature*, 72% of respondents reported having failed to reproduce another scientist's experiments, with reagent quality and validation identified as one of the most commonly cited contributing factors. For GLP-1 peptide research specifically, impurities or degradation products can confound receptor binding assays, signaling studies, and cellular response measurements.
 
-High-performance liquid chromatography (HPLC) analysis with purity ≥98% is the widely accepted standard for research-grade GLP-1 peptides. Mass spectrometry (MS) verification provides complementary confirmation of molecular identity and sequence integrity. Researchers should expect comprehensive analytical documentation, as discussed in our detailed guide on [COA-tested peptides and their importance in laboratory research](/coa-tested-peptides/).
+High-performance liquid chromatography (HPLC) analysis with purity ≥98% is the widely accepted standard for research-grade GLP-1 peptides. Mass spectrometry (MS) verification provides complementary confirmation of molecular identity and sequence integrity. Researchers should expect comprehensive analytical documentation, as discussed in our detailed guide on [COA-tested peptides and their importance in laboratory research](/blog/coa-tested-peptides/).
 
 ### Certificates of Analysis
 
@@ -152,7 +152,7 @@ Laboratories conducting receptor binding or cell-based assays should pay particu
 
 ### Supplier Transparency and Verification
 
-As explored in our analysis of [peptide supplier reputation and quality standards](/why-peptide-supplier-reputation-matters/), researchers should evaluate suppliers based on several criteria:
+As explored in our analysis of [peptide supplier reputation and quality standards](/blog/why-peptide-supplier-reputation-matters/), researchers should evaluate suppliers based on several criteria:
 
 - **Analytical documentation transparency**: Are full COAs and test reports available before purchase?
 - **Batch traceability**: Can each product be traced to a specific manufacturing lot with associated quality data?
@@ -224,7 +224,7 @@ Several frontiers are likely to define the next phase of GLP-1 research:
 - **Combination strategies with non-peptide modalities**: Researchers are investigating whether combining GLP-1 peptides with small molecules, monoclonal antibodies, or gene therapies can produce synergistic research outcomes.
 - **Long-acting depot formulations**: Once-monthly and once-quarterly injectable formulations using biodegradable polymer microsphere technology are in development, which would provide researchers with new tools for long-term metabolic studies.
 
-For a deeper exploration of emerging trends in peptide science, see our article on [GLP-1 peptides and the future of metabolic science](/glp-1-peptides-and-metabolic-research-exploring-the-future-of-scientific-innovation/).
+For a deeper exploration of emerging trends in peptide science, see our article on [GLP-1 peptides and the future of metabolic science](/blog/glp-1-peptides-and-metabolic-research-exploring-the-future-of-scientific-innovation/).
 
 ---
 
@@ -256,15 +256,15 @@ We collaborate with academic institutions, contract research organizations, and 
 ## Explore Related Resources
 
 ### Pillar Resource
-- [Complete Research Peptides Guide — Pillar Resource](/research-peptides-guide/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
+- [Complete Research Peptides Guide — Pillar Resource](/blog/research-peptides-guide/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
 
 ### Related Research Products
 - [Cagrilintide 5 Mg Semaglutide 10 Mg Research Peptide Blend](/products/cagrilintide-5-mg-semaglutide-10-mg-research-peptide-blend/) — Research-grade peptide for laboratory investigation.
 
 ### Further Reading
-- [Complete Guide to Research Peptides](/research-peptides-guide/) — In-depth analysis of related peptide research topics.
-- [COA Tested Peptides Guide](/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
-- [Peptide Safety Discussions](/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
+- [Complete Guide to Research Peptides](/blog/research-peptides-guide/) — In-depth analysis of related peptide research topics.
+- [COA Tested Peptides Guide](/blog/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
+- [Peptide Safety Discussions](/blog/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
 
 ---
 

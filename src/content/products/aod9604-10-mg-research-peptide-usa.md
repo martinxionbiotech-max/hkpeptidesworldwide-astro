@@ -234,8 +234,8 @@ Several peer-reviewed publications have reported biological activity following o
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Aod9604 10 Mg Research Peptide Usa](/aod9604-10-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Aod9604 5 Mg Fragmented Hgh Research Pep](/aod9604-5-mg-fragmented-hgh-research-peptide-usa/)** | Related research peptide product |
+| **[Aod9604 10 Mg Research Peptide Usa](/products/aod9604-10-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Aod9604 5 Mg Fragmented Hgh Research Pep](/products/aod9604-5-mg-fragmented-hgh-research-peptide-usa/)** | Related research peptide product |
 | **[Why Muscle Growth Peptide Research Is Expanding](/blog/why-muscle-growth-peptide-research-is-expanding/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

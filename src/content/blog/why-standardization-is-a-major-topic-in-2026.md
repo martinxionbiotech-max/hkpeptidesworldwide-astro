@@ -92,7 +92,7 @@ Two external forces are accelerating standardization:
 - Lot-specific, not catalog-generic, COAs
 - Purity thresholds tied to application: ≥95% for biochemical work, ≥98% for cellular assays, ≥99% for structural biology
 
-For detailed guidance on interpreting peptide COAs, see our [comprehensive COA guide](/coa-tested-peptides/).
+For detailed guidance on interpreting peptide COAs, see our [comprehensive COA guide](/blog/coa-tested-peptides/).
 
 ### 2. Peptide Quantitation
 
@@ -214,7 +214,7 @@ Start with the fundamentals: (1) Create written SOPs for peptide receipt, storag
 
 ### What role do peptide suppliers play in standardization?
 
-Suppliers are critical partners in the standardization ecosystem. They provide the COAs that serve as the initial quality documentation, they should follow consistent analytical methods, and the best suppliers provide handling and stability guidance based on empirical data. Researchers should select suppliers that actively support standardization — those providing transparent analytical data, consistent lot-to-lot quality, and scientifically grounded technical support. See our [research peptide supplier guide](/research-peptides-guide/) for evaluation criteria.
+Suppliers are critical partners in the standardization ecosystem. They provide the COAs that serve as the initial quality documentation, they should follow consistent analytical methods, and the best suppliers provide handling and stability guidance based on empirical data. Researchers should select suppliers that actively support standardization — those providing transparent analytical data, consistent lot-to-lot quality, and scientifically grounded technical support. See our [research peptide supplier guide](/blog/research-peptides-guide/) for evaluation criteria.
 
 ---
 

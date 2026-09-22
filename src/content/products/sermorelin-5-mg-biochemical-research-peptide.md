@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Sermorelin 10 Mg Molecular Research Pept](/sermorelin-10-mg-molecular-research-peptides/)** | Related research peptide product |
-| **[Sermorelin 5 Mg 10 Mg Research Grade Ghr](/sermorelin-5-mg-10-mg-research-grade-ghrh-analog-usa/)** | Related research peptide product |
+| **[Sermorelin 10 Mg Molecular Research Pept](/products/sermorelin-10-mg-molecular-research-peptides/)** | Related research peptide product |
+| **[Sermorelin 5 Mg 10 Mg Research Grade Ghr](/products/sermorelin-5-mg-10-mg-research-grade-ghrh-analog-peptide-usa/)** | Related research peptide product |
 | **[Why Muscle Growth Peptide Research Is Expanding](/blog/why-muscle-growth-peptide-research-is-expanding/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

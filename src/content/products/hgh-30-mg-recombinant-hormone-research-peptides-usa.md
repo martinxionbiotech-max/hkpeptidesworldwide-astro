@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Aod9604 5 Mg Fragmented Hgh Research Pep](/aod9604-5-mg-fragmented-hgh-research-peptide-usa/)** | Related research peptide product |
-| **[Hgh 10 Mg Recombinant Hormone Research U](/hgh-10-mg-recombinant-hormone-research-usa/)** | Related research peptide product |
+| **[Aod9604 5 Mg Fragmented Hgh Research Pep](/products/aod9604-5-mg-fragmented-hgh-research-peptide-usa/)** | Related research peptide product |
+| **[Hgh 10 Mg Recombinant Hormone Research U](/products/hgh-10-mg-recombinant-hormone-research-usa/)** | Related research peptide product |
 | **[Why Muscle Growth Peptide Research Is Expanding](/blog/why-muscle-growth-peptide-research-is-expanding/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

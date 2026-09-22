@@ -232,8 +232,8 @@ HKPEPTIDE WORLDWIDE supplies KPV 10 mg at ≥98% purity as verified by reverse-p
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Kpv 10 Mg Anti Inflammatory Research Pep](/kpv-10-mg-anti-inflammatory-research-peptide-usa/)** | Related research peptide product |
-| **[Kpv 10 Mg Laboratory Grade Compounds](/kpv-10-mg-laboratory-grade-compounds/)** | Related research peptide product |
+| **[Kpv 10 Mg Anti Inflammatory Research Pep](/products/kpv-10-mg-anti-inflammatory-research-peptide-usa/)** | Related research peptide product |
+| **[Kpv 10 Mg Laboratory Grade Compounds](/products/kpv-10-mg-laboratory-grade-compounds/)** | Related research peptide product |
 | **[Why Anti Aging Peptide Research Is Growing Rapidly](/blog/why-anti-aging-peptide-research-is-growing-rapidly/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

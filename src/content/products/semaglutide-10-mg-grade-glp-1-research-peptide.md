@@ -263,15 +263,15 @@ HKPEPTIDE WORLDWIDE maintains the right to verify research credentials and decli
 
 ## 12. Internal Links
 
-- [Semaglutide 5 mg – Pilot Studies & Assay Validation](/semaglutide-5-mg-research-peptide-usa/)
-- [Semaglutide 20 mg – Signaling Pathway Studies](/semaglutide-20-mg-high-purity-peptide/)
-- [Semaglutide 30 mg – Extended Research Protocols](/semaglutide-30-mg-research-grade-glp-1-peptide/)
-- [Semaglutide 50 mg – Large-Scale Biochemical Research](/semaglutide-50-mg-research-peptide-usa/)
-- [Semaglutide 60 mg – Core Facility Supply](/semaglutide-60-mg-research-peptide-usa-supply/)
-- [Tirzepatide Research Peptides – GIP/GLP-1 Dual Agonism](/tirzepatide-research-peptides/)
-- [Retatrutide Research Peptides – Triple Receptor Studies](/retatrutide-research-peptides/)
-- [GLP-1 Research Peptide Catalog](/category/glp-1-research-peptides/)
-- [Quality Assurance Documentation](/quality-control/)
+- [Semaglutide 5 mg – Pilot Studies & Assay Validation](/products/semaglutide-5-mg-research-peptide-usa/)
+- [Semaglutide 20 mg – Signaling Pathway Studies](/products/semaglutide-20-mg-high-purity-peptide/)
+- [Semaglutide 30 mg – Extended Research Protocols](/products/semaglutide-30-mg-research-grade-glp-1-peptide/)
+- [Semaglutide 50 mg – Large-Scale Biochemical Research](/products/semaglutide-50-mg-research-peptide-usa/)
+- [Semaglutide 60 mg – Core Facility Supply](/products/semaglutide-60-mg-research-peptide-usa-supply/)
+- [Tirzepatide Research Peptides – GIP/GLP-1 Dual Agonism](/pillars/glp-1-metabolic-peptides-hub/)
+- [Retatrutide Research Peptides – Triple Receptor Studies](/pillars/glp-1-metabolic-peptides-hub/)
+- [GLP-1 Research Peptide Catalog](/pillars/glp-1-metabolic-peptides-hub/)
+- [Quality Assurance Documentation](/quality-and-testing/)
 
 
 ## Related Research & Resources
@@ -279,8 +279,8 @@ HKPEPTIDE WORLDWIDE maintains the right to verify research credentials and decli
 | Resource | Description |
 |---|---|
 | **[Glp 1 Metabolic Peptides Hub](/pillars/glp-1-metabolic-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Cagrilintide 5 Mg Semaglutide 10 Mg Rese](/cagrilintide-5-mg-semaglutide-10-mg-research-peptide-blend/)** | Related research peptide product |
-| **[Semaglutide 10 Mg Grade Glp 1 Research P](/semaglutide-10-mg-grade-glp-1-research-peptide/)** | Related research peptide product |
+| **[Cagrilintide 5 Mg Semaglutide 10 Mg Rese](/products/cagrilintide-5-mg-semaglutide-10-mg-research-peptide-blend/)** | Related research peptide product |
+| **[Semaglutide 10 Mg Grade Glp 1 Research P](/products/semaglutide-10-mg-grade-glp-1-research-peptide/)** | Related research peptide product |
 | **[Glp 1 Peptides Metabolic Research](/blog/glp-1-peptides-metabolic-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

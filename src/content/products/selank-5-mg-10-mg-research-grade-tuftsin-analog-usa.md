@@ -240,8 +240,8 @@ The Pro-Gly-Pro C-terminus serves three functions: (1) Metabolic stabilizationâ€
 
 ## 10. Internal Resources
 
-- [Research Peptide Quality Guide](/research-peptides-guide/)
-- [COA and Quality Standards](/coa-tested-peptides/)
+- [Research Peptide Quality Guide](/blog/research-peptides-guide/)
+- [COA and Quality Standards](/blog/coa-tested-peptides/)
 - [Shipping & Handling Information](/how-to-buy/)
 - [Contact Our Research Team](/contact/)
 
@@ -257,8 +257,8 @@ The Pro-Gly-Pro C-terminus serves three functions: (1) Metabolic stabilizationâ€
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Selank 10 Mg Research Peptide Usa](/selank-10-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Selank 5 Mg 10 Mg Research Grade Tuftsin](/selank-5-mg-10-mg-research-grade-tuftsin-analog-usa/)** | Related research peptide product |
+| **[Selank 10 Mg Research Peptide Usa](/products/selank-10-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Selank 5 Mg 10 Mg Research Grade Tuftsin](/products/selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa/)** | Related research peptide product |
 | **[Understanding Safety Discussions Around Peptides](/blog/understanding-safety-discussions-around-peptides/)** | Latest research insights & methodology |
 
 [View Complete Research Guide Â»](/blog/research-peptides-guide/)

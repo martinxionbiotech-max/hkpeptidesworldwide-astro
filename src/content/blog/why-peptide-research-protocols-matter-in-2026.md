@@ -92,7 +92,7 @@ A peptide research protocol is not simply a list of steps. It is a comprehensive
 - Disposal procedures compliant with institutional and regulatory requirements
 - Decontamination protocols where applicable
 
-For guidance on how to verify peptide quality through COA documentation, see our [comprehensive guide to COA tested peptides](/coa-tested-peptides/).
+For guidance on how to verify peptide quality through COA documentation, see our [comprehensive guide to COA tested peptides](/blog/coa-tested-peptides/).
 
 ### The Cost of Protocol Deficiency
 
@@ -262,7 +262,7 @@ A legitimate concern among researchers is that overly rigid protocols may stifle
 
 As peptide research becomes increasingly international and collaborative, efforts are underway to develop globally harmonized protocol standards. Organizations including the American Peptide Society, the European Peptide Society, and the International Peptide Community are working toward consensus guidelines that would enable laboratories in different countries to produce directly comparable data.
 
-For more on this topic, see our dedicated article on [standardization as a major topic in peptide research in 2026](/why-standardization-is-a-major-topic-in-2026/).
+For more on this topic, see our dedicated article on [standardization as a major topic in peptide research in 2026](/blog/why-standardization-is-a-major-topic-in-2026/).
 
 ---
 

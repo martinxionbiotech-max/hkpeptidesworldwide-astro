@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Vip 10 Mg Research Peptide Usa](/vip-10-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Aicar 5 Mg Research Compound Usa](/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
+| **[Vip 10 Mg Research Peptide Usa](/products/vip-10-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Aicar 5 Mg Research Compound Usa](/products/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
 | **[Peptides On The Rise Exploring The Newest Advances In Scientific Research](/blog/peptides-on-the-rise-exploring-the-newest-advances-in-scientific-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

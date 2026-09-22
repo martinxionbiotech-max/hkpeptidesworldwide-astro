@@ -83,7 +83,7 @@ Researchers should understand that "COA tested" is not a simple yes/no property.
 2. **Scope of testing**: A minimal COA may only report HPLC purity. A comprehensive COA includes HPLC, mass spectrometry, amino acid analysis, residual solvent testing, and (for certain peptides) trifluoroacetate (TFA) content analysis.
 3. **Transparency of data**: Some suppliers provide full chromatograms and spectra; others provide only summary numbers. Full data transparency is a hallmark of a quality-focused supplier.
 
-For a deeper understanding of how supplier transparency affects research outcomes, see our guide on [research peptide quality standards](/research-peptides-guide/).
+For a deeper understanding of how supplier transparency affects research outcomes, see our guide on [research peptide quality standards](/blog/research-peptides-guide/).
 
 ---
 
@@ -143,7 +143,7 @@ A 2024 survey of 450 peptide researchers conducted by the American Peptide Socie
 
 Modern peptide research increasingly involves multi-site collaborations, meta-analyses, and systematic reviews. When Laboratory A in Boston and Laboratory B in Singapore use the same peptide sequence but from different batches or suppliers, their results may diverge for reasons unrelated to the biological question. COAs provide the documentation needed to assess whether divergent results reflect genuine biological differences or artifact introduced by variable reagent quality.
 
-This concern is particularly acute in fields like metabolic peptide research, where GLP-1 receptor agonists are studied across hundreds of laboratories worldwide. Our article on [standardized peptide research protocols](/why-standardization-is-a-major-topic-in-2026/) explores this challenge in depth.
+This concern is particularly acute in fields like metabolic peptide research, where GLP-1 receptor agonists are studied across hundreds of laboratories worldwide. Our article on [standardized peptide research protocols](/blog/why-standardization-is-a-major-topic-in-2026/) explores this challenge in depth.
 
 ---
 
@@ -223,7 +223,7 @@ The analytical methods underpinning peptide COAs continue to advance:
 
 These technologies are gradually being adopted by the most quality-conscious peptide suppliers and independent testing laboratories, raising the bar for what constitutes a trustworthy COA.
 
-Learn more about how [technology is advancing peptide research quality](/research-peptides-guide/).
+Learn more about how [technology is advancing peptide research quality](/blog/research-peptides-guide/).
 
 ---
 
@@ -235,7 +235,7 @@ Learn more about how [technology is advancing peptide research quality](/researc
 - Ask whether testing is performed in-house or by an independent third party
 - Inquire about the supplier's stability testing program and retest intervals
 - Verify that the supplier provides batch-specific COAs (not generic product COAs)
-- Review our [guide to identifying transparent peptide suppliers](/understanding-safety-discussions-around-peptides/)
+- Review our [guide to identifying transparent peptide suppliers](/blog/understanding-safety-discussions-around-peptides/)
 
 ### Post-Receipt Verification
 

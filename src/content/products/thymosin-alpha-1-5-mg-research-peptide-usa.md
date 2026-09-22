@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Thymosin Alpha 1 10Mg](/thymosin-alpha-1-10mg/)** | Related research peptide product |
-| **[Thymosin Alpha 1 5 Mg Research Peptide U](/thymosin-alpha-1-5-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Thymosin Alpha 1 10Mg](/products/thymosin-alpha-1-10mg/)** | Related research peptide product |
+| **[Thymosin Alpha 1 5 Mg Research Peptide U](/products/thymosin-alpha-1-5-mg-research-peptide-usa/)** | Related research peptide product |
 | **[Research Peptides Guide](/blog/research-peptides-guide/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

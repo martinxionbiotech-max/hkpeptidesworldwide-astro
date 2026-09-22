@@ -64,7 +64,7 @@ Peptides are well-suited to aging research because many endogenous peptides are 
 
 DNA methylation-based epigenetic clocks (Horvath clock, PhenoAge, GrimAge) have transformed aging research by providing quantifiable molecular biomarkers of biological age. Researchers are increasingly investigating whether peptide interventions can influence epigenetic aging rates. A 2024 study in *Aging Cell* reported that GHK-Cu treatment was associated with changes in DNA methylation patterns at specific CpG sites in cultured human dermal fibroblasts, though the functional significance of these changes remains under active investigation.
 
-For a broader perspective on how peptides fit into the modern research landscape, see our [guide to peptides in scientific research](/peptides-on-the-rise-exploring-the-newest-advances-in-scientific-research/).
+For a broader perspective on how peptides fit into the modern research landscape, see our [guide to peptides in scientific research](/blog/peptides-on-the-rise-exploring-the-newest-advances-in-scientific-research/).
 
 ## Key Anti-Aging Peptides Under Active Investigation
 
@@ -83,7 +83,7 @@ The peptide's biological activity is copper-dependent—the copper-free GHK trip
 - **Epigenetic modulation**: The gene expression effects of GHK-Cu are mediated in part through chromatin remodeling. Research has demonstrated that GHK-Cu can influence histone acetylation patterns and DNA methylation, providing a potential mechanistic link between peptide signaling and epigenetic aging.
 - **Wound healing and tissue regeneration**: GHK-Cu's wound-healing properties have been documented across multiple tissue types, including skin, bone, and nervous tissue. In aged animal models, GHK-Cu accelerates wound closure rates and improves healing quality compared to untreated controls.
 
-For a deeper exploration of GHK-Cu's research applications, see our dedicated article on [GHK-Cu in skin care and hair growth research](/ghk-cu-skin-care-hair-growth-research-peptide/).
+For a deeper exploration of GHK-Cu's research applications, see our dedicated article on [GHK-Cu in skin care and hair growth research](/blog/ghk-cu-skin-care-hair-growth-research-peptide/).
 
 ### Epitalon (Epithalon)
 
@@ -160,7 +160,7 @@ As with all peptide research, the quality of anti-aging research peptides is par
 - Endotoxin testing (particularly important for cell-based aging studies, where inflammatory artifacts can confound results)
 - Batch-to-batch consistency documented through COA comparison
 
-Our [complete guide to COA-tested peptides](/coa-tested-peptides/) provides detailed guidance on quality verification.
+Our [complete guide to COA-tested peptides](/blog/coa-tested-peptides/) provides detailed guidance on quality verification.
 
 ### Reproducibility Considerations
 
@@ -182,7 +182,7 @@ Senolytics—compounds that selectively eliminate senescent cells—represent on
 - **Senescence-targeting peptides**: Short peptides designed to interfere with the anti-apoptotic pathways that senescent cells upregulate.
 - **SASP-modulating peptides**: Peptides that reduce the senescence-associated secretory phenotype (SASP) without necessarily eliminating senescent cells.
 
-This area is discussed further in our analysis of [peptides in skincare and weight loss research](/peptides-in-skincare-and-weight-loss-research/).
+This area is discussed further in our analysis of [peptides in skincare and weight loss research](/blog/peptides-in-skincare-and-weight-loss-research/).
 
 ### Epigenetic Reprogramming and Peptide Biology
 
@@ -194,7 +194,7 @@ The integration of genomics, epigenomics, transcriptomics, proteomics, and metab
 
 ### AI-Driven Peptide Discovery for Aging
 
-Machine learning models trained on aging-relevant biological data are being used to design novel peptides with predicted anti-aging properties. These approaches can screen vast sequence spaces computationally before synthesis, dramatically accelerating discovery timelines as discussed in our [overview of emerging biotechnology trends](/emerging-trends-in-modern-research-and-biotechnology/).
+Machine learning models trained on aging-relevant biological data are being used to design novel peptides with predicted anti-aging properties. These approaches can screen vast sequence spaces computationally before synthesis, dramatically accelerating discovery timelines as discussed in our [overview of emerging biotechnology trends](/blog/emerging-trends-in-modern-research-and-biotechnology/).
 
 ---
 
@@ -226,7 +226,7 @@ We collaborate with academic institutions, contract research organizations, and 
 ## Explore Related Resources
 
 ### Pillar Resource
-- [Peptides in Skincare & Weight Loss Research — Pillar Guide](/peptides-in-skincare-and-weight-loss-research/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
+- [Peptides in Skincare & Weight Loss Research — Pillar Guide](/blog/peptides-in-skincare-and-weight-loss-research/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
 
 ### Related Research Products
 - [Bpc 157 5 Mg Body Protection Research Peptide Usa](/products/bpc-157-5-mg-body-protection-research-peptide-usa/) — Research-grade peptide for laboratory investigation.
@@ -234,9 +234,9 @@ We collaborate with academic institutions, contract research organizations, and 
 - [Ghk Cu 100 Mg Copper Peptide Research Compound Usa](/products/ghk-cu-100-mg-copper-peptide-research-compound-usa/) — Research-grade peptide for laboratory investigation.
 
 ### Further Reading
-- [Complete Guide to Research Peptides](/research-peptides-guide/) — In-depth analysis of related peptide research topics.
-- [COA Tested Peptides Guide](/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
-- [Peptide Safety Discussions](/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
+- [Complete Guide to Research Peptides](/blog/research-peptides-guide/) — In-depth analysis of related peptide research topics.
+- [COA Tested Peptides Guide](/blog/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
+- [Peptide Safety Discussions](/blog/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
 
 ---
 

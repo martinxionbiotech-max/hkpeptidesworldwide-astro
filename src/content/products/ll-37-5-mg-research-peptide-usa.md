@@ -129,8 +129,8 @@ LL-37 binds bacterial lipopolysaccharide (LPS) with high affinity, preventing LP
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Ll 37 5 Mg Cathelicidin Antimicrobial Pe](/ll-37-5-mg-cathelicidin-antimicrobial-peptide-research-usa/)** | Related research peptide product |
-| **[Ll 37 5 Mg Research Peptide Usa](/ll-37-5-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Ll 37 5 Mg Cathelicidin Antimicrobial Pe](/products/ll-37-5-mg-cathelicidin-antimicrobial-peptide-research-usa/)** | Related research peptide product |
+| **[Ll 37 5 Mg Research Peptide Usa](/products/ll-37-5-mg-research-peptide-usa/)** | Related research peptide product |
 | **[Understanding Safety Discussions Around Peptides](/blog/understanding-safety-discussions-around-peptides/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

@@ -139,8 +139,8 @@ Batch-specific COA: HPLC purity, ESI-MS identity, amino acid analysis, Karl Fisc
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Bpc 157 Tb 500 10 Mg Research Peptide Co](/bpc-157-tb-500-10-mg-research-peptide-combination-usa/)** | Related research peptide product |
-| **[Bpc 157 Tb 500 20 Mg Research Peptide Us](/bpc-157-tb-500-20-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Bpc 157 Tb 500 10 Mg Research Peptide Co](/products/bpc-157-tb-500-10-mg-research-peptide-combination-usa/)** | Related research peptide product |
+| **[Bpc 157 Tb 500 20 Mg Research Peptide Us](/products/bpc-157-tb-500-20-mg-research-peptide-usa/)** | Related research peptide product |
 | **[The Growing Interest In Peptides For Muscle Research](/blog/the-growing-interest-in-peptides-for-muscle-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

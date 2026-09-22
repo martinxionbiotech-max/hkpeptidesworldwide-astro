@@ -240,8 +240,8 @@ The enzyme cycling assay remains the gold standard: alcohol dehydrogenase (ADH) 
 
 ## 10. Internal Resources
 
-- [Research Peptide Quality Guide](/research-peptides-guide/)
-- [COA and Quality Standards](/coa-tested-peptides/)
+- [Research Peptide Quality Guide](/blog/research-peptides-guide/)
+- [COA and Quality Standards](/blog/coa-tested-peptides/)
 - [Shipping & Handling Information](/how-to-buy/)
 - [Contact Our Research Team](/contact/)
 
@@ -257,8 +257,8 @@ The enzyme cycling assay remains the gold standard: alcohol dehydrogenase (ADH) 
 | Resource | Description |
 |---|---|
 | **[Glp 1 Metabolic Peptides Hub](/pillars/glp-1-metabolic-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Aicar 5 Mg Research Compound Usa](/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
-| **[Aicar 50 Mg Research Compound Usa](/aicar-50-mg-research-compound-usa/)** | Related research peptide product |
+| **[Aicar 5 Mg Research Compound Usa](/products/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
+| **[Aicar 50 Mg Research Compound Usa](/products/aicar-50-mg-research-compound-usa/)** | Related research peptide product |
 | **[Glp 1 Peptides Metabolic Research](/blog/glp-1-peptides-metabolic-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

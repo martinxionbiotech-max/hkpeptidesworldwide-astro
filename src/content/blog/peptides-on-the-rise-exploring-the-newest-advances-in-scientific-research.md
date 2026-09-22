@@ -72,7 +72,7 @@ While the peptide-protein boundary is conventionally drawn at approximately 50 a
 | Characterization | HPLC, MS, NMR | SDS-PAGE, SEC, crystallography |
 | Immunogenicity | Generally low | Often significant |
 
-This position between small molecules and biologics is precisely what makes peptides so versatile as research tools, as explored in our [comprehensive research peptides guide](/research-peptides-guide/).
+This position between small molecules and biologics is precisely what makes peptides so versatile as research tools, as explored in our [comprehensive research peptides guide](/blog/research-peptides-guide/).
 
 ## Synthesis Advances Driving Peptide Research
 
@@ -156,7 +156,7 @@ The diagnostic applications of peptides continue to expand:
 - **Peptide microarrays**: High-density peptide arrays enable profiling of antibody responses, enzyme substrate specificity, and protein interaction networks with unprecedented throughput.
 - **Aptamer-equivalent peptides**: Engineered peptides with specific binding properties ("peptide aptamers") complement nucleic acid aptamers in biosensor and diagnostic applications.
 
-For a discussion of standardization trends in peptide research, see our article on [research protocol standardization in 2026](/why-standardization-is-a-major-topic-in-2026/).
+For a discussion of standardization trends in peptide research, see our article on [research protocol standardization in 2026](/blog/why-standardization-is-a-major-topic-in-2026/).
 
 ## Peptide Research Across Disciplines
 
@@ -216,7 +216,7 @@ As peptide research becomes more sophisticated, quality and documentation standa
 - Batch-to-batch consistency documentation
 - Adherence to evolving guidelines from organizations such as the United States Pharmacopeia (USP) and the International Council for Harmonisation (ICH)
 
-Our article on [peptide supplier reputation and quality standards](/why-peptide-supplier-reputation-matters/) explores these considerations in depth.
+Our article on [peptide supplier reputation and quality standards](/blog/why-peptide-supplier-reputation-matters/) explores these considerations in depth.
 
 ## The Future Trajectory of Peptide Science
 
@@ -228,7 +228,7 @@ Looking forward, several developments are poised to define peptide research thro
 - **In vivo peptide evolution platforms**: Phage display, mRNA display, and yeast display technologies coupled with next-generation sequencing will enable high-throughput evolution and optimization of peptide binders with desired properties.
 - **Sustainable peptide synthesis**: Green chemistry principles, solvent recycling, and bio-based building blocks will be integrated into peptide production, reducing the environmental footprint of peptide research.
 
-For further exploration of how these trends are reshaping the field, see our analysis of [peptide innovation in 2026](/peptide-innovation-2026/) and [how advanced research is reshaping scientific discovery](/how-advanced-research-is-reshaping-scientific-discovery/).
+For further exploration of how these trends are reshaping the field, see our analysis of [peptide innovation in 2026](/blog/peptide-innovation-2026/) and [how advanced research is reshaping scientific discovery](/blog/how-advanced-research-is-reshaping-scientific-discovery/).
 
 ---
 
@@ -260,7 +260,7 @@ We collaborate with academic institutions, contract research organizations, and 
 ## Explore Related Resources
 
 ### Pillar Resource
-- [Complete Research Peptides Guide — Pillar Resource](/research-peptides-guide/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
+- [Complete Research Peptides Guide — Pillar Resource](/blog/research-peptides-guide/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
 
 ### Related Research Products
 - [GHK-Cu 100mg Research Compound](/products/ghk-cu-100-mg-copper-peptide-research-compound-usa/) — High-purity copper peptide for dermatological research.
@@ -268,9 +268,9 @@ We collaborate with academic institutions, contract research organizations, and 
 - [CJC-1295 without DAC 5mg](/products/cjc-1295-without-dac-5-mg-research-peptide-usa/) — GHRH analog for growth hormone signaling research.
 
 ### Further Reading
-- [Complete Guide to Research Peptides](/research-peptides-guide/) — In-depth analysis of related peptide research topics.
-- [COA Tested Peptides Guide](/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
-- [Peptide Safety Discussions](/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
+- [Complete Guide to Research Peptides](/blog/research-peptides-guide/) — In-depth analysis of related peptide research topics.
+- [COA Tested Peptides Guide](/blog/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
+- [Peptide Safety Discussions](/blog/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
 
 ---
 

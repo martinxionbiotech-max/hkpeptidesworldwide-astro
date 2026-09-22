@@ -72,7 +72,7 @@ We collaborate with academic institutions, contract research organizations, and 
 ## Explore Related Resources
 
 ### Pillar Resource
-- [Complete Research Peptides Guide — Pillar Resource](/research-peptides-guide/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
+- [Complete Research Peptides Guide — Pillar Resource](/blog/research-peptides-guide/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
 
 ### Related Research Products
 - [GHK-Cu 100mg Research Compound](/products/ghk-cu-100-mg-copper-peptide-research-compound-usa/) — High-purity copper peptide for dermatological research.
@@ -80,9 +80,9 @@ We collaborate with academic institutions, contract research organizations, and 
 - [CJC-1295 without DAC 5mg](/products/cjc-1295-without-dac-5-mg-research-peptide-usa/) — GHRH analog for growth hormone signaling research.
 
 ### Further Reading
-- [Complete Guide to Research Peptides](/research-peptides-guide/) — In-depth analysis of related peptide research topics.
-- [COA Tested Peptides Guide](/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
-- [Peptide Safety Discussions](/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
+- [Complete Guide to Research Peptides](/blog/research-peptides-guide/) — In-depth analysis of related peptide research topics.
+- [COA Tested Peptides Guide](/blog/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
+- [Peptide Safety Discussions](/blog/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
 
 ---
 

@@ -135,8 +135,8 @@ PEG-MGF is the IGF-1Ec splice variant with a 24-aa E-domain that specifically ta
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Igf 1 0 1 Mg 1 Mg Research Grade Insulin](/igf-1-0-1-mg-1-mg-research-grade-insulin-like-growth-factor-usa/)** | Related research peptide product |
-| **[Igf 1 0 1 Mg Research Peptide Usa](/igf-1-0-1-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Igf 1 0 1 Mg 1 Mg Research Grade Insulin](/products/igf-1-0-1-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Igf 1 0 1 Mg Research Peptide Usa](/products/igf-1-0-1-mg-research-peptide-usa/)** | Related research peptide product |
 | **[Why Muscle Growth Peptide Research Is Expanding](/blog/why-muscle-growth-peptide-research-is-expanding/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

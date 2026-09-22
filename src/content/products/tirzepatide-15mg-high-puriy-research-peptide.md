@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Glp 1 Metabolic Peptides Hub](/pillars/glp-1-metabolic-peptides-hub/)** | Complete research overview & methodology hub |
-| **[High Purity Tirzepatide 50Mg](/high-purity-tirzepatide-50mg/)** | Related research peptide product |
-| **[Tirzepatide 10 Mg Research Peptide Vials](/tirzepatide-10-mg-research-peptide-vials-usa/)** | Related research peptide product |
+| **[High Purity Tirzepatide 50Mg](/products/high-purity-tirzepatide-50mg/)** | Related research peptide product |
+| **[Tirzepatide 10 Mg Research Peptide Vials](/products/tirzepatide-10-mg-research-peptide-vials-usa/)** | Related research peptide product |
 | **[Glp 1 Peptides Metabolic Research](/blog/glp-1-peptides-metabolic-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

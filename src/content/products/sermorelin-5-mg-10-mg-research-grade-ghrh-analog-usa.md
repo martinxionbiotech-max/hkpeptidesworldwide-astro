@@ -238,8 +238,8 @@ At concentrations producing maximal GH release (1-100 nM), Sermorelin does not s
 
 ## 10. Internal Resources
 
-- [Research Peptide Quality Guide](/research-peptides-guide/)
-- [COA and Quality Standards](/coa-tested-peptides/)
+- [Research Peptide Quality Guide](/blog/research-peptides-guide/)
+- [COA and Quality Standards](/blog/coa-tested-peptides/)
 - [Shipping & Handling Information](/how-to-buy/)
 - [Contact Our Research Team](/contact/)
 
@@ -255,8 +255,8 @@ At concentrations producing maximal GH release (1-100 nM), Sermorelin does not s
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Sermorelin 10 Mg Molecular Research Pept](/sermorelin-10-mg-molecular-research-peptides/)** | Related research peptide product |
-| **[Sermorelin 5 Mg 10 Mg Research Grade Ghr](/sermorelin-5-mg-10-mg-research-grade-ghrh-analog-usa/)** | Related research peptide product |
+| **[Sermorelin 10 Mg Molecular Research Pept](/products/sermorelin-10-mg-molecular-research-peptides/)** | Related research peptide product |
+| **[Sermorelin 5 Mg 10 Mg Research Grade Ghr](/products/sermorelin-5-mg-10-mg-research-grade-ghrh-analog-peptide-usa/)** | Related research peptide product |
 | **[Why Muscle Growth Peptide Research Is Expanding](/blog/why-muscle-growth-peptide-research-is-expanding/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

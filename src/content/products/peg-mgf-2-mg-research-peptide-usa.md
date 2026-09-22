@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Mgf 2 Mg Research Peptide Usa](/mgf-2-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Peg Mgf 2 Mg Research Peptide Usa](/peg-mgf-2-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Mgf 2 Mg Research Peptide Usa](/products/mgf-2-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Peg Mgf 2 Mg Research Peptide Usa](/products/peg-mgf-2-mg-research-peptide-usa/)** | Related research peptide product |
 | **[Why Muscle Growth Peptide Research Is Expanding](/blog/why-muscle-growth-peptide-research-is-expanding/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

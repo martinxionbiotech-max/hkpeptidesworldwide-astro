@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Oxytocin Acetate 2 Mg Research Peptide U](/oxytocin-acetate-2-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Oxytocin Acetate 5 Mg Research Peptide U](/oxytocin-acetate-5-mg-research-peptide-uas/)** | Related research peptide product |
+| **[Oxytocin Acetate 2 Mg Research Peptide U](/products/oxytocin-acetate-2-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Oxytocin Acetate 5 Mg Research Peptide U](/products/oxytocin-acetate-5-mg-research-peptide-uas/)** | Related research peptide product |
 | **[Understanding Safety Discussions Around Peptides](/blog/understanding-safety-discussions-around-peptides/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

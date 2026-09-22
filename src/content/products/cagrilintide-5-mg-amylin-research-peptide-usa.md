@@ -135,8 +135,8 @@ Strategic amino acid substitutions confer enhanced metabolic stability and reduc
 | Resource | Description |
 |---|---|
 | **[Glp 1 Metabolic Peptides Hub](/pillars/glp-1-metabolic-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Cagrilintide 10 Mg Amylin Analog Researc](/cagrilintide-10-mg-amylin-analog-research-peptide-usa/)** | Related research peptide product |
-| **[Cagrilintide 5 Mg Amylin Research Peptid](/cagrilintide-5-mg-amylin-research-peptide-usa/)** | Related research peptide product |
+| **[Cagrilintide 10 Mg Amylin Analog Researc](/products/cagrilintide-10-mg-amylin-analog-research-peptide-usa/)** | Related research peptide product |
+| **[Cagrilintide 5 Mg Amylin Research Peptid](/products/cagrilintide-5-mg-amylin-research-peptide-usa/)** | Related research peptide product |
 | **[Glp 1 Peptides Metabolic Research](/blog/glp-1-peptides-metabolic-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

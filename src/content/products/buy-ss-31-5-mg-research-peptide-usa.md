@@ -249,8 +249,8 @@ Yes, SS-31 has been extensively characterized in preclinical in vivo models and 
 | Resource | Description |
 |---|---|
 | **[Glp 1 Metabolic Peptides Hub](/pillars/glp-1-metabolic-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Buy Ss 31 5 Mg Research Peptide Usa](/buy-ss-31-5-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Ss 31 10 Mg Precision Mitochondrial Rese](/ss-31-10-mg-precision-mitochondrial-research-peptide-usa/)** | Related research peptide product |
+| **[Buy Ss 31 5 Mg Research Peptide Usa](/products/buy-ss-31-5-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Ss 31 10 Mg Precision Mitochondrial Rese](/products/ss-31-10-mg-precision-mitochondrial-research-peptide-usa/)** | Related research peptide product |
 | **[Glp 1 Peptides Metabolic Research](/blog/glp-1-peptides-metabolic-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

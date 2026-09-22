@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Glp 1 Metabolic Peptides Hub](/pillars/glp-1-metabolic-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Mots C 10 Mg Mitochondrial Peptide Suppl](/mots-c-10-mg-mitochondrial-peptide-supply-usa/)** | Related research peptide product |
-| **[Mots C 20 Mg Mitochondrial Peptide Resea](/mots-c-20-mg-mitochondrial-peptide-research-usa/)** | Related research peptide product |
+| **[Mots C 10 Mg Mitochondrial Peptide Suppl](/products/mots-c-10-mg-mitochondrial-peptide-supply-usa/)** | Related research peptide product |
+| **[Mots C 20 Mg Mitochondrial Peptide Resea](/products/mots-c-20-mg-mitochondrial-peptide-research-usa/)** | Related research peptide product |
 | **[Glp 1 Peptides Metabolic Research](/blog/glp-1-peptides-metabolic-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

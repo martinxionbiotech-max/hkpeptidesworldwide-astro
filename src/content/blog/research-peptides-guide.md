@@ -90,7 +90,7 @@ Researchers must understand the important distinction between **research-grade p
 | Cost | Lower | 5-20× higher |
 | Availability | Broad catalog, custom synthesis | Limited catalog, highly controlled |
 
-HKPEPTIDE WORLDWIDE provides research-grade peptides intended exclusively for laboratory and scientific research applications. For more on the regulatory framework, see our article on [peptide research protocols and compliance](/why-peptide-research-protocols-matter-in-2026/).
+HKPEPTIDE WORLDWIDE provides research-grade peptides intended exclusively for laboratory and scientific research applications. For more on the regulatory framework, see our article on [peptide research protocols and compliance](/blog/why-peptide-research-protocols-matter-in-2026/).
 
 ---
 
@@ -106,7 +106,7 @@ The most visible area of peptide research in the public consciousness — and on
 - Ghrelin pathway modulation for appetite signaling research
 - PYY and oxyntomodulin-related peptide research
 
-A 2023 bibliometric analysis (*Diabetes, Obesity and Metabolism*, PMID: 36891742) identified over 12,000 publications involving GLP-1 receptor research between 2018 and 2023, underscoring the extraordinary scientific investment in this area. Our [peptides in weight loss research](/peptides-in-skincare-and-weight-loss-research/) article explores this domain in greater detail.
+A 2023 bibliometric analysis (*Diabetes, Obesity and Metabolism*, PMID: 36891742) identified over 12,000 publications involving GLP-1 receptor research between 2018 and 2023, underscoring the extraordinary scientific investment in this area. Our [peptides in weight loss research](/blog/peptides-in-skincare-and-weight-loss-research/) article explores this domain in greater detail.
 
 ### 2. Tissue Biology and Regenerative Research
 
@@ -190,7 +190,7 @@ A Certificate of Analysis (COA) is the primary documentation of peptide quality.
 - Purity percentage with analytical method specified
 - Storage and handling recommendations
 
-For an in-depth treatment of COA interpretation and quality verification, see our dedicated article on [COA tested peptides and analytical verification](/coa-tested-peptides/).
+For an in-depth treatment of COA interpretation and quality verification, see our dedicated article on [COA tested peptides and analytical verification](/blog/coa-tested-peptides/).
 
 ---
 
@@ -215,7 +215,7 @@ Lyophilized peptides should be shipped in sealed, desiccated containers. Cold-ch
 **5. Customer Support and Technical Expertise**
 Responsive, scientifically knowledgeable customer service is a hallmark of a professional supplier. The ability to answer technical questions about peptide handling, solubility, and stability distinguishes research-focused suppliers from commodity vendors.
 
-For additional guidance, see our article on [identifying transparent and trustworthy peptide suppliers](/understanding-safety-discussions-around-peptides/).
+For additional guidance, see our article on [identifying transparent and trustworthy peptide suppliers](/blog/understanding-safety-discussions-around-peptides/).
 
 ---
 
@@ -288,7 +288,7 @@ UHPLC, high-resolution mass spectrometry (Orbitrap, Q-TOF), ion mobility spectro
 4. Verify complete dissolution; sonication (brief, in a water bath) can assist with poorly soluble peptides.
 5. Aliquot immediately and freeze at appropriate temperature.
 
-For comprehensive storage guidance, refer to our [peptide research protocols article](/why-peptide-research-protocols-matter-in-2026/).
+For comprehensive storage guidance, refer to our [peptide research protocols article](/blog/why-peptide-research-protocols-matter-in-2026/).
 
 ---
 

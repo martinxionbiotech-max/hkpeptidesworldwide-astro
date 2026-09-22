@@ -271,12 +271,12 @@ HKPEPTIDE WORLDWIDE reserves the right to request documentation verifying resear
 
 ## 12. Internal Links
 
-- [GHK-Cu 100 mg – Extended ECM Research Protocols](/ghk-cu-100-mg-copper-peptide-research-compound-usa/)
-- [MOTS-c Research Peptides – Mitochondrial-Derived Peptides](/mots-c-10-mg-mitochondrial-peptide-supply-usa/)
-- [SS-31 Research Peptides – Mitochondrial-Targeted Tetrapeptides](/buy-ss-31-5-mg-research-peptide-usa/)
-- [All Research Peptides – Full Catalog](/category/research-peptides/)
-- [Quality Control Standards](/quality-control/)
-- [Shipping & Handling Information](/shipping/)
+- [GHK-Cu 100 mg – Extended ECM Research Protocols](/products/ghk-cu-100-mg-copper-peptide-research-compound-usa/)
+- [MOTS-c Research Peptides – Mitochondrial-Derived Peptides](/products/mots-c-10-mg-mitochondrial-peptide-supply-usa/)
+- [SS-31 Research Peptides – Mitochondrial-Targeted Tetrapeptides](/products/buy-ss-31-5-mg-research-peptide-usa/)
+- [All Research Peptides – Full Catalog](/pillars/complete-guide-research-peptides/)
+- [Quality Control Standards](/quality-and-testing/)
+- [Shipping & Handling Information](/how-to-buy/)
 
 
 ## Related Research & Resources
@@ -284,8 +284,8 @@ HKPEPTIDE WORLDWIDE reserves the right to request documentation verifying resear
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Ghk Cu 100 Mg Copper Peptide Research Co](/ghk-cu-100-mg-copper-peptide-research-compound-usa/)** | Related research peptide product |
-| **[Ghk Cu 50 Mg Copper Peptide Research Usa](/ghk-cu-50-mg-copper-peptide-research-usa/)** | Related research peptide product |
+| **[Ghk Cu 100 Mg Copper Peptide Research Co](/products/ghk-cu-100-mg-copper-peptide-research-compound-usa/)** | Related research peptide product |
+| **[Ghk Cu 50 Mg Copper Peptide Research Usa](/products/ghk-cu-50-mg-copper-peptide-research-usa/)** | Related research peptide product |
 | **[Ghk Cu Skin Care Hair Growth Research Peptide](/blog/ghk-cu-skin-care-hair-growth-research-peptide/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

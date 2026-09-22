@@ -130,8 +130,8 @@ CJC-1295 (no DAC) for pulsatile protocols: CJC provides GHRH signal, GHRP-2 supp
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Ghrp 2 Acetate 5 Mg Research Peptide Usa](/ghrp-2-acetate-5-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Aicar 5 Mg Research Compound Usa](/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
+| **[Ghrp 2 Acetate 5 Mg Research Peptide Usa](/products/ghrp-2-acetate-5-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Aicar 5 Mg Research Compound Usa](/products/aicar-5-mg-research-compound-usa/)** | Related research peptide product |
 | **[Why Muscle Growth Peptide Research Is Expanding](/blog/why-muscle-growth-peptide-research-is-expanding/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

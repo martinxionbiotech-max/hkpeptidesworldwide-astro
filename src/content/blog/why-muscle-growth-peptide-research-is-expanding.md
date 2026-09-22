@@ -67,7 +67,7 @@ Against this background, the scientific imperative to understand muscle growth, 
 
 Peptides are uniquely positioned to contribute to muscle research because they can target the specific signaling pathways that regulate muscle mass. Unlike genetic approaches that produce permanent alterations, peptide-based tools offer temporal control, dose-response characterization, and the ability to study pathway dynamics under controlled conditions. The endogenous peptide signaling systems that regulate muscle biology—including the growth hormone/IGF-1 axis, myostatin/activin pathways, and local growth factor networks—provide natural templates for peptide-based research tool development.
 
-For a broader context on the expanding role of peptide tools across muscle research applications, see our companion article on [top peptide compounds for muscle development and recovery research](/the-growing-interest-in-peptides-for-muscle-research/).
+For a broader context on the expanding role of peptide tools across muscle research applications, see our companion article on [top peptide compounds for muscle development and recovery research](/blog/the-growing-interest-in-peptides-for-muscle-research/).
 
 ## Key Peptide Signaling Systems in Muscle Biology
 
@@ -176,7 +176,7 @@ AI tools are increasingly applied to muscle peptide research:
 
 The rapid expansion of muscle peptide research has heightened awareness of quality control. A 2024 analysis published in *eLife* found that among commercially available research peptides tested by an independent laboratory, approximately 15% failed to meet their labeled purity specifications, and 8% contained incorrect peptide sequences entirely. These findings underscore the critical importance of verified, COA-supported research materials.
 
-Our [comprehensive guide to COA-tested peptides](/coa-tested-peptides/) details the quality verification standards that researchers should expect, including:
+Our [comprehensive guide to COA-tested peptides](/blog/coa-tested-peptides/) details the quality verification standards that researchers should expect, including:
 
 - HPLC purity analysis (≥98% standard for research grade)
 - Mass spectrometry identity confirmation
@@ -187,7 +187,7 @@ Our [comprehensive guide to COA-tested peptides](/coa-tested-peptides/) details 
 
 ### Standardization of Research Protocols
 
-The muscle peptide research literature exhibits substantial methodological heterogeneity that complicates cross-study comparisons. As explored in our article on [research protocol standardization](/why-standardization-is-a-major-topic-in-2026/), key variables that should be standardized include:
+The muscle peptide research literature exhibits substantial methodological heterogeneity that complicates cross-study comparisons. As explored in our article on [research protocol standardization](/blog/why-standardization-is-a-major-topic-in-2026/), key variables that should be standardized include:
 
 - **Dosing regimens**: Peptide dose, frequency, route of administration, and duration should be explicitly justified and consistently reported.
 - **Outcome measures**: Standardized functional assessments (e.g., grip strength, rotarod, treadmill performance) should complement histological and biochemical endpoints.
@@ -204,7 +204,7 @@ All peptides discussed in this article are research chemicals intended exclusive
 - **Documentation**: Complete records of peptide source, lot number, COA documentation, reconstitution date, storage conditions, and experimental use should be maintained.
 - **Research-only designation**: These compounds are not approved by the FDA, EMA, or other regulatory bodies for human use and should not be employed outside authorized laboratory research contexts.
 
-For a broader discussion of safety-related topics in peptide research, see our [overview of safety discussions around peptides](/understanding-safety-discussions-around-peptides/).
+For a broader discussion of safety-related topics in peptide research, see our [overview of safety discussions around peptides](/blog/understanding-safety-discussions-around-peptides/).
 
 ## The Global Research Landscape
 
@@ -235,7 +235,7 @@ The next phase of muscle peptide research will likely be defined by:
 - **Translation to muscle preservation**: Research findings will increasingly be applied to clinical problems including sarcopenia, cachexia, critical illness myopathy, and disuse atrophy.
 - **AI-integrated experimental design**: Machine learning will guide the design of experiments by predicting which peptide combinations, doses, and timing protocols are most likely to produce informative results.
 
-For further exploration of muscle-related peptide research, see our companion article on [top peptide compounds for muscle development and recovery](/the-growing-interest-in-peptides-for-muscle-research/) and our [complete HGH peptides research guide](/hgh-peptides-online/).
+For further exploration of muscle-related peptide research, see our companion article on [top peptide compounds for muscle development and recovery](/blog/the-growing-interest-in-peptides-for-muscle-research/) and our [complete HGH peptides research guide](/blog/hgh-peptides-online/).
 
 ---
 
@@ -267,7 +267,7 @@ We collaborate with academic institutions, contract research organizations, and 
 ## Explore Related Resources
 
 ### Pillar Resource
-- [Complete Research Peptides Guide — Pillar Resource](/research-peptides-guide/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
+- [Complete Research Peptides Guide — Pillar Resource](/blog/research-peptides-guide/) — Comprehensive reference for peptide research standards, quality verification, and best practices.
 
 ### Related Research Products
 - [Bpc 157 5 Mg Body Protection Research Peptide Usa](/products/bpc-157-5-mg-body-protection-research-peptide-usa/) — Research-grade peptide for laboratory investigation.
@@ -275,9 +275,9 @@ We collaborate with academic institutions, contract research organizations, and 
 - [Cjc 1295 Without Dac 5 Mg Research Peptide Usa](/products/cjc-1295-without-dac-5-mg-research-peptide-usa/) — Research-grade peptide for laboratory investigation.
 
 ### Further Reading
-- [Complete Guide to Research Peptides](/research-peptides-guide/) — In-depth analysis of related peptide research topics.
-- [COA Tested Peptides Guide](/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
-- [Peptide Safety Discussions](/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
+- [Complete Guide to Research Peptides](/blog/research-peptides-guide/) — In-depth analysis of related peptide research topics.
+- [COA Tested Peptides Guide](/blog/coa-tested-peptides/) — In-depth analysis of related peptide research topics.
+- [Peptide Safety Discussions](/blog/understanding-safety-discussions-around-peptides/) — In-depth analysis of related peptide research topics.
 
 ---
 

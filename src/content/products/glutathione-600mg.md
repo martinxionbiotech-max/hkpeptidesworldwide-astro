@@ -120,8 +120,8 @@ NAC is a precursor converted to GSH through rate-limited biosynthesis. GSH is th
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Glutathione 1500 Mg Research Compound Us](/glutathione-1500-mg-research-compound-usa/)** | Related research peptide product |
-| **[Glutathione 600Mg](/glutathione-600mg/)** | Related research peptide product |
+| **[Glutathione 1500 Mg Research Compound Us](/products/glutathione-1500-mg-research-compound-usa/)** | Related research peptide product |
+| **[Glutathione 600Mg](/products/glutathione-600mg/)** | Related research peptide product |
 | **[Peptides In Skincare And Weight Loss Research](/blog/peptides-in-skincare-and-weight-loss-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

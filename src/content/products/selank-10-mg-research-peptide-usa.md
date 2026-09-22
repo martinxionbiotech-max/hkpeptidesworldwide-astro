@@ -83,8 +83,8 @@ These verification steps ensure experimental reproducibility and data integrity 
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Selank 10 Mg Research Peptide Usa](/selank-10-mg-research-peptide-usa/)** | Related research peptide product |
-| **[Selank 5 Mg 10 Mg Research Grade Tuftsin](/selank-5-mg-10-mg-research-grade-tuftsin-analog-usa/)** | Related research peptide product |
+| **[Selank 10 Mg Research Peptide Usa](/products/selank-10-mg-research-peptide-usa/)** | Related research peptide product |
+| **[Selank 5 Mg 10 Mg Research Grade Tuftsin](/products/selank-5-mg-10-mg-research-grade-tuftsin-analog-peptide-usa/)** | Related research peptide product |
 | **[Understanding Safety Discussions Around Peptides](/blog/understanding-safety-discussions-around-peptides/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

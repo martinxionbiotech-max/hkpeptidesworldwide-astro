@@ -130,8 +130,8 @@ Unified COA: individual HPLC purities, individual ESI-MS identities, combined ki
 | Resource | Description |
 |---|---|
 | **[Healing Regenerative Peptides Hub](/pillars/healing-regenerative-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Cjc 1295 With Dac 10 Mgin Vitro Research](/cjc-1295-with-dac-10-mgin-vitro-research-peptide/)** | Related research peptide product |
-| **[Cjc 1295 With Dac 2 Mg Laboratory Resear](/cjc-1295-with-dac-2-mg-laboratory-research-peptide-usa/)** | Related research peptide product |
+| **[Cjc 1295 With Dac 10 Mgin Vitro Research](/products/cjc-1295-with-dac-10-mgin-vitro-research-peptide/)** | Related research peptide product |
+| **[Cjc 1295 With Dac 2 Mg Laboratory Resear](/products/cjc-1295-with-dac-2-mg-laboratory-research-peptide-usa/)** | Related research peptide product |
 | **[Why Muscle Growth Peptide Research Is Expanding](/blog/why-muscle-growth-peptide-research-is-expanding/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)

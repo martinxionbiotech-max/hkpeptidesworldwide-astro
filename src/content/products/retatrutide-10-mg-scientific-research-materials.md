@@ -298,8 +298,8 @@ Researchers should consult PubMed, Google Scholar, and institutional library dat
 | Resource | Description |
 |---|---|
 | **[Glp 1 Metabolic Peptides Hub](/pillars/glp-1-metabolic-peptides-hub/)** | Complete research overview & methodology hub |
-| **[Retatrutide 10 Mg Scientific Research Ma](/retatrutide-10-mg-scientific-research-materials/)** | Related research peptide product |
-| **[Retatrutide 15 Mg Laboratory Peptide Sup](/retatrutide-15-mg-laboratory-peptide-supply/)** | Related research peptide product |
+| **[Retatrutide 10 Mg Scientific Research Ma](/products/retatrutide-10-mg-scientific-research-materials/)** | Related research peptide product |
+| **[Retatrutide 15 Mg Laboratory Peptide Sup](/products/retatrutide-15-mg-laboratory-peptide-supply/)** | Related research peptide product |
 | **[Glp 1 Peptides Metabolic Research](/blog/glp-1-peptides-metabolic-research/)** | Latest research insights & methodology |
 
 [View Complete Research Guide »](/blog/research-peptides-guide/)
