@@ -8,3 +8,15 @@
   Cache-Control: public, max-age=31536000, immutable
 /images/*
   Cache-Control: public, max-age=604800
+
+# AI readiness
+/*
+  Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+/markdown/*
+  Content-Type: text/markdown; charset=utf-8
+  Cache-Control: public, max-age=0, must-revalidate
+
+/llms-full.txt
+  Content-Type: text/markdown; charset=utf-8
+  Cache-Control: public, max-age=0, must-revalidate

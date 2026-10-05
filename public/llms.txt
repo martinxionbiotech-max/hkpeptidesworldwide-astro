@@ -9,8 +9,22 @@
 - [About Us](https://hkpeptides.net/about/)
 - [Contact](https://hkpeptides.net/contact/)
 
+## Markdown mirrors (for AI crawlers)
+
+Every page is also available as clean Markdown, generated at build time:
+
+- Full corpus (all pages): [llms-full.txt](https://hkpeptides.net/llms-full.txt)
+- Mirror index: [markdown/index.md](https://hkpeptides.net/markdown/index.md)
+- Pattern: `https://hkpeptides.net/markdown/{path}.md`
+
 ## Research Pillars
 - [Complete Guide to Research Peptides](https://hkpeptides.net/pillars/complete-guide-research-peptides/)
 - [GLP-1 Metabolic Peptides Hub](https://hkpeptides.net/pillars/glp-1-metabolic-peptides-hub/)
 - [Healing & Regenerative Peptides Hub](https://hkpeptides.net/pillars/healing-regenerative-peptides-hub/)
 - [Peptide Quality Verification Hub](https://hkpeptides.net/pillars/peptide-quality-verification-hub/)
+
+## Technical Documentation (docs.hkpeptides.net)
+
+- [Docs Home](https://docs.hkpeptides.net/): product specifications, quality control, regulatory guidance.
+- [Product Specifications](https://docs.hkpeptides.net/specs/): 40+ research peptides, CAS numbers, purity standards.
+- [Docs llms.txt](https://docs.hkpeptides.net/llms.txt)
