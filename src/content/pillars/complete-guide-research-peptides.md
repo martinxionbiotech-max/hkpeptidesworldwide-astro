@@ -476,7 +476,7 @@ First, verify your reconstitution and handling procedures — improper storage, 
 | GHRP-6 | 5mg, 10mg | [/products/ghrp-6-acetate-5-mg-peptide-research-compound-usa.md](../products/ghrp-6-acetate-5-mg-peptide-research-compound-usa.md) |
 | Sermorelin | 5mg, 10mg | [/products/sermorelin-5-mg-biochemical-research-peptide.md](../products/sermorelin-5-mg-biochemical-research-peptide.md) |
 | Tesamorelin | 5mg | [/products/tesamorelin-5-mg-research-peptide.md](../products/tesamorelin-5-mg-research-peptide.md) |
-| IGF-1 | 0.1mg, 1mg | [/products/igf-1-0-1-mg-research-peptide-usa.md](../products/igf-1-0-1-mg-research-peptide-usa.md) |
+| IGF-1 | 0.1mg, 1mg | [/products/igf-1-research-grade-insulin-like-growth-factor-peptide-usa.md](../products/igf-1-research-grade-insulin-like-growth-factor-peptide-usa.md) |
 | HGH | 10mg, 15mg, 30mg, 40mg | [/products/hgh-10-mg-recombinant-hormone-research-usa.md](../products/hgh-10-mg-recombinant-hormone-research-usa.md) |
 
 ### Product Categories — Cosmetic/Copper

@@ -575,7 +575,6 @@ Optimal storage depends on format. Lyophilized (freeze-dried) peptides: Store at
 | High Quality Research Peptides Available Across the UK | UK market and sourcing | [/blog/high-quality-research-peptides-available-across-the-uk.md](../blog/high-quality-research-peptides-available-across-the-uk.md) |
 | Where Can I Find Peptide MOT Testing Services Near Me in the UK | UK analytical testing services | [/blog/where-can-i-find-peptide-mot-testing-services-near-me-in-the-uk.md](../blog/where-can-i-find-peptide-mot-testing-services-near-me-in-the-uk.md) |
 | High Quality Peptides Online North America Europe | International sourcing guide | [/blog/high-quality-peptides-online-north-america-europe.md](../blog/high-quality-peptides-online-north-america-europe.md) |
-| High Quality Peptides Online North America Europe (2) | International sourcing continued | [/blog/high-quality-peptides-online-north-america-europe-2.md](../blog/high-quality-peptides-online-north-america-europe-2.md) |
 
 ### Product Categories Referenced for Quality Specifications
 

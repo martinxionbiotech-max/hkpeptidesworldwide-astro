@@ -41,8 +41,8 @@
 /hgh-peptides-online/ /blog/hgh-peptides-online/ 301
 /high-purity-tirzepatide-50mg/ /products/high-purity-tirzepatide-50mg/ 301
 /how-advanced-research-is-reshaping-scientific-discovery/ /blog/how-advanced-research-is-reshaping-scientific-discovery/ 301
-/igf-1-0-1-mg-1-mg-research-grade-insulin-like-growth-factor-usa/ /products/igf-1-0-1-mg-research-peptide-usa/ 301
-/igf-1-0-1-mg-research-peptide-usa/ /products/igf-1-0-1-mg-research-peptide-usa/ 301
+/igf-1-0-1-mg-1-mg-research-grade-insulin-like-growth-factor-usa/ /products/igf-1-research-grade-insulin-like-growth-factor-peptide-usa/ 301
+/igf-1-0-1-mg-research-peptide-usa/ /products/igf-1-1-mg-research-peptide-usa/ 301
 /institutional-ordering/ /how-to-buy/ 301
 /kisspeptin-10-5-mg-metastin-research-peptide-usa/ /products/kisspeptin-10-5-mg-metastin-research-peptide-usa/ 301
 /kpv-10-mg-anti-inflammatory-research-peptide-usa/ /products/kpv-10-mg-anti-inflammatory-research-peptide-usa/ 301
@@ -97,3 +97,10 @@
 /why-peptide-research-protocols-matter-in-2026/ /blog/why-peptide-research-protocols-matter-in-2026/ 301
 /why-peptide-supplier-reputation-matters/ /blog/why-peptide-supplier-reputation-matters/ 301
 /why-standardization-is-a-major-topic-in-2026/ /blog/why-standardization-is-a-major-topic-in-2026/ 301
+
+# Dedup fixes 2026-10-06
+/products/igf-1-0-1-mg-research-peptide-usa/ /products/igf-1-1-mg-research-peptide-usa/ 301
+/blog/high-quality-peptides-online-north-america-europe-2/ /blog/high-quality-peptides-online-north-america-europe/ 301
+/products/tirzepatide-15mg-high-puriy-research-peptide/ /products/tirzepatide-15mg-high-purity-research-peptide/ 301
+/high-quality-peptides-online-north-america-europe-2/ /blog/high-quality-peptides-online-north-america-europe/ 301
+/tirzepatide-15mg-high-puriy-research-peptide/ /products/tirzepatide-15mg-high-purity-research-peptide/ 301
