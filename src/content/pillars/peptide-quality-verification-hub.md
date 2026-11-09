@@ -99,7 +99,6 @@ breadcrumb:
       "item": "https://hkpeptides.net/pillars/peptide-quality-verification-hub/"
 ---
 
-# Peptide Quality Verification Hub — COA, HPLC, Analytical Standards & Sourcing Guide (2026)
 
 **Document ID:** HKPW-PILLAR-2026-003 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team — Dr. A. Chen, PhD (Biochemistry); Dr. J. Lindström, PhD (Analytical Chemistry); Dr. R. Nakamura, PhD (Quality Systems) | **Last Updated:** 2026-08-08
 

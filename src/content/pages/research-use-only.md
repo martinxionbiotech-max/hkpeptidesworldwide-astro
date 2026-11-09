@@ -3,7 +3,6 @@ title: "Research Use Only (RUO) Statement"
 description: "All products sold by HK Peptides Worldwide LLC are chemical materials for laboratory research use only — not for human or veterinary use, diagnosis or."
 ---
 
-# Research Use Only (RUO) Statement
 
 > **All products sold by HK Peptides Worldwide LLC are chemical materials for laboratory research use only.** They are not medicines, supplements, cosmetics or food, and they are not intended for use in humans or animals in any form. By purchasing, you confirm that you are acquiring them solely for lawful laboratory research.
 

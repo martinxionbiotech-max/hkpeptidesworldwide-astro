@@ -3,7 +3,6 @@ title: "Payment"
 description: "How to pay for an order with HK Peptides Worldwide: invoice-based payment, accepted methods, payment verification and confirming correct payment details."
 ---
 
-# Payment
 
 Orders are **invoice-based**: once your order is confirmed, your sales representative issues an invoice with the amount due and the payment details for that order. Nothing is shipped until payment is verified.
 

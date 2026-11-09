@@ -3,7 +3,6 @@ title: "Terms & Conditions"
 description: "Terms of sale for research chemicals from HK Peptides Worldwide LLC: quotations, orders, payment, shipping, inspection, returns, warranty and governing law."
 ---
 
-# Terms & Conditions
 
 These terms apply to quotations, invoices and the supply of research chemicals by **HK Peptides Worldwide LLC** ("we", "us") to business customers, institutions and qualified individual researchers. They apply unless we have agreed otherwise in writing. Where a separate written agreement has been signed, that agreement prevails.
 

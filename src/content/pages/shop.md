@@ -6,7 +6,6 @@ date: 2025-11-12
 source: https://hkpeptides.net/shop/
 ---
 
-# Research Peptide Products
 
 [View All Products →](/products/)
 

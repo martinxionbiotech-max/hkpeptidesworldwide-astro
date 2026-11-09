@@ -102,7 +102,6 @@ breadcrumb:
       "item": "https://hkpeptides.net/pillars/complete-guide-research-peptides/"
 ---
 
-# Complete Guide to Research Peptides — Classification, Mechanisms & Laboratory Applications (2026)
 
 **Document ID:** HKPW-PILLAR-2026-001 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team — Dr. A. Chen, PhD (Biochemistry); Dr. M. Kowalski, PhD (Pharmacology) | **Last Updated:** 2026-08-08
 

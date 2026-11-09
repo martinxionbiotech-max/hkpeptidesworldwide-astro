@@ -3,7 +3,6 @@ title: "Disclaimer"
 description: "No medical or professional advice, no claims of human or animal safety or efficacy, and no warranty for the research information published on hkpeptides.net."
 ---
 
-# Disclaimer
 
 > Nothing on this website is medical, veterinary or professional advice, and nothing here is a claim that any product is safe or effective for use in humans or animals. All products are research chemicals for laboratory use only — see our [Research Use Only Statement](/research-use-only/).
 

@@ -3,7 +3,6 @@ title: "Privacy Policy"
 description: "How HK Peptides Worldwide LLC collects, uses, shares and protects personal information submitted through hkpeptides.net, and the rights you have over it."
 ---
 
-# Privacy Policy
 
 This policy explains how **HK Peptides Worldwide LLC** ("we", "us") handles personal information collected through **hkpeptides.net** and through our email and WhatsApp business communication. We keep this policy deliberately short, because we collect very little.
 

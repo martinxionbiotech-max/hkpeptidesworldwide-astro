@@ -3,7 +3,6 @@ title: "Compliance & Buyer Eligibility"
 description: "Who may buy from HK Peptides Worldwide, buyer representations, regulatory considerations for research chemicals, destination restrictions and misuse handling."
 ---
 
-# Compliance & Buyer Eligibility
 
 > We supply research chemicals to **businesses, institutions, laboratories and qualified researchers** for lawful laboratory research. Individual buyers must be at least **21 years old**. By ordering, you confirm that your purchase and the product's use are lawful in your jurisdiction.
 

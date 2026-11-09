@@ -3,7 +3,6 @@ title: "Refund and Returns Policy"
 description: "Refund and returns policy for HK Peptides Worldwide research chemicals: the 30-day claim window, eligibility, non-returnable material and how to claim."
 ---
 
-# Refund and Returns Policy
 
 Research chemicals are sensitive materials, so our returns policy is built around what can genuinely be verified. This policy applies to orders of research materials supplied by **HK Peptides Worldwide LLC**.
 

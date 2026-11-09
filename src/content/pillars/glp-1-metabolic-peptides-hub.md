@@ -110,7 +110,6 @@ breadcrumb:
       "item": "https://hkpeptides.net/pillars/glp-1-metabolic-peptides-hub/"
 ---
 
-# GLP-1 & Metabolic Peptides Research Hub — Mechanisms, Comparisons & Complete Cluster Resource (2026)
 
 **Document ID:** HKPW-PILLAR-2026-002 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team — Dr. A. Chen, PhD (Biochemistry); Dr. M. Kowalski, PhD (Pharmacology); Dr. S. Patel, PhD (Metabolic Biology) | **Last Updated:** 2026-08-08
 

@@ -20,7 +20,6 @@ jsonLd:
     "@type": "BreadcrumbList"
 ---
 
-# Healing & Regenerative Peptides Research Hub
 
 **Document ID:** HKPW-PILLAR-HEALING-v1.0 | **Reviewed by:** HKPEPTIDE WORLDWIDE Research Team | **Updated:** 2026-08-08
 
@@ -145,14 +144,14 @@ Include: peptide source + CAS + lot number, HPLC purity data, reconstitution con
 ## 7. Cluster Resource Grid
 
 ### Products
-- [BPC-157 5mg](https://hkpeptides.net/bpc-157-5-mg-body-protection-research-peptide-usa/)
-- [TB-500 5mg](https://hkpeptides.net/tb-500-5-mg-thymosin-beta-research-peptide-usa/)
-- [BPC/TB 10mg Blend](https://hkpeptides.net/bpc-157-tb-500-10-mg-research-peptide-combination-usa/)
-- [BPC/TB 20mg Blend](https://hkpeptides.net/bpc-157-tb-500-20-mg-research-peptide-usa/)
-- [GHK-Cu 50mg](https://hkpeptides.net/ghk-cu-50-mg-copper-peptide-research-usa/)
-- [GHK-Cu 100mg](https://hkpeptides.net/ghk-cu-100-mg-copper-peptide-research-compound-usa/)
-- [KPV 10mg](https://hkpeptides.net/kpv-10-mg-laboratory-grade-compounds/)
-- [LL-37 5mg](https://hkpeptides.net/ll-37-5-mg-research-peptide-usa/)
+- [BPC-157 5mg](https://hkpeptides.net/products/bpc-157-5-mg-body-protection-research-peptide-usa/)
+- [TB-500 5mg](https://hkpeptides.net/products/tb-500-5-mg-thymosin-beta-research-peptide-usa/)
+- [BPC/TB 10mg Blend](https://hkpeptides.net/products/bpc-157-tb-500-10-mg-research-peptide-combination-usa/)
+- [BPC/TB 20mg Blend](https://hkpeptides.net/products/bpc-157-tb-500-20-mg-research-peptide-usa/)
+- [GHK-Cu 50mg](https://hkpeptides.net/products/ghk-cu-50-mg-copper-peptide-research-usa/)
+- [GHK-Cu 100mg](https://hkpeptides.net/products/ghk-cu-100-mg-copper-peptide-research-compound-usa/)
+- [KPV 10mg](https://hkpeptides.net/products/kpv-10-mg-laboratory-grade-compounds/)
+- [LL-37 5mg](https://hkpeptides.net/products/ll-37-5-mg-research-peptide-usa/)
 
 ### Blog Posts
 - [COA Tested Peptides](/blog/coa-tested-peptides/)

@@ -3,7 +3,6 @@ title: "Quality & Testing"
 description: "How HK Peptides Worldwide verifies research chemicals: HPLC purity, mass-spectrometry identity, batch-specific COA, storage conditions and what we do not claim."
 ---
 
-# Quality & Testing
 
 > Every order ships with a **batch-specific Certificate of Analysis (COA)**. This page explains what we test and — just as importantly — **what our documentation does not claim**. Our products are research chemicals: they are not medicines, and a COA is an analytical record, not a regulatory approval.
 

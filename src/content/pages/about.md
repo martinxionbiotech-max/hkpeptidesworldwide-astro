@@ -5,7 +5,6 @@ slug: about
 date: 2025-11-28
 ---
 
-# About HK Peptides
 
 HK Peptides Worldwide is proud to introduce our Manufacturer Direct Ship program, established in 2025 to expand our global footprint and strengthen our ability to serve customers with faster, more reliable, and more transparent delivery services. Our direct-from-manufacturer logistics bridge the gap between international manufacturing standards and the efficiency demanded by the global market.
 
